@@ -1,0 +1,19 @@
+ID: 101
+      Nombre: Luna
+      Raza: Labrador
+      Color: Negro
+      Tipo: CANINO
+
+
+Comparar Fechas
+Fecha de nacimiento: 20241010
+Fecha: 20241020
+Si es mayor
+
+Fecha: 20250407, ID: 1001, ID Veterinario: 204, Tipo: CONTROL, Estado: PROGRAMADA
+
+
+Compara Atenciones
+Atencion 1: Fecha: 20250407, ID: 1001, ID Veterinario: 204, Tipo: CONTROL, Estado: PROGRAMADA
+Atencion 2: Fecha: 20250408, ID: 1001, ID Veterinario: 204, Tipo: CONTROL, Estado: PROGRAMADA
+no son iguales

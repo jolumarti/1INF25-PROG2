@@ -1,0 +1,8 @@
+//
+// Created by jolumarti on 2026-09-01.
+//
+
+#ifndef PART1PRUEBA_FUNCIONES_HPP
+#define PART1PRUEBA_FUNCIONES_HPP
+
+#endif //PART1PRUEBA_FUNCIONES_HPP

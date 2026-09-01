@@ -1,0 +1,89 @@
+ID: 101
+      Nombre: Luna
+      Raza: Labrador
+      Color: Negro
+      Tipo: CANINO
+Compara Fechas
+Fecha de nacimiento: 20241010
+Fecha: 20241020
+Si es mayor
+ID: 102
+      Nombre: Michi
+      Raza: Siames
+      Color: Blanco
+      Tipo: FELINO
+ID: 103
+      Nombre: Rocky
+      Raza: Bulldog
+      Color: Marron
+      Tipo: CANINO
+ID: 104
+      Nombre: Nala
+      Raza: Persa
+      Color: Gris
+      Tipo: FELINO
+ID: 105
+      Nombre: Toby
+      Raza: Beagle
+      Color: Tricolor
+      Tipo: CANINO
+ID: 106
+      Nombre: Simba
+      Raza: Comun
+      Color: Naranja
+      Tipo: FELINO
+ID: 107
+      Nombre: Max
+      Raza: PastorAleman
+      Color: Negro
+      Tipo: CANINO
+ID: 108
+      Nombre: Kira
+      Raza: Siames
+      Color: Crema
+      Tipo: FELINO
+ID: 109
+      Nombre: Dali
+      Raza: Americano
+      Color: Blanco
+      Tipo: FELINO
+ID: 110
+      Nombre: LuisXV
+      Raza: Siberiano
+      Color: plomo
+      Tipo: FELINO
+ID: 111
+      Nombre: Terry
+      Raza: PastorAleman
+      Color: Caramelo
+      Tipo: CANINO
+ID: 112
+      Nombre: Goku
+      Raza: GoldenRetriever
+      Color: Marron
+      Tipo: CANINO
+ID: 113
+      Nombre: Deysi
+      Raza: Esquimal
+      Color: Blanco
+      Tipo: CANINO
+ID: 114
+      Nombre: Gigo
+      Raza: Poodle
+      Color: Blanco
+      Tipo: CANINO
+Fecha: 20250407, ID: 1001, ID Veterinario: 204, Tipo: CONTROL, Estado: PROGRAMADA
+Compara Atenciones
+Atencion 1: Fecha: 20250407, ID: 1001, ID Veterinario: 204, Tipo: CONTROL, Estado: PROGRAMADA
+Atencion 2: Fecha: 20250408, ID: 1001, ID Veterinario: 204, Tipo: CONTROL, Estado: PROGRAMADA
+no son iguales
+Fecha: 20260408, ID: 1002, ID Veterinario: 204, Tipo: VACUNACION, Estado: PROGRAMADA
+Fecha: 20251003, ID: 1003, ID Veterinario: 201, Tipo: VACUNACION, Estado: PROGRAMADA
+Fecha: 20260408, ID: 1004, ID Veterinario: 201, Tipo: CONTROL, Estado: REPROGRAMADA
+Fecha: 20260409, ID: 1005, ID Veterinario: 202, Tipo: CASTRACION, Estado: PROGRAMADA
+Fecha: 20260409, ID: 1006, ID Veterinario: 204, Tipo: VACUNACION, Estado: PROGRAMADA
+Fecha: 20260411, ID: 1007, ID Veterinario: 201, Tipo: CONTROL, Estado: PENDIENTE
+Fecha: 20260408, ID: 1008, ID Veterinario: 201, Tipo: CONTROL, Estado: PROGRAMADA
+Fecha: 20251220, ID: 1009, ID Veterinario: 207, Tipo: CONTROL, Estado: PROGRAMADA
+Fecha: 20260414, ID: 1010, ID Veterinario: 206, Tipo: VACUNACION, Estado: PENDIENTE
+Fecha: 20260415, ID: 1011, ID Veterinario: 205, Tipo: VACUNACION, Estado: PENDIENTE

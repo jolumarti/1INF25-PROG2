@@ -5,6 +5,7 @@
 #ifndef LAB1_2026_1_OVERLOADS_HPP
 #define LAB1_2026_1_OVERLOADS_HPP
 #include "SistemaHuellitas.hpp"
+
 bool operator>>(ifstream &input, struct Mascota &mascota);
 bool operator>>(ifstream &input, struct Veterinario &veterinario);
 bool operator>>(ifstream &input, struct Atencion &atencion);

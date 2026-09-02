@@ -87,3 +87,10 @@ Fecha: 20260408, ID: 1008, ID Veterinario: 201, Tipo: CONTROL, Estado: PROGRAMAD
 Fecha: 20251220, ID: 1009, ID Veterinario: 207, Tipo: CONTROL, Estado: PROGRAMADA
 Fecha: 20260414, ID: 1010, ID Veterinario: 206, Tipo: VACUNACION, Estado: PENDIENTE
 Fecha: 20260415, ID: 1011, ID Veterinario: 205, Tipo: VACUNACION, Estado: PENDIENTE
+Miguel Perez - MedicinaGeneral
+James Garcia - Cirugia
+Freddy Lopez - Dermatologia
+Abril Sanchez - Vacunacion
+Juan De Dios Pastor - Anestesia
+Naomi Sweet - Cirugia
+Valentina Grande - MedicinaGeneral

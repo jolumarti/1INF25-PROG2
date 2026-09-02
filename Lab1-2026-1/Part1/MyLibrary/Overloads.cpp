@@ -39,8 +39,7 @@ bool operator>>(ifstream &input, struct Veterinario &veterinario) {
     if (input.eof()) return false;
     input.get();
     veterinario.nombre = readLine(input, ',');
-    veterinario.especialidad = readLine(input, ',');
-    input.get();
+    veterinario.especialidad = readLine(input, '\n');
     return true;
 }
 

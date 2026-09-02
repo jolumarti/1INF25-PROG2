@@ -1,6 +1,10 @@
-#include <iostream>
+#include "Libraries/funciones.hpp"
 
 int main() {
-    std::cout << "Hello, World!" << std::endl;
-    return 0;
+    struct SistemaHuellitas sistema{};
+    readMascotas(sistema, "../Data/Mascotas.csv");
+    readVeterinarios(sistema, "../Data/Veterinarios.csv");
+    registerAtenciones(sistema, "../Data/Atenciones.csv");
+    listaMascotasAEsterilizar(sistema, "../Report/ListaMascotasAEsterilizar.txt");
+    imprimirMascotasConAtenciones(sistema, "../Report/MascotasConAtenciones.txt");
 }

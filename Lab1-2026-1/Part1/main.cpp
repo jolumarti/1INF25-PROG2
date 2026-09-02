@@ -61,5 +61,11 @@ int main() {
 
         }
     }
+    struct Veterinario veterinario;
+    while (true) {
+        if (veterinariosArch >> veterinario) {
+            reporteArch << veterinario.nombre << " - " << veterinario.especialidad << endl;
+        } else break;
+    }
 
 }

@@ -4,7 +4,6 @@
 
 #ifndef LAB1_2026_1_VETERINARIO_HPP
 #define LAB1_2026_1_VETERINARIO_HPP
-#include "Utils.hpp"
 //201,Miguel Perez,MedicinaGeneral
 struct Veterinario {
     int idVeterinario;

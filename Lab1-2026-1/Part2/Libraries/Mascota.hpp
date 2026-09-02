@@ -4,7 +4,6 @@
 
 #ifndef LAB1_2026_1_MASCOTA_HPP
 #define LAB1_2026_1_MASCOTA_HPP
-#include "Utils.hpp"
 //101,Luna,Labrador,Negro,CANINO,10/10/2024
 struct Mascota {
     int idMascota;

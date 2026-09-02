@@ -4,7 +4,6 @@
 
 #ifndef LAB1_2026_1_ATENCION_HPP
 #define LAB1_2026_1_ATENCION_HPP
-#include "Utils.hpp"
 //01,204,7/4/2025,CONTROL,11:00,PROGRAMADA
 struct Atencion {
     int idAtencion;

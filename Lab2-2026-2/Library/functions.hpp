@@ -4,5 +4,5 @@
 
 #ifndef LAB2_2026_2_FUNCTIONS_HPP
 #define LAB2_2026_2_FUNCTIONS_HPP
-
+#include "Utils.hpp"
 #endif //LAB2_2026_2_FUNCTIONS_HPP

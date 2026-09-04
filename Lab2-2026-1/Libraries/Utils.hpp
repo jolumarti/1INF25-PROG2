@@ -8,5 +8,6 @@
 #include <iomanip>
 #include <fstream>
 #include <cstring>
+#define MAX_BUFFER 100
 using namespace std;
 #endif //LAB2_2026_2_UTILS_HPP

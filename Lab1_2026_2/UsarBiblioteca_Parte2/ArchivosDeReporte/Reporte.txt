@@ -1,0 +1,4823 @@
+=======================================================
+***************** LISTADO DE ALMACENES ****************
+=======================================================
+Almacen:           ALM02
+Numero de Productos: 139
+=======================================================
+Detalle de productos:
+=======================================================
+Codigo del producto:         1
+Nombre del producto: Avena Pacifico Tipo 17
+StockTotal:               1409
+
+Stock en Paquetes: 
+Paquetes:                   56
+Unidades:                    9
+=======================================================
+Codigo del producto:         2
+Nombre del producto: Bebida Isotonica Costa Tipo 24
+StockTotal:                129
+
+Stock en Paquetes: 
+Paquetes:                    2
+Unidades:                   29
+=======================================================
+Codigo del producto:         4
+Nombre del producto: Alcohol Gel Valle Tipo 05
+StockTotal:               1683
+
+Stock en Paquetes: 
+Paquetes:                  168
+Unidades:                    3
+=======================================================
+Codigo del producto:         5
+Nombre del producto: Cereal Pacifico Tipo 01
+StockTotal:                233
+
+Stock en Paquetes: 
+Paquetes:                   11
+Unidades:                   13
+=======================================================
+Codigo del producto:         6
+Nombre del producto: Salsa de Tomate Amazonia Tipo 11
+StockTotal:               1337
+
+Stock en Paquetes: 
+Paquetes:                   27
+Unidades:                   41
+=======================================================
+Codigo del producto:        12
+Nombre del producto: Papel Higienico Norte Tipo 12
+StockTotal:                566
+
+Stock en Paquetes: 
+Paquetes:                   23
+Unidades:                   14
+=======================================================
+Codigo del producto:        25
+Nombre del producto: Fideo Kantu Tipo 04
+StockTotal:               1686
+
+Stock en Paquetes: 
+Paquetes:                   84
+Unidades:                    6
+=======================================================
+Codigo del producto:        30
+Nombre del producto: Durazno Sierra Tipo 08
+StockTotal:               1280
+
+Stock en Paquetes: 
+Paquetes:                   51
+Unidades:                    5
+=======================================================
+Codigo del producto:        32
+Nombre del producto: Alimento Perro Valle Tipo 21
+StockTotal:               1461
+
+Stock en Paquetes: 
+Paquetes:                   30
+Unidades:                   21
+=======================================================
+Codigo del producto:        40
+Nombre del producto: Alimento Gato Central Tipo 13
+StockTotal:                 58
+
+Stock en Paquetes: 
+Paquetes:                    1
+Unidades:                    8
+=======================================================
+Codigo del producto:        41
+Nombre del producto: Lenteja Amazonia Tipo 11
+StockTotal:                291
+
+Stock en Paquetes: 
+Paquetes:                    2
+Unidades:                   91
+=======================================================
+Codigo del producto:        44
+Nombre del producto: Papel Higienico Pacifico Tipo 02
+StockTotal:               1415
+
+Stock en Paquetes: 
+Paquetes:                  141
+Unidades:                    5
+=======================================================
+Codigo del producto:        46
+Nombre del producto: Sardina Amazonia Tipo 14
+StockTotal:               1021
+
+Stock en Paquetes: 
+Paquetes:                   51
+Unidades:                    1
+=======================================================
+Codigo del producto:        57
+Nombre del producto: Cafe Central Tipo 03
+StockTotal:                 83
+
+Stock en Paquetes: 
+Paquetes:                    1
+Unidades:                   33
+=======================================================
+Codigo del producto:        60
+Nombre del producto: Toalla Humeda Kantu Tipo 04
+StockTotal:                244
+
+Stock en Paquetes: 
+Paquetes:                    4
+Unidades:                   44
+=======================================================
+Codigo del producto:        68
+Nombre del producto: Pasta Dental Andes Tipo 15
+StockTotal:                752
+
+Stock en Paquetes: 
+Paquetes:                   37
+Unidades:                   12
+=======================================================
+Codigo del producto:        72
+Nombre del producto: Alimento Perro Norte Tipo 13
+StockTotal:               1703
+
+Stock en Paquetes: 
+Paquetes:                   34
+Unidades:                    3
+=======================================================
+Codigo del producto:        75
+Nombre del producto: Limpiavidrios Amazonia Tipo 16
+StockTotal:                618
+
+Stock en Paquetes: 
+Paquetes:                    6
+Unidades:                   18
+=======================================================
+Codigo del producto:        90
+Nombre del producto: Jugo Inti Tipo 23
+StockTotal:                744
+
+Stock en Paquetes: 
+Paquetes:                    7
+Unidades:                   44
+=======================================================
+Codigo del producto:        91
+Nombre del producto: Desinfectante Norte Tipo 02
+StockTotal:                516
+
+Stock en Paquetes: 
+Paquetes:                   21
+Unidades:                   12
+=======================================================
+Codigo del producto:        93
+Nombre del producto: Chocolate Costa Tipo 03
+StockTotal:               1585
+
+Stock en Paquetes: 
+Paquetes:                   79
+Unidades:                    5
+=======================================================
+Codigo del producto:        95
+Nombre del producto: Papel A4 Sol Tipo 14
+StockTotal:                628
+
+Stock en Paquetes: 
+Paquetes:                   52
+Unidades:                    4
+=======================================================
+Codigo del producto:        99
+Nombre del producto: Suavizante Inti Tipo 14
+StockTotal:               1460
+
+Stock en Paquetes: 
+Paquetes:                   29
+Unidades:                   10
+=======================================================
+Codigo del producto:       100
+Nombre del producto: Shampoo Sol Tipo 17
+StockTotal:                948
+
+Stock en Paquetes: 
+Paquetes:                   39
+Unidades:                   12
+=======================================================
+Codigo del producto:       107
+Nombre del producto: Suavizante Pacifico Tipo 22
+StockTotal:                766
+
+Stock en Paquetes: 
+Paquetes:                   31
+Unidades:                   22
+=======================================================
+Codigo del producto:       108
+Nombre del producto: Jabon Pacifico Tipo 20
+StockTotal:                221
+
+Stock en Paquetes: 
+Paquetes:                   11
+Unidades:                    1
+=======================================================
+Codigo del producto:       110
+Nombre del producto: Sardina Amazonia Tipo 23
+StockTotal:                260
+
+Stock en Paquetes: 
+Paquetes:                   10
+Unidades:                   20
+=======================================================
+Codigo del producto:       116
+Nombre del producto: Pasta Dental Misti Tipo 02
+StockTotal:                437
+
+Stock en Paquetes: 
+Paquetes:                    8
+Unidades:                   37
+=======================================================
+Codigo del producto:       117
+Nombre del producto: Chocolate Norte Tipo 19
+StockTotal:                 59
+
+Stock en Paquetes: 
+Paquetes:                    4
+Unidades:                   11
+=======================================================
+Codigo del producto:       128
+Nombre del producto: Alimento Gato Valle Tipo 20
+StockTotal:               1034
+
+Stock en Paquetes: 
+Paquetes:                   43
+Unidades:                    2
+=======================================================
+Codigo del producto:       132
+Nombre del producto: Alcohol Gel Central Tipo 02
+StockTotal:               1679
+
+Stock en Paquetes: 
+Paquetes:                   33
+Unidades:                   29
+=======================================================
+Codigo del producto:       142
+Nombre del producto: Sardina Amazonia Tipo 10
+StockTotal:               1038
+
+Stock en Paquetes: 
+Paquetes:                   20
+Unidades:                   38
+=======================================================
+Codigo del producto:       146
+Nombre del producto: Bebida Isotonica Valle Tipo 09
+StockTotal:                310
+
+Stock en Paquetes: 
+Paquetes:                   25
+Unidades:                   10
+=======================================================
+Codigo del producto:       149
+Nombre del producto: Galletas Valle Tipo 24
+StockTotal:                258
+
+Stock en Paquetes: 
+Paquetes:                   12
+Unidades:                   18
+=======================================================
+Codigo del producto:       150
+Nombre del producto: Maiz Dulce Amazonia Tipo 09
+StockTotal:                700
+
+Stock en Paquetes: 
+Paquetes:                   58
+Unidades:                    4
+=======================================================
+Codigo del producto:       162
+Nombre del producto: Te Sol Tipo 05
+StockTotal:               1248
+
+Stock en Paquetes: 
+Paquetes:                   24
+Unidades:                   48
+=======================================================
+Codigo del producto:       164
+Nombre del producto: Jabon Pacifico Tipo 25
+StockTotal:               1315
+
+Stock en Paquetes: 
+Paquetes:                   26
+Unidades:                   15
+=======================================================
+Codigo del producto:       176
+Nombre del producto: Alimento Perro Andes Tipo 24
+StockTotal:                743
+
+Stock en Paquetes: 
+Paquetes:                   14
+Unidades:                   43
+=======================================================
+Codigo del producto:       179
+Nombre del producto: Desinfectante Amazonia Tipo 17
+StockTotal:                708
+
+Stock en Paquetes: 
+Paquetes:                   35
+Unidades:                    8
+=======================================================
+Codigo del producto:       184
+Nombre del producto: Snack Canino Pacifico Tipo 14
+StockTotal:                425
+
+Stock en Paquetes: 
+Paquetes:                    4
+Unidades:                   25
+=======================================================
+Codigo del producto:       193
+Nombre del producto: Avena Kantu Tipo 22
+StockTotal:               1194
+
+Stock en Paquetes: 
+Paquetes:                   49
+Unidades:                   18
+=======================================================
+Codigo del producto:       198
+Nombre del producto: Leche Evaporada Sierra Tipo 25
+StockTotal:               1550
+
+Stock en Paquetes: 
+Paquetes:                   15
+Unidades:                   50
+=======================================================
+Codigo del producto:       203
+Nombre del producto: Detergente Costa Tipo 25
+StockTotal:               1176
+
+Stock en Paquetes: 
+Paquetes:                   11
+Unidades:                   76
+=======================================================
+Codigo del producto:       206
+Nombre del producto: Atun Kantu Tipo 17
+StockTotal:               1711
+
+Stock en Paquetes: 
+Paquetes:                   17
+Unidades:                   11
+=======================================================
+Codigo del producto:       219
+Nombre del producto: Detergente Norte Tipo 08
+StockTotal:                616
+
+Stock en Paquetes: 
+Paquetes:                   51
+Unidades:                    4
+=======================================================
+Codigo del producto:       220
+Nombre del producto: Papel Higienico Costa Tipo 25
+StockTotal:               1732
+
+Stock en Paquetes: 
+Paquetes:                   69
+Unidades:                    7
+=======================================================
+Codigo del producto:       221
+Nombre del producto: Caramelo Inti Tipo 25
+StockTotal:               1751
+
+Stock en Paquetes: 
+Paquetes:                   70
+Unidades:                    1
+=======================================================
+Codigo del producto:       226
+Nombre del producto: Gaseosa Costa Tipo 09
+StockTotal:               1026
+
+Stock en Paquetes: 
+Paquetes:                   85
+Unidades:                    6
+=======================================================
+Codigo del producto:       229
+Nombre del producto: Chocolate Costa Tipo 07
+StockTotal:               1090
+
+Stock en Paquetes: 
+Paquetes:                   43
+Unidades:                   15
+=======================================================
+Codigo del producto:       235
+Nombre del producto: Desinfectante Misti Tipo 24
+StockTotal:               1003
+
+Stock en Paquetes: 
+Paquetes:                  100
+Unidades:                    3
+=======================================================
+Codigo del producto:       238
+Nombre del producto: Salsa de Tomate Sol Tipo 24
+StockTotal:                850
+
+Stock en Paquetes: 
+Paquetes:                   35
+Unidades:                   10
+=======================================================
+Codigo del producto:       242
+Nombre del producto: Agua Pacifico Tipo 20
+StockTotal:                813
+
+Stock en Paquetes: 
+Paquetes:                   33
+Unidades:                   21
+=======================================================
+Codigo del producto:       244
+Nombre del producto: Jabon Inti Tipo 11
+StockTotal:               1204
+
+Stock en Paquetes: 
+Paquetes:                   24
+Unidades:                    4
+=======================================================
+Codigo del producto:       253
+Nombre del producto: Galletas Inti Tipo 01
+StockTotal:               1032
+
+Stock en Paquetes: 
+Paquetes:                   21
+Unidades:                   24
+=======================================================
+Codigo del producto:       262
+Nombre del producto: Maiz Dulce Inti Tipo 14
+StockTotal:               1024
+
+Stock en Paquetes: 
+Paquetes:                   85
+Unidades:                    4
+=======================================================
+Codigo del producto:       263
+Nombre del producto: Cinta Adhesiva Central Tipo 25
+StockTotal:                407
+
+Stock en Paquetes: 
+Paquetes:                   16
+Unidades:                   23
+=======================================================
+Codigo del producto:       280
+Nombre del producto: Snack Canino Central Tipo 10
+StockTotal:                642
+
+Stock en Paquetes: 
+Paquetes:                   26
+Unidades:                   18
+=======================================================
+Codigo del producto:       282
+Nombre del producto: Bebida Isotonica Central Tipo 06
+StockTotal:               1280
+
+Stock en Paquetes: 
+Paquetes:                  128
+Unidades:                    0
+=======================================================
+Codigo del producto:       288
+Nombre del producto: Snack Canino Central Tipo 05
+StockTotal:               1371
+
+Stock en Paquetes: 
+Paquetes:                   27
+Unidades:                   21
+=======================================================
+Codigo del producto:       289
+Nombre del producto: Lenteja Amazonia Tipo 13
+StockTotal:                365
+
+Stock en Paquetes: 
+Paquetes:                   15
+Unidades:                    5
+=======================================================
+Codigo del producto:       294
+Nombre del producto: Maiz Dulce Costa Tipo 20
+StockTotal:                476
+
+Stock en Paquetes: 
+Paquetes:                   19
+Unidades:                   20
+=======================================================
+Codigo del producto:       296
+Nombre del producto: Snack Canino Inti Tipo 25
+StockTotal:               1062
+
+Stock en Paquetes: 
+Paquetes:                   22
+Unidades:                    6
+=======================================================
+Codigo del producto:       298
+Nombre del producto: Bebida Energetica Valle Tipo 12
+StockTotal:                579
+
+Stock en Paquetes: 
+Paquetes:                   28
+Unidades:                   19
+=======================================================
+Codigo del producto:       301
+Nombre del producto: Caramelo Sierra Tipo 08
+StockTotal:                101
+
+Stock en Paquetes: 
+Paquetes:                    8
+Unidades:                    5
+=======================================================
+Codigo del producto:       302
+Nombre del producto: Durazno Sierra Tipo 25
+StockTotal:                592
+
+Stock en Paquetes: 
+Paquetes:                   29
+Unidades:                   12
+=======================================================
+Codigo del producto:       304
+Nombre del producto: Snack Canino Valle Tipo 08
+StockTotal:               1562
+
+Stock en Paquetes: 
+Paquetes:                   65
+Unidades:                    2
+=======================================================
+Codigo del producto:       314
+Nombre del producto: Bebida Energetica Amazonia Tipo 15
+StockTotal:                578
+
+Stock en Paquetes: 
+Paquetes:                   23
+Unidades:                    3
+=======================================================
+Codigo del producto:       315
+Nombre del producto: Desinfectante Central Tipo 10
+StockTotal:                870
+
+Stock en Paquetes: 
+Paquetes:                   34
+Unidades:                   20
+=======================================================
+Codigo del producto:       317
+Nombre del producto: Caramelo Costa Tipo 01
+StockTotal:               1415
+
+Stock en Paquetes: 
+Paquetes:                   70
+Unidades:                   15
+=======================================================
+Codigo del producto:       318
+Nombre del producto: Leche Evaporada Pacifico Tipo 04
+StockTotal:               1206
+
+Stock en Paquetes: 
+Paquetes:                   12
+Unidades:                    6
+=======================================================
+Codigo del producto:       323
+Nombre del producto: Limpiavidrios Sierra Tipo 22
+StockTotal:                969
+
+Stock en Paquetes: 
+Paquetes:                   80
+Unidades:                    9
+=======================================================
+Codigo del producto:       324
+Nombre del producto: Shampoo Valle Tipo 05
+StockTotal:               1119
+
+Stock en Paquetes: 
+Paquetes:                   44
+Unidades:                   19
+=======================================================
+Codigo del producto:       328
+Nombre del producto: Alimento Perro Andes Tipo 24
+StockTotal:               1270
+
+Stock en Paquetes: 
+Paquetes:                   50
+Unidades:                   20
+=======================================================
+Codigo del producto:       329
+Nombre del producto: Harina Inti Tipo 03
+StockTotal:                878
+
+Stock en Paquetes: 
+Paquetes:                   36
+Unidades:                   14
+=======================================================
+Codigo del producto:       336
+Nombre del producto: Snack Canino Andes Tipo 04
+StockTotal:                230
+
+Stock en Paquetes: 
+Paquetes:                    9
+Unidades:                    5
+=======================================================
+Codigo del producto:       338
+Nombre del producto: Agua Central Tipo 16
+StockTotal:               1636
+
+Stock en Paquetes: 
+Paquetes:                  136
+Unidades:                    4
+=======================================================
+Codigo del producto:       342
+Nombre del producto: Leche Evaporada Kantu Tipo 22
+StockTotal:               1279
+
+Stock en Paquetes: 
+Paquetes:                   12
+Unidades:                   79
+=======================================================
+Codigo del producto:       344
+Nombre del producto: Arena Gato Central Tipo 21
+StockTotal:               1245
+
+Stock en Paquetes: 
+Paquetes:                   51
+Unidades:                   21
+=======================================================
+Codigo del producto:       348
+Nombre del producto: Papel Higienico Inti Tipo 07
+StockTotal:                350
+
+Stock en Paquetes: 
+Paquetes:                   14
+Unidades:                   14
+=======================================================
+Codigo del producto:       349
+Nombre del producto: Galletas Andes Tipo 16
+StockTotal:                490
+
+Stock en Paquetes: 
+Paquetes:                   10
+Unidades:                   10
+=======================================================
+Codigo del producto:       352
+Nombre del producto: Alimento Gato Inti Tipo 15
+StockTotal:               1454
+
+Stock en Paquetes: 
+Paquetes:                  145
+Unidades:                    4
+=======================================================
+Codigo del producto:       354
+Nombre del producto: Agua Pacifico Tipo 03
+StockTotal:                647
+
+Stock en Paquetes: 
+Paquetes:                   12
+Unidades:                   47
+=======================================================
+Codigo del producto:       360
+Nombre del producto: Shampoo Mascota Sol Tipo 13
+StockTotal:               1064
+
+Stock en Paquetes: 
+Paquetes:                   22
+Unidades:                    8
+=======================================================
+Codigo del producto:       366
+Nombre del producto: Leche Evaporada Andes Tipo 20
+StockTotal:               1600
+
+Stock en Paquetes: 
+Paquetes:                   80
+Unidades:                    0
+=======================================================
+Codigo del producto:       369
+Nombre del producto: Sal Norte Tipo 06
+StockTotal:               1456
+
+Stock en Paquetes: 
+Paquetes:                   72
+Unidades:                   16
+=======================================================
+Codigo del producto:       376
+Nombre del producto: Alimento Gato Costa Tipo 24
+StockTotal:               1548
+
+Stock en Paquetes: 
+Paquetes:                   77
+Unidades:                    8
+=======================================================
+Codigo del producto:       379
+Nombre del producto: Desinfectante Valle Tipo 15
+StockTotal:               1180
+
+Stock en Paquetes: 
+Paquetes:                   98
+Unidades:                    4
+=======================================================
+Codigo del producto:       383
+Nombre del producto: Lapicero Norte Tipo 19
+StockTotal:                159
+
+Stock en Paquetes: 
+Paquetes:                    1
+Unidades:                   59
+=======================================================
+Codigo del producto:       386
+Nombre del producto: Agua Sierra Tipo 22
+StockTotal:               1312
+
+Stock en Paquetes: 
+Paquetes:                   52
+Unidades:                   12
+=======================================================
+Codigo del producto:       389
+Nombre del producto: Chocolate Norte Tipo 03
+StockTotal:               1461
+
+Stock en Paquetes: 
+Paquetes:                  146
+Unidades:                    1
+=======================================================
+Codigo del producto:       390
+Nombre del producto: Sardina Andes Tipo 08
+StockTotal:                216
+
+Stock en Paquetes: 
+Paquetes:                   18
+Unidades:                    0
+=======================================================
+Codigo del producto:       391
+Nombre del producto: Cuaderno Pacifico Tipo 12
+StockTotal:               1196
+
+Stock en Paquetes: 
+Paquetes:                   49
+Unidades:                   20
+=======================================================
+Codigo del producto:       394
+Nombre del producto: Bebida Isotonica Valle Tipo 16
+StockTotal:               1098
+
+Stock en Paquetes: 
+Paquetes:                   91
+Unidades:                    6
+=======================================================
+Codigo del producto:       396
+Nombre del producto: Jabon Sierra Tipo 24
+StockTotal:                946
+
+Stock en Paquetes: 
+Paquetes:                   37
+Unidades:                   21
+=======================================================
+Codigo del producto:       397
+Nombre del producto: Barra Energetica Sol Tipo 24
+StockTotal:                795
+
+Stock en Paquetes: 
+Paquetes:                   15
+Unidades:                   45
+=======================================================
+Codigo del producto:       399
+Nombre del producto: Folder Pacifico Tipo 20
+StockTotal:                836
+
+Stock en Paquetes: 
+Paquetes:                    8
+Unidades:                   36
+=======================================================
+Codigo del producto:       406
+Nombre del producto: Leche Evaporada Valle Tipo 06
+StockTotal:                620
+
+Stock en Paquetes: 
+Paquetes:                   62
+Unidades:                    0
+=======================================================
+Codigo del producto:       409
+Nombre del producto: Lenteja Andes Tipo 22
+StockTotal:               1016
+
+Stock en Paquetes: 
+Paquetes:                   20
+Unidades:                   16
+=======================================================
+Codigo del producto:       412
+Nombre del producto: Jabon Sol Tipo 14
+StockTotal:                855
+
+Stock en Paquetes: 
+Paquetes:                   17
+Unidades:                   39
+=======================================================
+Codigo del producto:       415
+Nombre del producto: Folder Misti Tipo 24
+StockTotal:               1073
+
+Stock en Paquetes: 
+Paquetes:                   10
+Unidades:                   73
+=======================================================
+Codigo del producto:       421
+Nombre del producto: Papas Sierra Tipo 01
+StockTotal:                898
+
+Stock en Paquetes: 
+Paquetes:                   74
+Unidades:                   10
+=======================================================
+Codigo del producto:       425
+Nombre del producto: Frijol Costa Tipo 24
+StockTotal:                228
+
+Stock en Paquetes: 
+Paquetes:                   22
+Unidades:                    8
+=======================================================
+Codigo del producto:       428
+Nombre del producto: Alcohol Gel Inti Tipo 03
+StockTotal:                465
+
+Stock en Paquetes: 
+Paquetes:                   46
+Unidades:                    5
+=======================================================
+Codigo del producto:       430
+Nombre del producto: Atun Sierra Tipo 11
+StockTotal:                126
+
+Stock en Paquetes: 
+Paquetes:                    6
+Unidades:                    6
+=======================================================
+Codigo del producto:       437
+Nombre del producto: Papas Costa Tipo 08
+StockTotal:               1007
+
+Stock en Paquetes: 
+Paquetes:                   40
+Unidades:                    7
+=======================================================
+Codigo del producto:       439
+Nombre del producto: Cinta Adhesiva Inti Tipo 15
+StockTotal:                479
+
+Stock en Paquetes: 
+Paquetes:                   19
+Unidades:                   23
+=======================================================
+Codigo del producto:       442
+Nombre del producto: Te Sol Tipo 11
+StockTotal:               1539
+
+Stock en Paquetes: 
+Paquetes:                   15
+Unidades:                   39
+=======================================================
+Codigo del producto:       455
+Nombre del producto: Marcador Costa Tipo 22
+StockTotal:                640
+
+Stock en Paquetes: 
+Paquetes:                   32
+Unidades:                    0
+=======================================================
+Codigo del producto:       459
+Nombre del producto: Limpiavidrios Misti Tipo 17
+StockTotal:               1659
+
+Stock en Paquetes: 
+Paquetes:                   16
+Unidades:                   59
+=======================================================
+Codigo del producto:       462
+Nombre del producto: Maiz Dulce Kantu Tipo 17
+StockTotal:               1123
+
+Stock en Paquetes: 
+Paquetes:                  112
+Unidades:                    3
+=======================================================
+Codigo del producto:       463
+Nombre del producto: Folder Pacifico Tipo 17
+StockTotal:               1246
+
+Stock en Paquetes: 
+Paquetes:                   49
+Unidades:                   21
+=======================================================
+Codigo del producto:       464
+Nombre del producto: Alimento Perro Amazonia Tipo 10
+StockTotal:                944
+
+Stock en Paquetes: 
+Paquetes:                   19
+Unidades:                   32
+=======================================================
+Codigo del producto:       469
+Nombre del producto: Caramelo Norte Tipo 13
+StockTotal:                141
+
+Stock en Paquetes: 
+Paquetes:                    2
+Unidades:                   45
+=======================================================
+Codigo del producto:       473
+Nombre del producto: Avena Misti Tipo 16
+StockTotal:               1202
+
+Stock en Paquetes: 
+Paquetes:                  100
+Unidades:                    2
+=======================================================
+Codigo del producto:       475
+Nombre del producto: Lejia Inti Tipo 24
+StockTotal:                913
+
+Stock en Paquetes: 
+Paquetes:                   36
+Unidades:                   13
+=======================================================
+Codigo del producto:       484
+Nombre del producto: Alcohol Gel Amazonia Tipo 10
+StockTotal:                243
+
+Stock en Paquetes: 
+Paquetes:                   12
+Unidades:                    3
+=======================================================
+Codigo del producto:       485
+Nombre del producto: Caramelo Sierra Tipo 18
+StockTotal:                598
+
+Stock en Paquetes: 
+Paquetes:                   24
+Unidades:                   22
+=======================================================
+Codigo del producto:       486
+Nombre del producto: Leche Evaporada Amazonia Tipo 21
+StockTotal:               1540
+
+Stock en Paquetes: 
+Paquetes:                   32
+Unidades:                    4
+=======================================================
+Codigo del producto:       487
+Nombre del producto: Lapicero Norte Tipo 19
+StockTotal:               1122
+
+Stock en Paquetes: 
+Paquetes:                   56
+Unidades:                    2
+=======================================================
+Codigo del producto:       496
+Nombre del producto: Snack Canino Sol Tipo 01
+StockTotal:                291
+
+Stock en Paquetes: 
+Paquetes:                   12
+Unidades:                    3
+=======================================================
+Codigo del producto:       502
+Nombre del producto: Salsa de Tomate Sol Tipo 05
+StockTotal:                 72
+
+Stock en Paquetes: 
+Paquetes:                    0
+Unidades:                   72
+=======================================================
+Codigo del producto:       516
+Nombre del producto: Papel Higienico Andes Tipo 12
+StockTotal:                455
+
+Stock en Paquetes: 
+Paquetes:                    4
+Unidades:                   55
+=======================================================
+Codigo del producto:       518
+Nombre del producto: Sardina Costa Tipo 24
+StockTotal:               1091
+
+Stock en Paquetes: 
+Paquetes:                   45
+Unidades:                   11
+=======================================================
+Codigo del producto:       519
+Nombre del producto: Lapicero Costa Tipo 14
+StockTotal:               1118
+
+Stock en Paquetes: 
+Paquetes:                   11
+Unidades:                   18
+=======================================================
+Codigo del producto:       520
+Nombre del producto: Snack Canino Norte Tipo 14
+StockTotal:                380
+
+Stock en Paquetes: 
+Paquetes:                   31
+Unidades:                    8
+=======================================================
+Codigo del producto:       522
+Nombre del producto: Bebida Isotonica Amazonia Tipo 24
+StockTotal:                307
+
+Stock en Paquetes: 
+Paquetes:                   12
+Unidades:                   19
+=======================================================
+Codigo del producto:       525
+Nombre del producto: Papas Valle Tipo 17
+StockTotal:                494
+
+Stock en Paquetes: 
+Paquetes:                   49
+Unidades:                    4
+=======================================================
+Codigo del producto:       529
+Nombre del producto: Quinua Inti Tipo 15
+StockTotal:                 68
+
+Stock en Paquetes: 
+Paquetes:                    0
+Unidades:                   68
+=======================================================
+Codigo del producto:       530
+Nombre del producto: Te Norte Tipo 06
+StockTotal:                534
+
+Stock en Paquetes: 
+Paquetes:                   21
+Unidades:                    9
+=======================================================
+Codigo del producto:       531
+Nombre del producto: Lejia Kantu Tipo 11
+StockTotal:                691
+
+Stock en Paquetes: 
+Paquetes:                   34
+Unidades:                   11
+=======================================================
+Codigo del producto:       534
+Nombre del producto: Durazno Central Tipo 04
+StockTotal:               1574
+
+Stock en Paquetes: 
+Paquetes:                  131
+Unidades:                    2
+=======================================================
+Codigo del producto:       545
+Nombre del producto: Harina Norte Tipo 22
+StockTotal:                541
+
+Stock en Paquetes: 
+Paquetes:                   11
+Unidades:                   13
+=======================================================
+Codigo del producto:       550
+Nombre del producto: Sardina Andes Tipo 20
+StockTotal:                522
+
+Stock en Paquetes: 
+Paquetes:                   10
+Unidades:                   42
+=======================================================
+Codigo del producto:       554
+Nombre del producto: Jugo Costa Tipo 22
+StockTotal:                186
+
+Stock en Paquetes: 
+Paquetes:                    3
+Unidades:                   42
+=======================================================
+Codigo del producto:       561
+Nombre del producto: Harina Kantu Tipo 04
+StockTotal:                699
+
+Stock en Paquetes: 
+Paquetes:                   29
+Unidades:                    3
+=======================================================
+Codigo del producto:       564
+Nombre del producto: Jabon Sierra Tipo 07
+StockTotal:               1068
+
+Stock en Paquetes: 
+Paquetes:                   22
+Unidades:                   12
+=======================================================
+Codigo del producto:       577
+Nombre del producto: Fideo Norte Tipo 14
+StockTotal:               1610
+
+Stock en Paquetes: 
+Paquetes:                   80
+Unidades:                   10
+=======================================================
+Codigo del producto:       596
+Nombre del producto: Pasta Dental Kantu Tipo 03
+StockTotal:               1367
+
+Stock en Paquetes: 
+Paquetes:                   27
+Unidades:                   17
+=======================================================
+Codigo del producto:       599
+Nombre del producto: Folder Kantu Tipo 23
+StockTotal:                679
+
+Stock en Paquetes: 
+Paquetes:                   14
+Unidades:                    7
+=======================================================
+Almacen:           ALM04
+Numero de Productos: 149
+=======================================================
+Detalle de productos:
+=======================================================
+Codigo del producto:         3
+Nombre del producto: Jabon Liquido Amazonia Tipo 22
+StockTotal:                 32
+
+Stock en Paquetes: 
+Paquetes:                    1
+Unidades:                    7
+=======================================================
+Codigo del producto:         7
+Nombre del producto: Cuaderno Kantu Tipo 18
+StockTotal:                522
+
+Stock en Paquetes: 
+Paquetes:                   20
+Unidades:                   22
+=======================================================
+Codigo del producto:        11
+Nombre del producto: Lejia Norte Tipo 15
+StockTotal:               1592
+
+Stock en Paquetes: 
+Paquetes:                   33
+Unidades:                    8
+=======================================================
+Codigo del producto:        13
+Nombre del producto: Barra Energetica Costa Tipo 18
+StockTotal:                894
+
+Stock en Paquetes: 
+Paquetes:                   74
+Unidades:                    6
+=======================================================
+Codigo del producto:        19
+Nombre del producto: Suavizante Central Tipo 11
+StockTotal:               1466
+
+Stock en Paquetes: 
+Paquetes:                   14
+Unidades:                   66
+=======================================================
+Codigo del producto:        21
+Nombre del producto: Cereal Inti Tipo 05
+StockTotal:               1427
+
+Stock en Paquetes: 
+Paquetes:                  118
+Unidades:                   11
+=======================================================
+Codigo del producto:        22
+Nombre del producto: Durazno Central Tipo 01
+StockTotal:                684
+
+Stock en Paquetes: 
+Paquetes:                   34
+Unidades:                    4
+=======================================================
+Codigo del producto:        24
+Nombre del producto: Alimento Perro Sol Tipo 04
+StockTotal:                381
+
+Stock en Paquetes: 
+Paquetes:                    7
+Unidades:                   45
+=======================================================
+Codigo del producto:        38
+Nombre del producto: Atun Costa Tipo 16
+StockTotal:                516
+
+Stock en Paquetes: 
+Paquetes:                   25
+Unidades:                   16
+=======================================================
+Codigo del producto:        42
+Nombre del producto: Bebida Isotonica Kantu Tipo 04
+StockTotal:               1147
+
+Stock en Paquetes: 
+Paquetes:                   22
+Unidades:                   47
+=======================================================
+Codigo del producto:        58
+Nombre del producto: Jugo Central Tipo 15
+StockTotal:                496
+
+Stock en Paquetes: 
+Paquetes:                    4
+Unidades:                   96
+=======================================================
+Codigo del producto:        59
+Nombre del producto: Detergente Amazonia Tipo 15
+StockTotal:                133
+
+Stock en Paquetes: 
+Paquetes:                    1
+Unidades:                   33
+=======================================================
+Codigo del producto:        61
+Nombre del producto: Papas Norte Tipo 07
+StockTotal:                340
+
+Stock en Paquetes: 
+Paquetes:                    6
+Unidades:                   40
+=======================================================
+Codigo del producto:        63
+Nombre del producto: Marcador Norte Tipo 24
+StockTotal:                478
+
+Stock en Paquetes: 
+Paquetes:                   23
+Unidades:                   18
+=======================================================
+Codigo del producto:        65
+Nombre del producto: Harina Inti Tipo 23
+StockTotal:                 65
+
+Stock en Paquetes: 
+Paquetes:                    5
+Unidades:                    5
+=======================================================
+Codigo del producto:        69
+Nombre del producto: Barra Energetica Central Tipo 09
+StockTotal:               1077
+
+Stock en Paquetes: 
+Paquetes:                   44
+Unidades:                   21
+=======================================================
+Codigo del producto:        81
+Nombre del producto: Fideo Andes Tipo 15
+StockTotal:                857
+
+Stock en Paquetes: 
+Paquetes:                    8
+Unidades:                   57
+=======================================================
+Codigo del producto:        82
+Nombre del producto: Te Sol Tipo 01
+StockTotal:                796
+
+Stock en Paquetes: 
+Paquetes:                   31
+Unidades:                   21
+=======================================================
+Codigo del producto:        83
+Nombre del producto: Detergente Sol Tipo 07
+StockTotal:               1137
+
+Stock en Paquetes: 
+Paquetes:                   23
+Unidades:                   33
+=======================================================
+Codigo del producto:        86
+Nombre del producto: Maiz Dulce Sierra Tipo 19
+StockTotal:               1301
+
+Stock en Paquetes: 
+Paquetes:                   52
+Unidades:                    1
+=======================================================
+Codigo del producto:        87
+Nombre del producto: Papel A4 Valle Tipo 01
+StockTotal:               1754
+
+Stock en Paquetes: 
+Paquetes:                   17
+Unidades:                   54
+=======================================================
+Codigo del producto:       112
+Nombre del producto: Shampoo Mascota Andes Tipo 12
+StockTotal:                916
+
+Stock en Paquetes: 
+Paquetes:                   91
+Unidades:                    6
+=======================================================
+Codigo del producto:       113
+Nombre del producto: Frijol Amazonia Tipo 06
+StockTotal:                472
+
+Stock en Paquetes: 
+Paquetes:                   19
+Unidades:                   16
+=======================================================
+Codigo del producto:       122
+Nombre del producto: Agua Misti Tipo 15
+StockTotal:                628
+
+Stock en Paquetes: 
+Paquetes:                   26
+Unidades:                    4
+=======================================================
+Codigo del producto:       123
+Nombre del producto: Detergente Sierra Tipo 01
+StockTotal:                 94
+
+Stock en Paquetes: 
+Paquetes:                    0
+Unidades:                   94
+=======================================================
+Codigo del producto:       127
+Nombre del producto: Papel A4 Andes Tipo 02
+StockTotal:               1703
+
+Stock en Paquetes: 
+Paquetes:                  170
+Unidades:                    3
+=======================================================
+Codigo del producto:       131
+Nombre del producto: Lejia Misti Tipo 20
+StockTotal:                654
+
+Stock en Paquetes: 
+Paquetes:                   54
+Unidades:                    6
+=======================================================
+Codigo del producto:       134
+Nombre del producto: Leche Evaporada Inti Tipo 12
+StockTotal:               1435
+
+Stock en Paquetes: 
+Paquetes:                   59
+Unidades:                   19
+=======================================================
+Codigo del producto:       135
+Nombre del producto: Papel A4 Pacifico Tipo 20
+StockTotal:                221
+
+Stock en Paquetes: 
+Paquetes:                    4
+Unidades:                   29
+=======================================================
+Codigo del producto:       136
+Nombre del producto: Alimento Gato Valle Tipo 01
+StockTotal:                 89
+
+Stock en Paquetes: 
+Paquetes:                    3
+Unidades:                   17
+=======================================================
+Codigo del producto:       137
+Nombre del producto: Azucar Costa Tipo 04
+StockTotal:                 58
+
+Stock en Paquetes: 
+Paquetes:                    2
+Unidades:                   18
+=======================================================
+Codigo del producto:       141
+Nombre del producto: Caramelo Andes Tipo 18
+StockTotal:               1222
+
+Stock en Paquetes: 
+Paquetes:                   24
+Unidades:                   22
+=======================================================
+Codigo del producto:       152
+Nombre del producto: Alimento Gato Sol Tipo 13
+StockTotal:                 54
+
+Stock en Paquetes: 
+Paquetes:                    2
+Unidades:                   14
+=======================================================
+Codigo del producto:       154
+Nombre del producto: Bebida Energetica Inti Tipo 02
+StockTotal:               1053
+
+Stock en Paquetes: 
+Paquetes:                   21
+Unidades:                   45
+=======================================================
+Codigo del producto:       156
+Nombre del producto: Toalla Humeda Amazonia Tipo 24
+StockTotal:                879
+
+Stock en Paquetes: 
+Paquetes:                   18
+Unidades:                   15
+=======================================================
+Codigo del producto:       158
+Nombre del producto: Durazno Norte Tipo 06
+StockTotal:               1644
+
+Stock en Paquetes: 
+Paquetes:                   82
+Unidades:                    4
+=======================================================
+Codigo del producto:       161
+Nombre del producto: Frijol Misti Tipo 23
+StockTotal:               1079
+
+Stock en Paquetes: 
+Paquetes:                   10
+Unidades:                   79
+=======================================================
+Codigo del producto:       171
+Nombre del producto: Detergente Sierra Tipo 24
+StockTotal:                422
+
+Stock en Paquetes: 
+Paquetes:                   42
+Unidades:                    2
+=======================================================
+Codigo del producto:       177
+Nombre del producto: Fideo Sol Tipo 14
+StockTotal:               1455
+
+Stock en Paquetes: 
+Paquetes:                   30
+Unidades:                   15
+=======================================================
+Codigo del producto:       185
+Nombre del producto: Azucar Valle Tipo 02
+StockTotal:                318
+
+Stock en Paquetes: 
+Paquetes:                   26
+Unidades:                    6
+=======================================================
+Codigo del producto:       190
+Nombre del producto: Atun Andes Tipo 06
+StockTotal:               1470
+
+Stock en Paquetes: 
+Paquetes:                  122
+Unidades:                    6
+=======================================================
+Codigo del producto:       191
+Nombre del producto: Lapicero Andes Tipo 05
+StockTotal:               1426
+
+Stock en Paquetes: 
+Paquetes:                  142
+Unidades:                    6
+=======================================================
+Codigo del producto:       195
+Nombre del producto: Detergente Misti Tipo 04
+StockTotal:               1231
+
+Stock en Paquetes: 
+Paquetes:                   51
+Unidades:                    7
+=======================================================
+Codigo del producto:       199
+Nombre del producto: Cinta Adhesiva Kantu Tipo 15
+StockTotal:                103
+
+Stock en Paquetes: 
+Paquetes:                    2
+Unidades:                    3
+=======================================================
+Codigo del producto:       205
+Nombre del producto: Caramelo Costa Tipo 09
+StockTotal:                252
+
+Stock en Paquetes: 
+Paquetes:                    5
+Unidades:                    2
+=======================================================
+Codigo del producto:       209
+Nombre del producto: Cafe Pacifico Tipo 23
+StockTotal:               1077
+
+Stock en Paquetes: 
+Paquetes:                   44
+Unidades:                   21
+=======================================================
+Codigo del producto:       214
+Nombre del producto: Salsa de Tomate Kantu Tipo 22
+StockTotal:               1274
+
+Stock en Paquetes: 
+Paquetes:                   26
+Unidades:                   26
+=======================================================
+Codigo del producto:       216
+Nombre del producto: Alimento Gato Inti Tipo 24
+StockTotal:                453
+
+Stock en Paquetes: 
+Paquetes:                   18
+Unidades:                    3
+=======================================================
+Codigo del producto:       224
+Nombre del producto: Snack Canino Pacifico Tipo 17
+StockTotal:                853
+
+Stock en Paquetes: 
+Paquetes:                   35
+Unidades:                   13
+=======================================================
+Codigo del producto:       225
+Nombre del producto: Fideo Central Tipo 24
+StockTotal:                130
+
+Stock en Paquetes: 
+Paquetes:                    5
+Unidades:                    5
+=======================================================
+Codigo del producto:       227
+Nombre del producto: Jabon Liquido Central Tipo 22
+StockTotal:               1049
+
+Stock en Paquetes: 
+Paquetes:                   21
+Unidades:                   41
+=======================================================
+Codigo del producto:       228
+Nombre del producto: Toalla Humeda Amazonia Tipo 25
+StockTotal:                924
+
+Stock en Paquetes: 
+Paquetes:                   18
+Unidades:                   24
+=======================================================
+Codigo del producto:       241
+Nombre del producto: Quinua Central Tipo 23
+StockTotal:                 50
+
+Stock en Paquetes: 
+Paquetes:                    5
+Unidades:                    0
+=======================================================
+Codigo del producto:       245
+Nombre del producto: Chocolate Kantu Tipo 11
+StockTotal:                413
+
+Stock en Paquetes: 
+Paquetes:                   17
+Unidades:                    5
+=======================================================
+Codigo del producto:       252
+Nombre del producto: Jabon Inti Tipo 10
+StockTotal:               1578
+
+Stock en Paquetes: 
+Paquetes:                   32
+Unidades:                   42
+=======================================================
+Codigo del producto:       255
+Nombre del producto: Marcador Sierra Tipo 05
+StockTotal:                242
+
+Stock en Paquetes: 
+Paquetes:                   10
+Unidades:                    2
+=======================================================
+Codigo del producto:       256
+Nombre del producto: Arena Gato Misti Tipo 23
+StockTotal:               1364
+
+Stock en Paquetes: 
+Paquetes:                   13
+Unidades:                   64
+=======================================================
+Codigo del producto:       257
+Nombre del producto: Avena Sol Tipo 13
+StockTotal:               1180
+
+Stock en Paquetes: 
+Paquetes:                   98
+Unidades:                    4
+=======================================================
+Codigo del producto:       260
+Nombre del producto: Papel Higienico Costa Tipo 08
+StockTotal:               1192
+
+Stock en Paquetes: 
+Paquetes:                   99
+Unidades:                    4
+=======================================================
+Codigo del producto:       261
+Nombre del producto: Galletas Andes Tipo 04
+StockTotal:               1616
+
+Stock en Paquetes: 
+Paquetes:                   16
+Unidades:                   16
+=======================================================
+Codigo del producto:       266
+Nombre del producto: Gaseosa Costa Tipo 16
+StockTotal:                611
+
+Stock en Paquetes: 
+Paquetes:                   25
+Unidades:                   11
+=======================================================
+Codigo del producto:       268
+Nombre del producto: Alcohol Gel Pacifico Tipo 05
+StockTotal:               1612
+
+Stock en Paquetes: 
+Paquetes:                   32
+Unidades:                   12
+=======================================================
+Codigo del producto:       270
+Nombre del producto: Durazno Sierra Tipo 15
+StockTotal:                418
+
+Stock en Paquetes: 
+Paquetes:                    8
+Unidades:                   34
+=======================================================
+Codigo del producto:       273
+Nombre del producto: Harina Misti Tipo 08
+StockTotal:               1678
+
+Stock en Paquetes: 
+Paquetes:                   83
+Unidades:                   18
+=======================================================
+Codigo del producto:       276
+Nombre del producto: Alcohol Gel Amazonia Tipo 25
+StockTotal:                584
+
+Stock en Paquetes: 
+Paquetes:                    5
+Unidades:                   84
+=======================================================
+Codigo del producto:       277
+Nombre del producto: Cereal Sol Tipo 15
+StockTotal:                328
+
+Stock en Paquetes: 
+Paquetes:                    6
+Unidades:                   28
+=======================================================
+Codigo del producto:       279
+Nombre del producto: Cinta Adhesiva Valle Tipo 09
+StockTotal:                516
+
+Stock en Paquetes: 
+Paquetes:                   21
+Unidades:                   12
+=======================================================
+Codigo del producto:       281
+Nombre del producto: Avena Valle Tipo 05
+StockTotal:               1372
+
+Stock en Paquetes: 
+Paquetes:                  114
+Unidades:                    4
+=======================================================
+Codigo del producto:       283
+Nombre del producto: Lejia Misti Tipo 21
+StockTotal:               1277
+
+Stock en Paquetes: 
+Paquetes:                   53
+Unidades:                    5
+=======================================================
+Codigo del producto:       287
+Nombre del producto: Papel A4 Sierra Tipo 11
+StockTotal:               1610
+
+Stock en Paquetes: 
+Paquetes:                   32
+Unidades:                   10
+=======================================================
+Codigo del producto:       292
+Nombre del producto: Toalla Humeda Pacifico Tipo 03
+StockTotal:                209
+
+Stock en Paquetes: 
+Paquetes:                    4
+Unidades:                   17
+=======================================================
+Codigo del producto:       293
+Nombre del producto: Cereal Amazonia Tipo 12
+StockTotal:                206
+
+Stock en Paquetes: 
+Paquetes:                    4
+Unidades:                   14
+=======================================================
+Codigo del producto:       297
+Nombre del producto: Frijol Norte Tipo 21
+StockTotal:                807
+
+Stock en Paquetes: 
+Paquetes:                   32
+Unidades:                    7
+=======================================================
+Codigo del producto:       299
+Nombre del producto: Desinfectante Sol Tipo 07
+StockTotal:               1518
+
+Stock en Paquetes: 
+Paquetes:                   63
+Unidades:                    6
+=======================================================
+Codigo del producto:       306
+Nombre del producto: Te Costa Tipo 05
+StockTotal:                222
+
+Stock en Paquetes: 
+Paquetes:                    2
+Unidades:                   22
+=======================================================
+Codigo del producto:       308
+Nombre del producto: Shampoo Norte Tipo 03
+StockTotal:                729
+
+Stock en Paquetes: 
+Paquetes:                   15
+Unidades:                    9
+=======================================================
+Codigo del producto:       309
+Nombre del producto: Caramelo Inti Tipo 10
+StockTotal:               1195
+
+Stock en Paquetes: 
+Paquetes:                  119
+Unidades:                    5
+=======================================================
+Codigo del producto:       310
+Nombre del producto: Atun Amazonia Tipo 16
+StockTotal:               1782
+
+Stock en Paquetes: 
+Paquetes:                   17
+Unidades:                   82
+=======================================================
+Codigo del producto:       311
+Nombre del producto: Folder Sol Tipo 19
+StockTotal:               1664
+
+Stock en Paquetes: 
+Paquetes:                  138
+Unidades:                    8
+=======================================================
+Codigo del producto:       320
+Nombre del producto: Shampoo Mascota Costa Tipo 14
+StockTotal:               1413
+
+Stock en Paquetes: 
+Paquetes:                   70
+Unidades:                   13
+=======================================================
+Codigo del producto:       321
+Nombre del producto: Frijol Amazonia Tipo 05
+StockTotal:               1292
+
+Stock en Paquetes: 
+Paquetes:                   64
+Unidades:                   12
+=======================================================
+Codigo del producto:       325
+Nombre del producto: Barra Energetica Sol Tipo 08
+StockTotal:                560
+
+Stock en Paquetes: 
+Paquetes:                   11
+Unidades:                   10
+=======================================================
+Codigo del producto:       331
+Nombre del producto: Jabon Liquido Kantu Tipo 09
+StockTotal:                301
+
+Stock en Paquetes: 
+Paquetes:                    6
+Unidades:                   13
+=======================================================
+Codigo del producto:       332
+Nombre del producto: Jabon Sol Tipo 14
+StockTotal:               1311
+
+Stock en Paquetes: 
+Paquetes:                   13
+Unidades:                   11
+=======================================================
+Codigo del producto:       334
+Nombre del producto: Leche Evaporada Kantu Tipo 09
+StockTotal:                231
+
+Stock en Paquetes: 
+Paquetes:                    2
+Unidades:                   31
+=======================================================
+Codigo del producto:       341
+Nombre del producto: Papas Misti Tipo 10
+StockTotal:                581
+
+Stock en Paquetes: 
+Paquetes:                   24
+Unidades:                    5
+=======================================================
+Codigo del producto:       350
+Nombre del producto: Salsa de Tomate Andes Tipo 03
+StockTotal:               1264
+
+Stock en Paquetes: 
+Paquetes:                   26
+Unidades:                   16
+=======================================================
+Codigo del producto:       358
+Nombre del producto: Maiz Dulce Norte Tipo 23
+StockTotal:                734
+
+Stock en Paquetes: 
+Paquetes:                   14
+Unidades:                   34
+=======================================================
+Codigo del producto:       367
+Nombre del producto: Marcador Pacifico Tipo 17
+StockTotal:                300
+
+Stock en Paquetes: 
+Paquetes:                    6
+Unidades:                   12
+=======================================================
+Codigo del producto:       371
+Nombre del producto: Jabon Liquido Central Tipo 22
+StockTotal:               1112
+
+Stock en Paquetes: 
+Paquetes:                   46
+Unidades:                    8
+=======================================================
+Codigo del producto:       372
+Nombre del producto: Alcohol Gel Pacifico Tipo 22
+StockTotal:               1169
+
+Stock en Paquetes: 
+Paquetes:                   24
+Unidades:                   17
+=======================================================
+Codigo del producto:       373
+Nombre del producto: Papas Sierra Tipo 02
+StockTotal:               1709
+
+Stock en Paquetes: 
+Paquetes:                   34
+Unidades:                    9
+=======================================================
+Codigo del producto:       377
+Nombre del producto: Sal Central Tipo 06
+StockTotal:               1214
+
+Stock en Paquetes: 
+Paquetes:                   12
+Unidades:                   14
+=======================================================
+Codigo del producto:       382
+Nombre del producto: Durazno Kantu Tipo 02
+StockTotal:                437
+
+Stock en Paquetes: 
+Paquetes:                   17
+Unidades:                   12
+=======================================================
+Codigo del producto:       384
+Nombre del producto: Alimento Gato Amazonia Tipo 23
+StockTotal:                983
+
+Stock en Paquetes: 
+Paquetes:                    9
+Unidades:                   83
+=======================================================
+Codigo del producto:       387
+Nombre del producto: Jabon Liquido Amazonia Tipo 12
+StockTotal:               1557
+
+Stock en Paquetes: 
+Paquetes:                  129
+Unidades:                    9
+=======================================================
+Codigo del producto:       395
+Nombre del producto: Lejia Inti Tipo 25
+StockTotal:               1503
+
+Stock en Paquetes: 
+Paquetes:                   75
+Unidades:                    3
+=======================================================
+Codigo del producto:       398
+Nombre del producto: Salsa de Tomate Costa Tipo 11
+StockTotal:               1799
+
+Stock en Paquetes: 
+Paquetes:                   71
+Unidades:                   24
+=======================================================
+Codigo del producto:       402
+Nombre del producto: Agua Misti Tipo 07
+StockTotal:               1549
+
+Stock en Paquetes: 
+Paquetes:                   30
+Unidades:                   49
+=======================================================
+Codigo del producto:       405
+Nombre del producto: Galletas Pacifico Tipo 09
+StockTotal:                882
+
+Stock en Paquetes: 
+Paquetes:                   17
+Unidades:                   32
+=======================================================
+Codigo del producto:       410
+Nombre del producto: Agua Kantu Tipo 10
+StockTotal:               1446
+
+Stock en Paquetes: 
+Paquetes:                   28
+Unidades:                   46
+=======================================================
+Codigo del producto:       413
+Nombre del producto: Caramelo Kantu Tipo 25
+StockTotal:               1783
+
+Stock en Paquetes: 
+Paquetes:                   17
+Unidades:                   83
+=======================================================
+Codigo del producto:       418
+Nombre del producto: Jugo Misti Tipo 13
+StockTotal:                237
+
+Stock en Paquetes: 
+Paquetes:                    4
+Unidades:                   45
+=======================================================
+Codigo del producto:       424
+Nombre del producto: Alimento Perro Amazonia Tipo 01
+StockTotal:                617
+
+Stock en Paquetes: 
+Paquetes:                   30
+Unidades:                   17
+=======================================================
+Codigo del producto:       427
+Nombre del producto: Jabon Liquido Inti Tipo 09
+StockTotal:                733
+
+Stock en Paquetes: 
+Paquetes:                   29
+Unidades:                    8
+=======================================================
+Codigo del producto:       429
+Nombre del producto: Caramelo Sol Tipo 02
+StockTotal:               1622
+
+Stock en Paquetes: 
+Paquetes:                   64
+Unidades:                   22
+=======================================================
+Codigo del producto:       432
+Nombre del producto: Alimento Gato Sierra Tipo 15
+StockTotal:                 37
+
+Stock en Paquetes: 
+Paquetes:                    3
+Unidades:                    1
+=======================================================
+Codigo del producto:       434
+Nombre del producto: Jugo Inti Tipo 19
+StockTotal:               1538
+
+Stock en Paquetes: 
+Paquetes:                  153
+Unidades:                    8
+=======================================================
+Codigo del producto:       436
+Nombre del producto: Toalla Humeda Valle Tipo 24
+StockTotal:               1119
+
+Stock en Paquetes: 
+Paquetes:                  111
+Unidades:                    9
+=======================================================
+Codigo del producto:       446
+Nombre del producto: Leche Evaporada Central Tipo 04
+StockTotal:                910
+
+Stock en Paquetes: 
+Paquetes:                   75
+Unidades:                   10
+=======================================================
+Codigo del producto:       447
+Nombre del producto: Lapicero Central Tipo 06
+StockTotal:                565
+
+Stock en Paquetes: 
+Paquetes:                   11
+Unidades:                   15
+=======================================================
+Codigo del producto:       453
+Nombre del producto: Caramelo Costa Tipo 08
+StockTotal:                613
+
+Stock en Paquetes: 
+Paquetes:                   51
+Unidades:                    1
+=======================================================
+Codigo del producto:       456
+Nombre del producto: Snack Canino Central Tipo 25
+StockTotal:                199
+
+Stock en Paquetes: 
+Paquetes:                    9
+Unidades:                   19
+=======================================================
+Codigo del producto:       461
+Nombre del producto: Papas Pacifico Tipo 13
+StockTotal:               1267
+
+Stock en Paquetes: 
+Paquetes:                   52
+Unidades:                   19
+=======================================================
+Codigo del producto:       467
+Nombre del producto: Limpiavidrios Amazonia Tipo 16
+StockTotal:                685
+
+Stock en Paquetes: 
+Paquetes:                   68
+Unidades:                    5
+=======================================================
+Codigo del producto:       478
+Nombre del producto: Salsa de Tomate Inti Tipo 03
+StockTotal:                306
+
+Stock en Paquetes: 
+Paquetes:                   15
+Unidades:                    6
+=======================================================
+Codigo del producto:       479
+Nombre del producto: Papel A4 Central Tipo 23
+StockTotal:               1434
+
+Stock en Paquetes: 
+Paquetes:                   57
+Unidades:                    9
+=======================================================
+Codigo del producto:       482
+Nombre del producto: Te Andes Tipo 04
+StockTotal:               1074
+
+Stock en Paquetes: 
+Paquetes:                   10
+Unidades:                   74
+=======================================================
+Codigo del producto:       490
+Nombre del producto: Jugo Sierra Tipo 09
+StockTotal:               1321
+
+Stock en Paquetes: 
+Paquetes:                   66
+Unidades:                    1
+=======================================================
+Codigo del producto:       491
+Nombre del producto: Desinfectante Amazonia Tipo 10
+StockTotal:                478
+
+Stock en Paquetes: 
+Paquetes:                    4
+Unidades:                   78
+=======================================================
+Codigo del producto:       492
+Nombre del producto: Pasta Dental Sol Tipo 06
+StockTotal:                575
+
+Stock en Paquetes: 
+Paquetes:                   11
+Unidades:                   25
+=======================================================
+Codigo del producto:       494
+Nombre del producto: Leche Evaporada Costa Tipo 12
+StockTotal:               1564
+
+Stock en Paquetes: 
+Paquetes:                   65
+Unidades:                    4
+=======================================================
+Codigo del producto:       498
+Nombre del producto: Jugo Misti Tipo 13
+StockTotal:               1322
+
+Stock en Paquetes: 
+Paquetes:                   55
+Unidades:                    2
+=======================================================
+Codigo del producto:       508
+Nombre del producto: Shampoo Costa Tipo 08
+StockTotal:                383
+
+Stock en Paquetes: 
+Paquetes:                   15
+Unidades:                    8
+=======================================================
+Codigo del producto:       511
+Nombre del producto: Folder Pacifico Tipo 18
+StockTotal:                332
+
+Stock en Paquetes: 
+Paquetes:                   33
+Unidades:                    2
+=======================================================
+Codigo del producto:       512
+Nombre del producto: Alimento Gato Amazonia Tipo 05
+StockTotal:                844
+
+Stock en Paquetes: 
+Paquetes:                   70
+Unidades:                    4
+=======================================================
+Codigo del producto:       515
+Nombre del producto: Jabon Liquido Sierra Tipo 12
+StockTotal:                497
+
+Stock en Paquetes: 
+Paquetes:                    4
+Unidades:                   97
+=======================================================
+Codigo del producto:       517
+Nombre del producto: Papas Andes Tipo 01
+StockTotal:               1352
+
+Stock en Paquetes: 
+Paquetes:                   27
+Unidades:                    2
+=======================================================
+Codigo del producto:       524
+Nombre del producto: Toalla Humeda Costa Tipo 12
+StockTotal:                529
+
+Stock en Paquetes: 
+Paquetes:                    5
+Unidades:                   29
+=======================================================
+Codigo del producto:       528
+Nombre del producto: Arena Gato Norte Tipo 03
+StockTotal:                661
+
+Stock en Paquetes: 
+Paquetes:                   33
+Unidades:                    1
+=======================================================
+Codigo del producto:       532
+Nombre del producto: Toalla Humeda Valle Tipo 15
+StockTotal:               1393
+
+Stock en Paquetes: 
+Paquetes:                   13
+Unidades:                   93
+=======================================================
+Codigo del producto:       541
+Nombre del producto: Cereal Costa Tipo 03
+StockTotal:               1655
+
+Stock en Paquetes: 
+Paquetes:                   34
+Unidades:                   23
+=======================================================
+Codigo del producto:       542
+Nombre del producto: Leche Evaporada Pacifico Tipo 07
+StockTotal:                703
+
+Stock en Paquetes: 
+Paquetes:                   14
+Unidades:                   31
+=======================================================
+Codigo del producto:       543
+Nombre del producto: Cinta Adhesiva Misti Tipo 12
+StockTotal:               1356
+
+Stock en Paquetes: 
+Paquetes:                   28
+Unidades:                   12
+=======================================================
+Codigo del producto:       547
+Nombre del producto: Desinfectante Inti Tipo 25
+StockTotal:                775
+
+Stock en Paquetes: 
+Paquetes:                   15
+Unidades:                   25
+=======================================================
+Codigo del producto:       548
+Nombre del producto: Pasta Dental Andes Tipo 16
+StockTotal:                797
+
+Stock en Paquetes: 
+Paquetes:                   66
+Unidades:                    5
+=======================================================
+Codigo del producto:       549
+Nombre del producto: Chocolate Central Tipo 08
+StockTotal:               1400
+
+Stock en Paquetes: 
+Paquetes:                   56
+Unidades:                    0
+=======================================================
+Codigo del producto:       562
+Nombre del producto: Gaseosa Amazonia Tipo 18
+StockTotal:                967
+
+Stock en Paquetes: 
+Paquetes:                   96
+Unidades:                    7
+=======================================================
+Codigo del producto:       566
+Nombre del producto: Salsa de Tomate Inti Tipo 01
+StockTotal:               1553
+
+Stock en Paquetes: 
+Paquetes:                  155
+Unidades:                    3
+=======================================================
+Codigo del producto:       567
+Nombre del producto: Marcador Norte Tipo 05
+StockTotal:                984
+
+Stock en Paquetes: 
+Paquetes:                   20
+Unidades:                   24
+=======================================================
+Codigo del producto:       574
+Nombre del producto: Atun Amazonia Tipo 24
+StockTotal:                435
+
+Stock en Paquetes: 
+Paquetes:                    8
+Unidades:                   35
+=======================================================
+Codigo del producto:       578
+Nombre del producto: Agua Norte Tipo 24
+StockTotal:                443
+
+Stock en Paquetes: 
+Paquetes:                   17
+Unidades:                   18
+=======================================================
+Codigo del producto:       583
+Nombre del producto: Lapicero Central Tipo 18
+StockTotal:               1750
+
+Stock en Paquetes: 
+Paquetes:                   17
+Unidades:                   50
+=======================================================
+Codigo del producto:       584
+Nombre del producto: Shampoo Mascota Amazonia Tipo 06
+StockTotal:                216
+
+Stock en Paquetes: 
+Paquetes:                   10
+Unidades:                   16
+=======================================================
+Codigo del producto:       589
+Nombre del producto: Cereal Costa Tipo 20
+StockTotal:                314
+
+Stock en Paquetes: 
+Paquetes:                    6
+Unidades:                   14
+=======================================================
+Codigo del producto:       593
+Nombre del producto: Fideo Amazonia Tipo 12
+StockTotal:               1064
+
+Stock en Paquetes: 
+Paquetes:                   53
+Unidades:                    4
+=======================================================
+Codigo del producto:       594
+Nombre del producto: Bebida Energetica Sol Tipo 13
+StockTotal:                 55
+
+Stock en Paquetes: 
+Paquetes:                    1
+Unidades:                    5
+=======================================================
+Codigo del producto:       595
+Nombre del producto: Desinfectante Misti Tipo 03
+StockTotal:                332
+
+Stock en Paquetes: 
+Paquetes:                   33
+Unidades:                    2
+=======================================================
+Codigo del producto:       600
+Nombre del producto: Alimento Perro Kantu Tipo 12
+StockTotal:                857
+
+Stock en Paquetes: 
+Paquetes:                   42
+Unidades:                   17
+=======================================================
+Almacen:           ALM01
+Numero de Productos: 155
+=======================================================
+Detalle de productos:
+=======================================================
+Codigo del producto:         8
+Nombre del producto: Arena Gato Amazonia Tipo 11
+StockTotal:               1370
+
+Stock en Paquetes: 
+Paquetes:                   13
+Unidades:                   70
+=======================================================
+Codigo del producto:        10
+Nombre del producto: Agua Inti Tipo 13
+StockTotal:               1221
+
+Stock en Paquetes: 
+Paquetes:                   61
+Unidades:                    1
+=======================================================
+Codigo del producto:        17
+Nombre del producto: Sal Central Tipo 03
+StockTotal:               1626
+
+Stock en Paquetes: 
+Paquetes:                   16
+Unidades:                   26
+=======================================================
+Codigo del producto:        18
+Nombre del producto: Gaseosa Sol Tipo 07
+StockTotal:               1683
+
+Stock en Paquetes: 
+Paquetes:                   33
+Unidades:                   33
+=======================================================
+Codigo del producto:        23
+Nombre del producto: Marcador Andes Tipo 23
+StockTotal:               1312
+
+Stock en Paquetes: 
+Paquetes:                   27
+Unidades:                   16
+=======================================================
+Codigo del producto:        26
+Nombre del producto: Bebida Isotonica Pacifico Tipo 20
+StockTotal:                227
+
+Stock en Paquetes: 
+Paquetes:                   11
+Unidades:                    7
+=======================================================
+Codigo del producto:        28
+Nombre del producto: Pasta Dental Sol Tipo 07
+StockTotal:                355
+
+Stock en Paquetes: 
+Paquetes:                    7
+Unidades:                    5
+=======================================================
+Codigo del producto:        31
+Nombre del producto: Folder Kantu Tipo 04
+StockTotal:                259
+
+Stock en Paquetes: 
+Paquetes:                    2
+Unidades:                   59
+=======================================================
+Codigo del producto:        33
+Nombre del producto: Quinua Valle Tipo 12
+StockTotal:               1133
+
+Stock en Paquetes: 
+Paquetes:                  113
+Unidades:                    3
+=======================================================
+Codigo del producto:        47
+Nombre del producto: Lapicero Valle Tipo 14
+StockTotal:                118
+
+Stock en Paquetes: 
+Paquetes:                    2
+Unidades:                   22
+=======================================================
+Codigo del producto:        49
+Nombre del producto: Arroz Costa Tipo 21
+StockTotal:                  4
+
+Stock en Paquetes: 
+Paquetes:                    0
+Unidades:                    4
+=======================================================
+Codigo del producto:        50
+Nombre del producto: Jugo Kantu Tipo 13
+StockTotal:                517
+
+Stock en Paquetes: 
+Paquetes:                   51
+Unidades:                    7
+=======================================================
+Codigo del producto:        52
+Nombre del producto: Pasta Dental Sol Tipo 21
+StockTotal:                377
+
+Stock en Paquetes: 
+Paquetes:                   18
+Unidades:                   17
+=======================================================
+Codigo del producto:        53
+Nombre del producto: Caramelo Kantu Tipo 11
+StockTotal:                643
+
+Stock en Paquetes: 
+Paquetes:                   53
+Unidades:                    7
+=======================================================
+Codigo del producto:        54
+Nombre del producto: Maiz Dulce Amazonia Tipo 24
+StockTotal:               1662
+
+Stock en Paquetes: 
+Paquetes:                   33
+Unidades:                   12
+=======================================================
+Codigo del producto:        55
+Nombre del producto: Lapicero Sierra Tipo 21
+StockTotal:                509
+
+Stock en Paquetes: 
+Paquetes:                   20
+Unidades:                    9
+=======================================================
+Codigo del producto:        70
+Nombre del producto: Leche Evaporada Misti Tipo 05
+StockTotal:                992
+
+Stock en Paquetes: 
+Paquetes:                   20
+Unidades:                   32
+=======================================================
+Codigo del producto:        71
+Nombre del producto: Cuaderno Pacifico Tipo 10
+StockTotal:               1315
+
+Stock en Paquetes: 
+Paquetes:                  109
+Unidades:                    7
+=======================================================
+Codigo del producto:        73
+Nombre del producto: Cafe Andes Tipo 21
+StockTotal:                445
+
+Stock en Paquetes: 
+Paquetes:                   17
+Unidades:                   20
+=======================================================
+Codigo del producto:        77
+Nombre del producto: Chocolate Sierra Tipo 05
+StockTotal:                985
+
+Stock en Paquetes: 
+Paquetes:                    9
+Unidades:                   85
+=======================================================
+Codigo del producto:        79
+Nombre del producto: Folder Amazonia Tipo 14
+StockTotal:               1086
+
+Stock en Paquetes: 
+Paquetes:                   45
+Unidades:                    6
+=======================================================
+Codigo del producto:        80
+Nombre del producto: Alimento Perro Valle Tipo 10
+StockTotal:                421
+
+Stock en Paquetes: 
+Paquetes:                    8
+Unidades:                   21
+=======================================================
+Codigo del producto:        85
+Nombre del producto: Barra Energetica Sol Tipo 23
+StockTotal:                147
+
+Stock en Paquetes: 
+Paquetes:                    7
+Unidades:                    7
+=======================================================
+Codigo del producto:        89
+Nombre del producto: Arroz Costa Tipo 19
+StockTotal:               1615
+
+Stock en Paquetes: 
+Paquetes:                   67
+Unidades:                    7
+=======================================================
+Codigo del producto:        92
+Nombre del producto: Alcohol Gel Costa Tipo 16
+StockTotal:                156
+
+Stock en Paquetes: 
+Paquetes:                    6
+Unidades:                   12
+=======================================================
+Codigo del producto:        94
+Nombre del producto: Salsa de Tomate Sol Tipo 20
+StockTotal:                670
+
+Stock en Paquetes: 
+Paquetes:                   13
+Unidades:                   20
+=======================================================
+Codigo del producto:       102
+Nombre del producto: Maiz Dulce Valle Tipo 15
+StockTotal:                644
+
+Stock en Paquetes: 
+Paquetes:                   32
+Unidades:                    4
+=======================================================
+Codigo del producto:       105
+Nombre del producto: Harina Misti Tipo 10
+StockTotal:                789
+
+Stock en Paquetes: 
+Paquetes:                    7
+Unidades:                   89
+=======================================================
+Codigo del producto:       106
+Nombre del producto: Te Inti Tipo 11
+StockTotal:                778
+
+Stock en Paquetes: 
+Paquetes:                   16
+Unidades:                   10
+=======================================================
+Codigo del producto:       109
+Nombre del producto: Chocolate Valle Tipo 04
+StockTotal:                717
+
+Stock en Paquetes: 
+Paquetes:                   71
+Unidades:                    7
+=======================================================
+Codigo del producto:       111
+Nombre del producto: Cuaderno Sierra Tipo 21
+StockTotal:               1127
+
+Stock en Paquetes: 
+Paquetes:                   22
+Unidades:                   27
+=======================================================
+Codigo del producto:       119
+Nombre del producto: Lapicero Sol Tipo 14
+StockTotal:               1447
+
+Stock en Paquetes: 
+Paquetes:                   72
+Unidades:                    7
+=======================================================
+Codigo del producto:       129
+Nombre del producto: Fideo Sierra Tipo 11
+StockTotal:               1772
+
+Stock en Paquetes: 
+Paquetes:                   17
+Unidades:                   72
+=======================================================
+Codigo del producto:       139
+Nombre del producto: Suavizante Central Tipo 11
+StockTotal:                320
+
+Stock en Paquetes: 
+Paquetes:                    3
+Unidades:                   20
+=======================================================
+Codigo del producto:       144
+Nombre del producto: Shampoo Mascota Sol Tipo 16
+StockTotal:               1102
+
+Stock en Paquetes: 
+Paquetes:                   22
+Unidades:                    2
+=======================================================
+Codigo del producto:       145
+Nombre del producto: Azucar Misti Tipo 23
+StockTotal:                879
+
+Stock en Paquetes: 
+Paquetes:                   87
+Unidades:                    9
+=======================================================
+Codigo del producto:       147
+Nombre del producto: Detergente Pacifico Tipo 11
+StockTotal:                316
+
+Stock en Paquetes: 
+Paquetes:                   26
+Unidades:                    4
+=======================================================
+Codigo del producto:       157
+Nombre del producto: Caramelo Misti Tipo 23
+StockTotal:               1761
+
+Stock en Paquetes: 
+Paquetes:                   73
+Unidades:                    9
+=======================================================
+Codigo del producto:       159
+Nombre del producto: Folder Sol Tipo 04
+StockTotal:                682
+
+Stock en Paquetes: 
+Paquetes:                   34
+Unidades:                    2
+=======================================================
+Codigo del producto:       160
+Nombre del producto: Shampoo Mascota Sol Tipo 09
+StockTotal:               1175
+
+Stock en Paquetes: 
+Paquetes:                   48
+Unidades:                   23
+=======================================================
+Codigo del producto:       163
+Nombre del producto: Detergente Sol Tipo 01
+StockTotal:                324
+
+Stock en Paquetes: 
+Paquetes:                    6
+Unidades:                   24
+=======================================================
+Codigo del producto:       165
+Nombre del producto: Barra Energetica Misti Tipo 11
+StockTotal:               1645
+
+Stock en Paquetes: 
+Paquetes:                   65
+Unidades:                   20
+=======================================================
+Codigo del producto:       166
+Nombre del producto: Salsa de Tomate Sierra Tipo 03
+StockTotal:               1148
+
+Stock en Paquetes: 
+Paquetes:                   95
+Unidades:                    8
+=======================================================
+Codigo del producto:       168
+Nombre del producto: Alimento Perro Central Tipo 23
+StockTotal:                582
+
+Stock en Paquetes: 
+Paquetes:                   29
+Unidades:                    2
+=======================================================
+Codigo del producto:       169
+Nombre del producto: Arroz Sol Tipo 25
+StockTotal:                763
+
+Stock en Paquetes: 
+Paquetes:                   15
+Unidades:                   13
+=======================================================
+Codigo del producto:       170
+Nombre del producto: Bebida Isotonica Pacifico Tipo 07
+StockTotal:                573
+
+Stock en Paquetes: 
+Paquetes:                   11
+Unidades:                   45
+=======================================================
+Codigo del producto:       173
+Nombre del producto: Barra Energetica Inti Tipo 11
+StockTotal:               1053
+
+Stock en Paquetes: 
+Paquetes:                   42
+Unidades:                    3
+=======================================================
+Codigo del producto:       174
+Nombre del producto: Leche Evaporada Costa Tipo 22
+StockTotal:               1422
+
+Stock en Paquetes: 
+Paquetes:                   14
+Unidades:                   22
+=======================================================
+Codigo del producto:       182
+Nombre del producto: Maiz Dulce Norte Tipo 25
+StockTotal:                549
+
+Stock en Paquetes: 
+Paquetes:                   22
+Unidades:                   21
+=======================================================
+Codigo del producto:       186
+Nombre del producto: Te Central Tipo 11
+StockTotal:                648
+
+Stock en Paquetes: 
+Paquetes:                   54
+Unidades:                    0
+=======================================================
+Codigo del producto:       188
+Nombre del producto: Papel Higienico Inti Tipo 02
+StockTotal:               1300
+
+Stock en Paquetes: 
+Paquetes:                   54
+Unidades:                    4
+=======================================================
+Codigo del producto:       197
+Nombre del producto: Galletas Central Tipo 07
+StockTotal:                 93
+
+Stock en Paquetes: 
+Paquetes:                    0
+Unidades:                   93
+=======================================================
+Codigo del producto:       200
+Nombre del producto: Alimento Gato Pacifico Tipo 09
+StockTotal:               1670
+
+Stock en Paquetes: 
+Paquetes:                   16
+Unidades:                   70
+=======================================================
+Codigo del producto:       201
+Nombre del producto: Fideo Costa Tipo 02
+StockTotal:                917
+
+Stock en Paquetes: 
+Paquetes:                    9
+Unidades:                   17
+=======================================================
+Codigo del producto:       202
+Nombre del producto: Agua Norte Tipo 01
+StockTotal:                967
+
+Stock en Paquetes: 
+Paquetes:                   48
+Unidades:                    7
+=======================================================
+Codigo del producto:       207
+Nombre del producto: Cinta Adhesiva Valle Tipo 20
+StockTotal:               1315
+
+Stock en Paquetes: 
+Paquetes:                   13
+Unidades:                   15
+=======================================================
+Codigo del producto:       208
+Nombre del producto: Alimento Perro Valle Tipo 22
+StockTotal:                 85
+
+Stock en Paquetes: 
+Paquetes:                    0
+Unidades:                   85
+=======================================================
+Codigo del producto:       211
+Nombre del producto: Suavizante Sierra Tipo 08
+StockTotal:                 54
+
+Stock en Paquetes: 
+Paquetes:                    5
+Unidades:                    4
+=======================================================
+Codigo del producto:       215
+Nombre del producto: Lapicero Sierra Tipo 16
+StockTotal:               1735
+
+Stock en Paquetes: 
+Paquetes:                   86
+Unidades:                   15
+=======================================================
+Codigo del producto:       218
+Nombre del producto: Agua Amazonia Tipo 13
+StockTotal:                497
+
+Stock en Paquetes: 
+Paquetes:                    4
+Unidades:                   97
+=======================================================
+Codigo del producto:       223
+Nombre del producto: Folder Costa Tipo 16
+StockTotal:               1332
+
+Stock en Paquetes: 
+Paquetes:                   55
+Unidades:                   12
+=======================================================
+Codigo del producto:       230
+Nombre del producto: Durazno Misti Tipo 01
+StockTotal:                 20
+
+Stock en Paquetes: 
+Paquetes:                    0
+Unidades:                   20
+=======================================================
+Codigo del producto:       232
+Nombre del producto: Alimento Perro Sierra Tipo 10
+StockTotal:                 51
+
+Stock en Paquetes: 
+Paquetes:                    2
+Unidades:                    3
+=======================================================
+Codigo del producto:       236
+Nombre del producto: Pasta Dental Valle Tipo 06
+StockTotal:                583
+
+Stock en Paquetes: 
+Paquetes:                    5
+Unidades:                   83
+=======================================================
+Codigo del producto:       246
+Nombre del producto: Durazno Amazonia Tipo 12
+StockTotal:               1349
+
+Stock en Paquetes: 
+Paquetes:                   53
+Unidades:                   24
+=======================================================
+Codigo del producto:       247
+Nombre del producto: Lapicero Inti Tipo 03
+StockTotal:                969
+
+Stock en Paquetes: 
+Paquetes:                   20
+Unidades:                    9
+=======================================================
+Codigo del producto:       248
+Nombre del producto: Snack Canino Pacifico Tipo 24
+StockTotal:                561
+
+Stock en Paquetes: 
+Paquetes:                   23
+Unidades:                    9
+=======================================================
+Codigo del producto:       250
+Nombre del producto: Bebida Isotonica Amazonia Tipo 15
+StockTotal:                345
+
+Stock en Paquetes: 
+Paquetes:                   34
+Unidades:                    5
+=======================================================
+Codigo del producto:       251
+Nombre del producto: Limpiavidrios Amazonia Tipo 24
+StockTotal:                396
+
+Stock en Paquetes: 
+Paquetes:                   19
+Unidades:                   16
+=======================================================
+Codigo del producto:       254
+Nombre del producto: Sardina Andes Tipo 09
+StockTotal:                833
+
+Stock en Paquetes: 
+Paquetes:                   17
+Unidades:                   17
+=======================================================
+Codigo del producto:       264
+Nombre del producto: Arena Gato Kantu Tipo 02
+StockTotal:                 13
+
+Stock en Paquetes: 
+Paquetes:                    0
+Unidades:                   13
+=======================================================
+Codigo del producto:       265
+Nombre del producto: Sal Inti Tipo 22
+StockTotal:                723
+
+Stock en Paquetes: 
+Paquetes:                   28
+Unidades:                   23
+=======================================================
+Codigo del producto:       267
+Nombre del producto: Desinfectante Costa Tipo 11
+StockTotal:                353
+
+Stock en Paquetes: 
+Paquetes:                   14
+Unidades:                   17
+=======================================================
+Codigo del producto:       269
+Nombre del producto: Caramelo Norte Tipo 08
+StockTotal:                 50
+
+Stock en Paquetes: 
+Paquetes:                    2
+Unidades:                   10
+=======================================================
+Codigo del producto:       272
+Nombre del producto: Alimento Perro Valle Tipo 22
+StockTotal:                487
+
+Stock en Paquetes: 
+Paquetes:                   19
+Unidades:                   12
+=======================================================
+Codigo del producto:       274
+Nombre del producto: Bebida Energetica Kantu Tipo 21
+StockTotal:               1339
+
+Stock en Paquetes: 
+Paquetes:                  133
+Unidades:                    9
+=======================================================
+Codigo del producto:       284
+Nombre del producto: Papel Higienico Valle Tipo 01
+StockTotal:               1723
+
+Stock en Paquetes: 
+Paquetes:                  143
+Unidades:                    7
+=======================================================
+Codigo del producto:       285
+Nombre del producto: Papas Kantu Tipo 02
+StockTotal:                 33
+
+Stock en Paquetes: 
+Paquetes:                    0
+Unidades:                   33
+=======================================================
+Codigo del producto:       286
+Nombre del producto: Maiz Dulce Andes Tipo 12
+StockTotal:                784
+
+Stock en Paquetes: 
+Paquetes:                    7
+Unidades:                   84
+=======================================================
+Codigo del producto:       290
+Nombre del producto: Jugo Kantu Tipo 23
+StockTotal:               1036
+
+Stock en Paquetes: 
+Paquetes:                   41
+Unidades:                   11
+=======================================================
+Codigo del producto:       295
+Nombre del producto: Papel A4 Amazonia Tipo 17
+StockTotal:               1151
+
+Stock en Paquetes: 
+Paquetes:                   46
+Unidades:                    1
+=======================================================
+Codigo del producto:       300
+Nombre del producto: Shampoo Costa Tipo 14
+StockTotal:               1378
+
+Stock en Paquetes: 
+Paquetes:                   57
+Unidades:                   10
+=======================================================
+Codigo del producto:       305
+Nombre del producto: Harina Sierra Tipo 16
+StockTotal:                572
+
+Stock en Paquetes: 
+Paquetes:                   23
+Unidades:                   20
+=======================================================
+Codigo del producto:       307
+Nombre del producto: Detergente Misti Tipo 08
+StockTotal:                516
+
+Stock en Paquetes: 
+Paquetes:                   20
+Unidades:                   16
+=======================================================
+Codigo del producto:       313
+Nombre del producto: Frijol Andes Tipo 18
+StockTotal:                244
+
+Stock en Paquetes: 
+Paquetes:                   20
+Unidades:                    4
+=======================================================
+Codigo del producto:       319
+Nombre del producto: Cinta Adhesiva Sierra Tipo 04
+StockTotal:                382
+
+Stock en Paquetes: 
+Paquetes:                    3
+Unidades:                   82
+=======================================================
+Codigo del producto:       322
+Nombre del producto: Agua Kantu Tipo 15
+StockTotal:                 70
+
+Stock en Paquetes: 
+Paquetes:                    2
+Unidades:                   20
+=======================================================
+Codigo del producto:       326
+Nombre del producto: Salsa de Tomate Valle Tipo 05
+StockTotal:                798
+
+Stock en Paquetes: 
+Paquetes:                   66
+Unidades:                    6
+=======================================================
+Codigo del producto:       330
+Nombre del producto: Te Kantu Tipo 08
+StockTotal:               1646
+
+Stock en Paquetes: 
+Paquetes:                   82
+Unidades:                    6
+=======================================================
+Codigo del producto:       343
+Nombre del producto: Cuaderno Inti Tipo 17
+StockTotal:                272
+
+Stock en Paquetes: 
+Paquetes:                   22
+Unidades:                    8
+=======================================================
+Codigo del producto:       345
+Nombre del producto: Harina Norte Tipo 10
+StockTotal:                725
+
+Stock en Paquetes: 
+Paquetes:                   72
+Unidades:                    5
+=======================================================
+Codigo del producto:       346
+Nombre del producto: Te Pacifico Tipo 07
+StockTotal:               1307
+
+Stock en Paquetes: 
+Paquetes:                   27
+Unidades:                   11
+=======================================================
+Codigo del producto:       353
+Nombre del producto: Fideo Pacifico Tipo 17
+StockTotal:                841
+
+Stock en Paquetes: 
+Paquetes:                   35
+Unidades:                    1
+=======================================================
+Codigo del producto:       357
+Nombre del producto: Barra Energetica Sol Tipo 25
+StockTotal:                660
+
+Stock en Paquetes: 
+Paquetes:                   33
+Unidades:                    0
+=======================================================
+Codigo del producto:       361
+Nombre del producto: Cafe Kantu Tipo 07
+StockTotal:               1203
+
+Stock en Paquetes: 
+Paquetes:                   50
+Unidades:                    3
+=======================================================
+Codigo del producto:       362
+Nombre del producto: Bebida Energetica Kantu Tipo 15
+StockTotal:                283
+
+Stock en Paquetes: 
+Paquetes:                    5
+Unidades:                   43
+=======================================================
+Codigo del producto:       364
+Nombre del producto: Shampoo Costa Tipo 04
+StockTotal:                333
+
+Stock en Paquetes: 
+Paquetes:                   27
+Unidades:                    9
+=======================================================
+Codigo del producto:       365
+Nombre del producto: Galletas Misti Tipo 08
+StockTotal:               1451
+
+Stock en Paquetes: 
+Paquetes:                   60
+Unidades:                   11
+=======================================================
+Codigo del producto:       368
+Nombre del producto: Shampoo Mascota Kantu Tipo 05
+StockTotal:                799
+
+Stock en Paquetes: 
+Paquetes:                   33
+Unidades:                    7
+=======================================================
+Codigo del producto:       374
+Nombre del producto: Durazno Inti Tipo 01
+StockTotal:               1599
+
+Stock en Paquetes: 
+Paquetes:                   15
+Unidades:                   99
+=======================================================
+Codigo del producto:       375
+Nombre del producto: Marcador Valle Tipo 24
+StockTotal:               1074
+
+Stock en Paquetes: 
+Paquetes:                   44
+Unidades:                   18
+=======================================================
+Codigo del producto:       381
+Nombre del producto: Caramelo Norte Tipo 17
+StockTotal:                721
+
+Stock en Paquetes: 
+Paquetes:                   36
+Unidades:                    1
+=======================================================
+Codigo del producto:       388
+Nombre del producto: Jabon Misti Tipo 04
+StockTotal:               1677
+
+Stock en Paquetes: 
+Paquetes:                   83
+Unidades:                   17
+=======================================================
+Codigo del producto:       392
+Nombre del producto: Alimento Gato Misti Tipo 13
+StockTotal:               1309
+
+Stock en Paquetes: 
+Paquetes:                   65
+Unidades:                    9
+=======================================================
+Codigo del producto:       411
+Nombre del producto: Limpiavidrios Kantu Tipo 03
+StockTotal:               1096
+
+Stock en Paquetes: 
+Paquetes:                   21
+Unidades:                   46
+=======================================================
+Codigo del producto:       419
+Nombre del producto: Detergente Norte Tipo 07
+StockTotal:               1094
+
+Stock en Paquetes: 
+Paquetes:                   91
+Unidades:                    2
+=======================================================
+Codigo del producto:       431
+Nombre del producto: Papel A4 Sierra Tipo 22
+StockTotal:                900
+
+Stock en Paquetes: 
+Paquetes:                   36
+Unidades:                    0
+=======================================================
+Codigo del producto:       433
+Nombre del producto: Frijol Misti Tipo 18
+StockTotal:               1206
+
+Stock en Paquetes: 
+Paquetes:                   12
+Unidades:                    6
+=======================================================
+Codigo del producto:       435
+Nombre del producto: Suavizante Amazonia Tipo 12
+StockTotal:                853
+
+Stock en Paquetes: 
+Paquetes:                   35
+Unidades:                   13
+=======================================================
+Codigo del producto:       438
+Nombre del producto: Sardina Inti Tipo 24
+StockTotal:                460
+
+Stock en Paquetes: 
+Paquetes:                    9
+Unidades:                   28
+=======================================================
+Codigo del producto:       440
+Nombre del producto: Arena Gato Valle Tipo 18
+StockTotal:                145
+
+Stock en Paquetes: 
+Paquetes:                    6
+Unidades:                    1
+=======================================================
+Codigo del producto:       441
+Nombre del producto: Lenteja Amazonia Tipo 13
+StockTotal:                193
+
+Stock en Paquetes: 
+Paquetes:                    4
+Unidades:                    1
+=======================================================
+Codigo del producto:       444
+Nombre del producto: Shampoo Sierra Tipo 22
+StockTotal:               1410
+
+Stock en Paquetes: 
+Paquetes:                   28
+Unidades:                   10
+=======================================================
+Codigo del producto:       445
+Nombre del producto: Papas Costa Tipo 01
+StockTotal:               1587
+
+Stock en Paquetes: 
+Paquetes:                   33
+Unidades:                    3
+=======================================================
+Codigo del producto:       449
+Nombre del producto: Harina Central Tipo 24
+StockTotal:               1667
+
+Stock en Paquetes: 
+Paquetes:                  166
+Unidades:                    7
+=======================================================
+Codigo del producto:       450
+Nombre del producto: Te Norte Tipo 09
+StockTotal:                943
+
+Stock en Paquetes: 
+Paquetes:                   39
+Unidades:                    7
+=======================================================
+Codigo del producto:       451
+Nombre del producto: Lejia Sierra Tipo 11
+StockTotal:               1078
+
+Stock en Paquetes: 
+Paquetes:                   21
+Unidades:                   28
+=======================================================
+Codigo del producto:       452
+Nombre del producto: Pasta Dental Central Tipo 04
+StockTotal:                158
+
+Stock en Paquetes: 
+Paquetes:                    1
+Unidades:                   58
+=======================================================
+Codigo del producto:       457
+Nombre del producto: Harina Valle Tipo 17
+StockTotal:                229
+
+Stock en Paquetes: 
+Paquetes:                    4
+Unidades:                   37
+=======================================================
+Codigo del producto:       458
+Nombre del producto: Te Inti Tipo 06
+StockTotal:               1302
+
+Stock en Paquetes: 
+Paquetes:                   27
+Unidades:                    6
+=======================================================
+Codigo del producto:       465
+Nombre del producto: Harina Misti Tipo 14
+StockTotal:                429
+
+Stock en Paquetes: 
+Paquetes:                   35
+Unidades:                    9
+=======================================================
+Codigo del producto:       471
+Nombre del producto: Cinta Adhesiva Valle Tipo 19
+StockTotal:                  1
+
+Stock en Paquetes: 
+Paquetes:                    0
+Unidades:                    1
+=======================================================
+Codigo del producto:       472
+Nombre del producto: Alimento Gato Sierra Tipo 21
+StockTotal:               1203
+
+Stock en Paquetes: 
+Paquetes:                   48
+Unidades:                    3
+=======================================================
+Codigo del producto:       481
+Nombre del producto: Cafe Misti Tipo 24
+StockTotal:                459
+
+Stock en Paquetes: 
+Paquetes:                   45
+Unidades:                    9
+=======================================================
+Codigo del producto:       483
+Nombre del producto: Desinfectante Amazonia Tipo 12
+StockTotal:               1380
+
+Stock en Paquetes: 
+Paquetes:                   55
+Unidades:                    5
+=======================================================
+Codigo del producto:       488
+Nombre del producto: Arena Gato Misti Tipo 22
+StockTotal:               1231
+
+Stock en Paquetes: 
+Paquetes:                   25
+Unidades:                   31
+=======================================================
+Codigo del producto:       493
+Nombre del producto: Galletas Misti Tipo 08
+StockTotal:               1262
+
+Stock en Paquetes: 
+Paquetes:                   25
+Unidades:                   12
+=======================================================
+Codigo del producto:       495
+Nombre del producto: Cinta Adhesiva Amazonia Tipo 14
+StockTotal:               1061
+
+Stock en Paquetes: 
+Paquetes:                   44
+Unidades:                    5
+=======================================================
+Codigo del producto:       506
+Nombre del producto: Gaseosa Sierra Tipo 08
+StockTotal:               1304
+
+Stock en Paquetes: 
+Paquetes:                  130
+Unidades:                    4
+=======================================================
+Codigo del producto:       507
+Nombre del producto: Detergente Norte Tipo 19
+StockTotal:               1342
+
+Stock en Paquetes: 
+Paquetes:                  111
+Unidades:                   10
+=======================================================
+Codigo del producto:       510
+Nombre del producto: Sardina Kantu Tipo 23
+StockTotal:                763
+
+Stock en Paquetes: 
+Paquetes:                   15
+Unidades:                   13
+=======================================================
+Codigo del producto:       514
+Nombre del producto: Jugo Andes Tipo 13
+StockTotal:                907
+
+Stock en Paquetes: 
+Paquetes:                    9
+Unidades:                    7
+=======================================================
+Codigo del producto:       521
+Nombre del producto: Harina Costa Tipo 04
+StockTotal:                 85
+
+Stock en Paquetes: 
+Paquetes:                    1
+Unidades:                   35
+=======================================================
+Codigo del producto:       523
+Nombre del producto: Limpiavidrios Sierra Tipo 03
+StockTotal:                259
+
+Stock en Paquetes: 
+Paquetes:                   12
+Unidades:                   19
+=======================================================
+Codigo del producto:       526
+Nombre del producto: Maiz Dulce Sierra Tipo 01
+StockTotal:               1484
+
+Stock en Paquetes: 
+Paquetes:                  123
+Unidades:                    8
+=======================================================
+Codigo del producto:       533
+Nombre del producto: Barra Energetica Pacifico Tipo 01
+StockTotal:                344
+
+Stock en Paquetes: 
+Paquetes:                    7
+Unidades:                    8
+=======================================================
+Codigo del producto:       535
+Nombre del producto: Papel A4 Sierra Tipo 20
+StockTotal:                605
+
+Stock en Paquetes: 
+Paquetes:                   30
+Unidades:                    5
+=======================================================
+Codigo del producto:       536
+Nombre del producto: Alimento Gato Misti Tipo 24
+StockTotal:               1549
+
+Stock en Paquetes: 
+Paquetes:                  129
+Unidades:                    1
+=======================================================
+Codigo del producto:       546
+Nombre del producto: Bebida Energetica Norte Tipo 22
+StockTotal:               1422
+
+Stock en Paquetes: 
+Paquetes:                   29
+Unidades:                   30
+=======================================================
+Codigo del producto:       551
+Nombre del producto: Folder Misti Tipo 20
+StockTotal:               1531
+
+Stock en Paquetes: 
+Paquetes:                  127
+Unidades:                    7
+=======================================================
+Codigo del producto:       553
+Nombre del producto: Lenteja Sierra Tipo 07
+StockTotal:               1166
+
+Stock en Paquetes: 
+Paquetes:                   23
+Unidades:                   16
+=======================================================
+Codigo del producto:       557
+Nombre del producto: Chocolate Inti Tipo 19
+StockTotal:               1377
+
+Stock en Paquetes: 
+Paquetes:                   55
+Unidades:                    2
+=======================================================
+Codigo del producto:       558
+Nombre del producto: Durazno Andes Tipo 08
+StockTotal:                717
+
+Stock en Paquetes: 
+Paquetes:                   59
+Unidades:                    9
+=======================================================
+Codigo del producto:       559
+Nombre del producto: Cuaderno Misti Tipo 07
+StockTotal:                122
+
+Stock en Paquetes: 
+Paquetes:                    1
+Unidades:                   22
+=======================================================
+Codigo del producto:       560
+Nombre del producto: Alimento Gato Sol Tipo 02
+StockTotal:                218
+
+Stock en Paquetes: 
+Paquetes:                    4
+Unidades:                   18
+=======================================================
+Codigo del producto:       572
+Nombre del producto: Papel Higienico Inti Tipo 11
+StockTotal:               1051
+
+Stock en Paquetes: 
+Paquetes:                   43
+Unidades:                   19
+=======================================================
+Codigo del producto:       573
+Nombre del producto: Papas Andes Tipo 10
+StockTotal:                479
+
+Stock en Paquetes: 
+Paquetes:                   23
+Unidades:                   19
+=======================================================
+Codigo del producto:       576
+Nombre del producto: Alimento Gato Inti Tipo 12
+StockTotal:                135
+
+Stock en Paquetes: 
+Paquetes:                    5
+Unidades:                   10
+=======================================================
+Codigo del producto:       579
+Nombre del producto: Detergente Pacifico Tipo 13
+StockTotal:                529
+
+Stock en Paquetes: 
+Paquetes:                   22
+Unidades:                    1
+=======================================================
+Codigo del producto:       581
+Nombre del producto: Chocolate Pacifico Tipo 24
+StockTotal:               1365
+
+Stock en Paquetes: 
+Paquetes:                   27
+Unidades:                   15
+=======================================================
+Codigo del producto:       586
+Nombre del producto: Agua Norte Tipo 10
+StockTotal:                601
+
+Stock en Paquetes: 
+Paquetes:                   30
+Unidades:                    1
+=======================================================
+Codigo del producto:       588
+Nombre del producto: Papel Higienico Amazonia Tipo 24
+StockTotal:                736
+
+Stock en Paquetes: 
+Paquetes:                   15
+Unidades:                   16
+=======================================================
+Codigo del producto:       591
+Nombre del producto: Cuaderno Inti Tipo 22
+StockTotal:                815
+
+Stock en Paquetes: 
+Paquetes:                   81
+Unidades:                    5
+=======================================================
+Codigo del producto:       592
+Nombre del producto: Shampoo Mascota Pacifico Tipo 22
+StockTotal:                871
+
+Stock en Paquetes: 
+Paquetes:                   43
+Unidades:                   11
+=======================================================
+Codigo del producto:       597
+Nombre del producto: Barra Energetica Misti Tipo 04
+StockTotal:                452
+
+Stock en Paquetes: 
+Paquetes:                   18
+Unidades:                    2
+=======================================================
+Almacen:           ALM03
+Numero de Productos: 157
+=======================================================
+Detalle de productos:
+=======================================================
+Codigo del producto:         9
+Nombre del producto: Azucar Sierra Tipo 05
+StockTotal:               1352
+
+Stock en Paquetes: 
+Paquetes:                  112
+Unidades:                    8
+=======================================================
+Codigo del producto:        14
+Nombre del producto: Maiz Dulce Andes Tipo 13
+StockTotal:                268
+
+Stock en Paquetes: 
+Paquetes:                   10
+Unidades:                   18
+=======================================================
+Codigo del producto:        15
+Nombre del producto: Folder Misti Tipo 09
+StockTotal:               1189
+
+Stock en Paquetes: 
+Paquetes:                   23
+Unidades:                   39
+=======================================================
+Codigo del producto:        16
+Nombre del producto: Arena Gato Costa Tipo 03
+StockTotal:                370
+
+Stock en Paquetes: 
+Paquetes:                   30
+Unidades:                   10
+=======================================================
+Codigo del producto:        20
+Nombre del producto: Alcohol Gel Kantu Tipo 13
+StockTotal:               1215
+
+Stock en Paquetes: 
+Paquetes:                   50
+Unidades:                   15
+=======================================================
+Codigo del producto:        27
+Nombre del producto: Suavizante Costa Tipo 14
+StockTotal:                126
+
+Stock en Paquetes: 
+Paquetes:                   10
+Unidades:                    6
+=======================================================
+Codigo del producto:        29
+Nombre del producto: Papas Amazonia Tipo 05
+StockTotal:               1692
+
+Stock en Paquetes: 
+Paquetes:                   70
+Unidades:                   12
+=======================================================
+Codigo del producto:        34
+Nombre del producto: Agua Central Tipo 04
+StockTotal:               1648
+
+Stock en Paquetes: 
+Paquetes:                   32
+Unidades:                   48
+=======================================================
+Codigo del producto:        35
+Nombre del producto: Desinfectante Central Tipo 06
+StockTotal:                320
+
+Stock en Paquetes: 
+Paquetes:                   12
+Unidades:                   20
+=======================================================
+Codigo del producto:        36
+Nombre del producto: Jabon Norte Tipo 24
+StockTotal:                457
+
+Stock en Paquetes: 
+Paquetes:                    9
+Unidades:                    7
+=======================================================
+Codigo del producto:        37
+Nombre del producto: Chocolate Kantu Tipo 18
+StockTotal:               1609
+
+Stock en Paquetes: 
+Paquetes:                   80
+Unidades:                    9
+=======================================================
+Codigo del producto:        39
+Nombre del producto: Marcador Inti Tipo 24
+StockTotal:                962
+
+Stock en Paquetes: 
+Paquetes:                   48
+Unidades:                    2
+=======================================================
+Codigo del producto:        43
+Nombre del producto: Suavizante Sol Tipo 06
+StockTotal:                665
+
+Stock en Paquetes: 
+Paquetes:                   33
+Unidades:                    5
+=======================================================
+Codigo del producto:        45
+Nombre del producto: Barra Energetica Sol Tipo 11
+StockTotal:                459
+
+Stock en Paquetes: 
+Paquetes:                    9
+Unidades:                    9
+=======================================================
+Codigo del producto:        48
+Nombre del producto: Alimento Gato Pacifico Tipo 10
+StockTotal:                727
+
+Stock en Paquetes: 
+Paquetes:                   29
+Unidades:                    2
+=======================================================
+Codigo del producto:        51
+Nombre del producto: Suavizante Valle Tipo 18
+StockTotal:               1124
+
+Stock en Paquetes: 
+Paquetes:                   46
+Unidades:                   20
+=======================================================
+Codigo del producto:        56
+Nombre del producto: Shampoo Mascota Misti Tipo 13
+StockTotal:               1700
+
+Stock en Paquetes: 
+Paquetes:                   68
+Unidades:                    0
+=======================================================
+Codigo del producto:        62
+Nombre del producto: Sardina Norte Tipo 12
+StockTotal:               1186
+
+Stock en Paquetes: 
+Paquetes:                   59
+Unidades:                    6
+=======================================================
+Codigo del producto:        64
+Nombre del producto: Snack Canino Pacifico Tipo 17
+StockTotal:               1333
+
+Stock en Paquetes: 
+Paquetes:                  111
+Unidades:                    1
+=======================================================
+Codigo del producto:        66
+Nombre del producto: Jugo Sol Tipo 11
+StockTotal:               1326
+
+Stock en Paquetes: 
+Paquetes:                   27
+Unidades:                   30
+=======================================================
+Codigo del producto:        67
+Nombre del producto: Detergente Central Tipo 02
+StockTotal:                450
+
+Stock en Paquetes: 
+Paquetes:                    4
+Unidades:                   50
+=======================================================
+Codigo del producto:        74
+Nombre del producto: Gaseosa Kantu Tipo 24
+StockTotal:                444
+
+Stock en Paquetes: 
+Paquetes:                    9
+Unidades:                   12
+=======================================================
+Codigo del producto:        76
+Nombre del producto: Alcohol Gel Valle Tipo 10
+StockTotal:                283
+
+Stock en Paquetes: 
+Paquetes:                    2
+Unidades:                   83
+=======================================================
+Codigo del producto:        78
+Nombre del producto: Maiz Dulce Sierra Tipo 17
+StockTotal:                387
+
+Stock en Paquetes: 
+Paquetes:                   19
+Unidades:                    7
+=======================================================
+Codigo del producto:        84
+Nombre del producto: Alcohol Gel Inti Tipo 04
+StockTotal:                652
+
+Stock en Paquetes: 
+Paquetes:                   13
+Unidades:                    2
+=======================================================
+Codigo del producto:        88
+Nombre del producto: Alimento Gato Pacifico Tipo 20
+StockTotal:                581
+
+Stock en Paquetes: 
+Paquetes:                   11
+Unidades:                   31
+=======================================================
+Codigo del producto:        96
+Nombre del producto: Snack Canino Inti Tipo 16
+StockTotal:                514
+
+Stock en Paquetes: 
+Paquetes:                   20
+Unidades:                   14
+=======================================================
+Codigo del producto:        97
+Nombre del producto: Azucar Central Tipo 16
+StockTotal:               1052
+
+Stock en Paquetes: 
+Paquetes:                   42
+Unidades:                    2
+=======================================================
+Codigo del producto:        98
+Nombre del producto: Bebida Isotonica Central Tipo 07
+StockTotal:                798
+
+Stock en Paquetes: 
+Paquetes:                   39
+Unidades:                   18
+=======================================================
+Codigo del producto:       101
+Nombre del producto: Caramelo Central Tipo 09
+StockTotal:               1291
+
+Stock en Paquetes: 
+Paquetes:                   25
+Unidades:                   41
+=======================================================
+Codigo del producto:       103
+Nombre del producto: Lapicero Central Tipo 21
+StockTotal:               1669
+
+Stock en Paquetes: 
+Paquetes:                   16
+Unidades:                   69
+=======================================================
+Codigo del producto:       104
+Nombre del producto: Shampoo Mascota Costa Tipo 12
+StockTotal:                723
+
+Stock en Paquetes: 
+Paquetes:                   30
+Unidades:                    3
+=======================================================
+Codigo del producto:       114
+Nombre del producto: Jugo Pacifico Tipo 21
+StockTotal:               1121
+
+Stock en Paquetes: 
+Paquetes:                   93
+Unidades:                    5
+=======================================================
+Codigo del producto:       115
+Nombre del producto: Suavizante Pacifico Tipo 05
+StockTotal:                871
+
+Stock en Paquetes: 
+Paquetes:                   36
+Unidades:                    7
+=======================================================
+Codigo del producto:       118
+Nombre del producto: Sardina Amazonia Tipo 17
+StockTotal:               1794
+
+Stock en Paquetes: 
+Paquetes:                   71
+Unidades:                   19
+=======================================================
+Codigo del producto:       120
+Nombre del producto: Shampoo Mascota Sol Tipo 03
+StockTotal:                 13
+
+Stock en Paquetes: 
+Paquetes:                    0
+Unidades:                   13
+=======================================================
+Codigo del producto:       121
+Nombre del producto: Frijol Inti Tipo 20
+StockTotal:                422
+
+Stock en Paquetes: 
+Paquetes:                   42
+Unidades:                    2
+=======================================================
+Codigo del producto:       124
+Nombre del producto: Papel Higienico Kantu Tipo 02
+StockTotal:                508
+
+Stock en Paquetes: 
+Paquetes:                   20
+Unidades:                    8
+=======================================================
+Codigo del producto:       125
+Nombre del producto: Caramelo Norte Tipo 16
+StockTotal:               1536
+
+Stock en Paquetes: 
+Paquetes:                   15
+Unidades:                   36
+=======================================================
+Codigo del producto:       126
+Nombre del producto: Atun Sol Tipo 04
+StockTotal:               1162
+
+Stock en Paquetes: 
+Paquetes:                   96
+Unidades:                   10
+=======================================================
+Codigo del producto:       130
+Nombre del producto: Jugo Amazonia Tipo 22
+StockTotal:                773
+
+Stock en Paquetes: 
+Paquetes:                   16
+Unidades:                    5
+=======================================================
+Codigo del producto:       133
+Nombre del producto: Galletas Valle Tipo 01
+StockTotal:               1369
+
+Stock en Paquetes: 
+Paquetes:                   57
+Unidades:                    1
+=======================================================
+Codigo del producto:       138
+Nombre del producto: Jugo Central Tipo 14
+StockTotal:               1746
+
+Stock en Paquetes: 
+Paquetes:                  145
+Unidades:                    6
+=======================================================
+Codigo del producto:       140
+Nombre del producto: Pasta Dental Amazonia Tipo 13
+StockTotal:               1278
+
+Stock en Paquetes: 
+Paquetes:                   25
+Unidades:                   28
+=======================================================
+Codigo del producto:       143
+Nombre del producto: Lapicero Sierra Tipo 03
+StockTotal:                566
+
+Stock en Paquetes: 
+Paquetes:                   47
+Unidades:                    2
+=======================================================
+Codigo del producto:       148
+Nombre del producto: Pasta Dental Misti Tipo 11
+StockTotal:                651
+
+Stock en Paquetes: 
+Paquetes:                   54
+Unidades:                    3
+=======================================================
+Codigo del producto:       151
+Nombre del producto: Marcador Costa Tipo 17
+StockTotal:               1690
+
+Stock en Paquetes: 
+Paquetes:                   70
+Unidades:                   10
+=======================================================
+Codigo del producto:       153
+Nombre del producto: Sal Pacifico Tipo 11
+StockTotal:                662
+
+Stock en Paquetes: 
+Paquetes:                   66
+Unidades:                    2
+=======================================================
+Codigo del producto:       155
+Nombre del producto: Lejia Sierra Tipo 12
+StockTotal:                962
+
+Stock en Paquetes: 
+Paquetes:                   20
+Unidades:                    2
+=======================================================
+Codigo del producto:       167
+Nombre del producto: Papel A4 Inti Tipo 11
+StockTotal:               1233
+
+Stock en Paquetes: 
+Paquetes:                   24
+Unidades:                   33
+=======================================================
+Codigo del producto:       172
+Nombre del producto: Alcohol Gel Amazonia Tipo 10
+StockTotal:                364
+
+Stock en Paquetes: 
+Paquetes:                    3
+Unidades:                   64
+=======================================================
+Codigo del producto:       175
+Nombre del producto: Lapicero Inti Tipo 02
+StockTotal:                135
+
+Stock en Paquetes: 
+Paquetes:                   13
+Unidades:                    5
+=======================================================
+Codigo del producto:       178
+Nombre del producto: Bebida Isotonica Andes Tipo 25
+StockTotal:               1672
+
+Stock en Paquetes: 
+Paquetes:                   33
+Unidades:                   22
+=======================================================
+Codigo del producto:       180
+Nombre del producto: Alcohol Gel Inti Tipo 20
+StockTotal:                888
+
+Stock en Paquetes: 
+Paquetes:                   44
+Unidades:                    8
+=======================================================
+Codigo del producto:       181
+Nombre del producto: Galletas Andes Tipo 14
+StockTotal:               1724
+
+Stock en Paquetes: 
+Paquetes:                  172
+Unidades:                    4
+=======================================================
+Codigo del producto:       183
+Nombre del producto: Folder Inti Tipo 02
+StockTotal:                 13
+
+Stock en Paquetes: 
+Paquetes:                    0
+Unidades:                   13
+=======================================================
+Codigo del producto:       187
+Nombre del producto: Desinfectante Inti Tipo 10
+StockTotal:                249
+
+Stock en Paquetes: 
+Paquetes:                    2
+Unidades:                   49
+=======================================================
+Codigo del producto:       189
+Nombre del producto: Barra Energetica Costa Tipo 23
+StockTotal:                960
+
+Stock en Paquetes: 
+Paquetes:                   20
+Unidades:                    0
+=======================================================
+Codigo del producto:       192
+Nombre del producto: Alimento Perro Costa Tipo 13
+StockTotal:               1468
+
+Stock en Paquetes: 
+Paquetes:                   58
+Unidades:                   18
+=======================================================
+Codigo del producto:       194
+Nombre del producto: Bebida Isotonica Inti Tipo 08
+StockTotal:                 63
+
+Stock en Paquetes: 
+Paquetes:                    1
+Unidades:                   13
+=======================================================
+Codigo del producto:       196
+Nombre del producto: Alcohol Gel Andes Tipo 03
+StockTotal:               1471
+
+Stock en Paquetes: 
+Paquetes:                   58
+Unidades:                   21
+=======================================================
+Codigo del producto:       204
+Nombre del producto: Shampoo Norte Tipo 16
+StockTotal:                  1
+
+Stock en Paquetes: 
+Paquetes:                    0
+Unidades:                    1
+=======================================================
+Codigo del producto:       210
+Nombre del producto: Bebida Isotonica Misti Tipo 21
+StockTotal:                273
+
+Stock en Paquetes: 
+Paquetes:                   10
+Unidades:                   23
+=======================================================
+Codigo del producto:       212
+Nombre del producto: Shampoo Sierra Tipo 13
+StockTotal:                337
+
+Stock en Paquetes: 
+Paquetes:                   14
+Unidades:                    1
+=======================================================
+Codigo del producto:       213
+Nombre del producto: Barra Energetica Andes Tipo 21
+StockTotal:                305
+
+Stock en Paquetes: 
+Paquetes:                   15
+Unidades:                    5
+=======================================================
+Codigo del producto:       217
+Nombre del producto: Cafe Sierra Tipo 18
+StockTotal:                879
+
+Stock en Paquetes: 
+Paquetes:                   17
+Unidades:                   29
+=======================================================
+Codigo del producto:       222
+Nombre del producto: Durazno Norte Tipo 14
+StockTotal:               1522
+
+Stock en Paquetes: 
+Paquetes:                  152
+Unidades:                    2
+=======================================================
+Codigo del producto:       231
+Nombre del producto: Marcador Misti Tipo 13
+StockTotal:                230
+
+Stock en Paquetes: 
+Paquetes:                    4
+Unidades:                   30
+=======================================================
+Codigo del producto:       233
+Nombre del producto: Azucar Misti Tipo 12
+StockTotal:                765
+
+Stock en Paquetes: 
+Paquetes:                   76
+Unidades:                    5
+=======================================================
+Codigo del producto:       234
+Nombre del producto: Bebida Energetica Kantu Tipo 10
+StockTotal:                793
+
+Stock en Paquetes: 
+Paquetes:                   15
+Unidades:                   43
+=======================================================
+Codigo del producto:       237
+Nombre del producto: Caramelo Costa Tipo 11
+StockTotal:                977
+
+Stock en Paquetes: 
+Paquetes:                   39
+Unidades:                    2
+=======================================================
+Codigo del producto:       239
+Nombre del producto: Cinta Adhesiva Misti Tipo 18
+StockTotal:                547
+
+Stock en Paquetes: 
+Paquetes:                   27
+Unidades:                    7
+=======================================================
+Codigo del producto:       240
+Nombre del producto: Snack Canino Costa Tipo 07
+StockTotal:                552
+
+Stock en Paquetes: 
+Paquetes:                   11
+Unidades:                    2
+=======================================================
+Codigo del producto:       243
+Nombre del producto: Jabon Liquido Sierra Tipo 13
+StockTotal:                700
+
+Stock en Paquetes: 
+Paquetes:                    7
+Unidades:                    0
+=======================================================
+Codigo del producto:       249
+Nombre del producto: Frijol Norte Tipo 02
+StockTotal:                313
+
+Stock en Paquetes: 
+Paquetes:                    6
+Unidades:                   13
+=======================================================
+Codigo del producto:       258
+Nombre del producto: Jugo Central Tipo 01
+StockTotal:                924
+
+Stock en Paquetes: 
+Paquetes:                   77
+Unidades:                    0
+=======================================================
+Codigo del producto:       259
+Nombre del producto: Lejia Sierra Tipo 03
+StockTotal:                447
+
+Stock en Paquetes: 
+Paquetes:                   22
+Unidades:                    7
+=======================================================
+Codigo del producto:       271
+Nombre del producto: Cuaderno Misti Tipo 13
+StockTotal:               1621
+
+Stock en Paquetes: 
+Paquetes:                   67
+Unidades:                   13
+=======================================================
+Codigo del producto:       275
+Nombre del producto: Desinfectante Valle Tipo 09
+StockTotal:                578
+
+Stock en Paquetes: 
+Paquetes:                   28
+Unidades:                   18
+=======================================================
+Codigo del producto:       278
+Nombre del producto: Atun Costa Tipo 04
+StockTotal:                318
+
+Stock en Paquetes: 
+Paquetes:                   13
+Unidades:                    6
+=======================================================
+Codigo del producto:       291
+Nombre del producto: Desinfectante Sierra Tipo 02
+StockTotal:               1487
+
+Stock en Paquetes: 
+Paquetes:                   29
+Unidades:                   37
+=======================================================
+Codigo del producto:       303
+Nombre del producto: Papel A4 Central Tipo 19
+StockTotal:               1197
+
+Stock en Paquetes: 
+Paquetes:                   49
+Unidades:                   21
+=======================================================
+Codigo del producto:       312
+Nombre del producto: Alimento Perro Misti Tipo 01
+StockTotal:               1479
+
+Stock en Paquetes: 
+Paquetes:                   14
+Unidades:                   79
+=======================================================
+Codigo del producto:       316
+Nombre del producto: Jabon Misti Tipo 01
+StockTotal:                584
+
+Stock en Paquetes: 
+Paquetes:                   11
+Unidades:                   34
+=======================================================
+Codigo del producto:       327
+Nombre del producto: Papel A4 Andes Tipo 14
+StockTotal:                910
+
+Stock en Paquetes: 
+Paquetes:                   45
+Unidades:                   10
+=======================================================
+Codigo del producto:       333
+Nombre del producto: Cereal Sierra Tipo 20
+StockTotal:                 12
+
+Stock en Paquetes: 
+Paquetes:                    1
+Unidades:                    0
+=======================================================
+Codigo del producto:       335
+Nombre del producto: Papel A4 Costa Tipo 19
+StockTotal:                928
+
+Stock en Paquetes: 
+Paquetes:                   77
+Unidades:                    4
+=======================================================
+Codigo del producto:       337
+Nombre del producto: Sal Amazonia Tipo 21
+StockTotal:               1019
+
+Stock en Paquetes: 
+Paquetes:                   10
+Unidades:                   19
+=======================================================
+Codigo del producto:       339
+Nombre del producto: Desinfectante Sol Tipo 04
+StockTotal:               1010
+
+Stock en Paquetes: 
+Paquetes:                   50
+Unidades:                   10
+=======================================================
+Codigo del producto:       340
+Nombre del producto: Toalla Humeda Pacifico Tipo 24
+StockTotal:               1666
+
+Stock en Paquetes: 
+Paquetes:                   16
+Unidades:                   66
+=======================================================
+Codigo del producto:       347
+Nombre del producto: Lejia Sierra Tipo 06
+StockTotal:               1756
+
+Stock en Paquetes: 
+Paquetes:                   87
+Unidades:                   16
+=======================================================
+Codigo del producto:       351
+Nombre del producto: Papel A4 Kantu Tipo 04
+StockTotal:                245
+
+Stock en Paquetes: 
+Paquetes:                   10
+Unidades:                    5
+=======================================================
+Codigo del producto:       355
+Nombre del producto: Suavizante Kantu Tipo 04
+StockTotal:                858
+
+Stock en Paquetes: 
+Paquetes:                   42
+Unidades:                   18
+=======================================================
+Codigo del producto:       356
+Nombre del producto: Pasta Dental Pacifico Tipo 09
+StockTotal:                175
+
+Stock en Paquetes: 
+Paquetes:                    3
+Unidades:                   25
+=======================================================
+Codigo del producto:       359
+Nombre del producto: Cuaderno Central Tipo 22
+StockTotal:                194
+
+Stock en Paquetes: 
+Paquetes:                   16
+Unidades:                    2
+=======================================================
+Codigo del producto:       363
+Nombre del producto: Desinfectante Valle Tipo 12
+StockTotal:               1644
+
+Stock en Paquetes: 
+Paquetes:                   65
+Unidades:                   19
+=======================================================
+Codigo del producto:       370
+Nombre del producto: Agua Central Tipo 18
+StockTotal:                153
+
+Stock en Paquetes: 
+Paquetes:                    3
+Unidades:                    3
+=======================================================
+Codigo del producto:       378
+Nombre del producto: Gaseosa Amazonia Tipo 15
+StockTotal:               1699
+
+Stock en Paquetes: 
+Paquetes:                   33
+Unidades:                   49
+=======================================================
+Codigo del producto:       380
+Nombre del producto: Shampoo Costa Tipo 05
+StockTotal:                830
+
+Stock en Paquetes: 
+Paquetes:                   41
+Unidades:                   10
+=======================================================
+Codigo del producto:       385
+Nombre del producto: Lenteja Sierra Tipo 15
+StockTotal:                957
+
+Stock en Paquetes: 
+Paquetes:                   19
+Unidades:                   45
+=======================================================
+Codigo del producto:       393
+Nombre del producto: Arroz Pacifico Tipo 04
+StockTotal:               1731
+
+Stock en Paquetes: 
+Paquetes:                   86
+Unidades:                   11
+=======================================================
+Codigo del producto:       400
+Nombre del producto: Alimento Perro Inti Tipo 15
+StockTotal:               1091
+
+Stock en Paquetes: 
+Paquetes:                   22
+Unidades:                   35
+=======================================================
+Codigo del producto:       401
+Nombre del producto: Avena Norte Tipo 25
+StockTotal:               1019
+
+Stock en Paquetes: 
+Paquetes:                   21
+Unidades:                   11
+=======================================================
+Codigo del producto:       403
+Nombre del producto: Jabon Liquido Valle Tipo 25
+StockTotal:                937
+
+Stock en Paquetes: 
+Paquetes:                   18
+Unidades:                   37
+=======================================================
+Codigo del producto:       404
+Nombre del producto: Jabon Valle Tipo 18
+StockTotal:               1444
+
+Stock en Paquetes: 
+Paquetes:                   28
+Unidades:                   44
+=======================================================
+Codigo del producto:       407
+Nombre del producto: Papel A4 Inti Tipo 06
+StockTotal:               1218
+
+Stock en Paquetes: 
+Paquetes:                   48
+Unidades:                   18
+=======================================================
+Codigo del producto:       408
+Nombre del producto: Snack Canino Pacifico Tipo 07
+StockTotal:                855
+
+Stock en Paquetes: 
+Paquetes:                   71
+Unidades:                    3
+=======================================================
+Codigo del producto:       414
+Nombre del producto: Atun Andes Tipo 22
+StockTotal:               1394
+
+Stock en Paquetes: 
+Paquetes:                  116
+Unidades:                    2
+=======================================================
+Codigo del producto:       416
+Nombre del producto: Alimento Gato Sierra Tipo 08
+StockTotal:                825
+
+Stock en Paquetes: 
+Paquetes:                   68
+Unidades:                    9
+=======================================================
+Codigo del producto:       417
+Nombre del producto: Avena Misti Tipo 07
+StockTotal:                798
+
+Stock en Paquetes: 
+Paquetes:                   39
+Unidades:                   18
+=======================================================
+Codigo del producto:       420
+Nombre del producto: Alcohol Gel Inti Tipo 05
+StockTotal:                 47
+
+Stock en Paquetes: 
+Paquetes:                    2
+Unidades:                    7
+=======================================================
+Codigo del producto:       422
+Nombre del producto: Maiz Dulce Sol Tipo 19
+StockTotal:                618
+
+Stock en Paquetes: 
+Paquetes:                    6
+Unidades:                   18
+=======================================================
+Codigo del producto:       423
+Nombre del producto: Cinta Adhesiva Norte Tipo 08
+StockTotal:               1755
+
+Stock en Paquetes: 
+Paquetes:                   87
+Unidades:                   15
+=======================================================
+Codigo del producto:       426
+Nombre del producto: Bebida Isotonica Andes Tipo 18
+StockTotal:                116
+
+Stock en Paquetes: 
+Paquetes:                    2
+Unidades:                   16
+=======================================================
+Codigo del producto:       443
+Nombre del producto: Detergente Costa Tipo 21
+StockTotal:               1450
+
+Stock en Paquetes: 
+Paquetes:                   29
+Unidades:                    0
+=======================================================
+Codigo del producto:       448
+Nombre del producto: Alimento Perro Sierra Tipo 21
+StockTotal:               1075
+
+Stock en Paquetes: 
+Paquetes:                  107
+Unidades:                    5
+=======================================================
+Codigo del producto:       454
+Nombre del producto: Sardina Norte Tipo 08
+StockTotal:                944
+
+Stock en Paquetes: 
+Paquetes:                   19
+Unidades:                   32
+=======================================================
+Codigo del producto:       460
+Nombre del producto: Shampoo Pacifico Tipo 20
+StockTotal:                246
+
+Stock en Paquetes: 
+Paquetes:                   12
+Unidades:                    6
+=======================================================
+Codigo del producto:       466
+Nombre del producto: Bebida Isotonica Kantu Tipo 08
+StockTotal:                811
+
+Stock en Paquetes: 
+Paquetes:                   16
+Unidades:                   11
+=======================================================
+Codigo del producto:       468
+Nombre del producto: Jabon Misti Tipo 07
+StockTotal:                890
+
+Stock en Paquetes: 
+Paquetes:                   89
+Unidades:                    0
+=======================================================
+Codigo del producto:       470
+Nombre del producto: Atun Inti Tipo 06
+StockTotal:                 63
+
+Stock en Paquetes: 
+Paquetes:                    1
+Unidades:                   15
+=======================================================
+Codigo del producto:       474
+Nombre del producto: Jugo Andes Tipo 23
+StockTotal:                617
+
+Stock en Paquetes: 
+Paquetes:                   24
+Unidades:                   17
+=======================================================
+Codigo del producto:       476
+Nombre del producto: Shampoo Costa Tipo 13
+StockTotal:                270
+
+Stock en Paquetes: 
+Paquetes:                   13
+Unidades:                   10
+=======================================================
+Codigo del producto:       477
+Nombre del producto: Papas Amazonia Tipo 01
+StockTotal:                908
+
+Stock en Paquetes: 
+Paquetes:                   36
+Unidades:                    8
+=======================================================
+Codigo del producto:       480
+Nombre del producto: Alimento Gato Amazonia Tipo 01
+StockTotal:                624
+
+Stock en Paquetes: 
+Paquetes:                    6
+Unidades:                   24
+=======================================================
+Codigo del producto:       489
+Nombre del producto: Harina Sol Tipo 20
+StockTotal:               1597
+
+Stock en Paquetes: 
+Paquetes:                   15
+Unidades:                   97
+=======================================================
+Codigo del producto:       497
+Nombre del producto: Harina Misti Tipo 02
+StockTotal:                119
+
+Stock en Paquetes: 
+Paquetes:                    5
+Unidades:                   19
+=======================================================
+Codigo del producto:       499
+Nombre del producto: Lejia Sol Tipo 01
+StockTotal:                414
+
+Stock en Paquetes: 
+Paquetes:                    8
+Unidades:                   14
+=======================================================
+Codigo del producto:       500
+Nombre del producto: Alcohol Gel Andes Tipo 10
+StockTotal:               1047
+
+Stock en Paquetes: 
+Paquetes:                   43
+Unidades:                   15
+=======================================================
+Codigo del producto:       501
+Nombre del producto: Cereal Andes Tipo 09
+StockTotal:                374
+
+Stock en Paquetes: 
+Paquetes:                   37
+Unidades:                    4
+=======================================================
+Codigo del producto:       503
+Nombre del producto: Lapicero Sol Tipo 05
+StockTotal:               1187
+
+Stock en Paquetes: 
+Paquetes:                   24
+Unidades:                   35
+=======================================================
+Codigo del producto:       504
+Nombre del producto: Alimento Perro Andes Tipo 16
+StockTotal:                305
+
+Stock en Paquetes: 
+Paquetes:                    3
+Unidades:                    5
+=======================================================
+Codigo del producto:       505
+Nombre del producto: Harina Costa Tipo 17
+StockTotal:               1442
+
+Stock en Paquetes: 
+Paquetes:                  144
+Unidades:                    2
+=======================================================
+Codigo del producto:       509
+Nombre del producto: Cereal Pacifico Tipo 06
+StockTotal:                794
+
+Stock en Paquetes: 
+Paquetes:                   39
+Unidades:                   14
+=======================================================
+Codigo del producto:       513
+Nombre del producto: Cafe Kantu Tipo 02
+StockTotal:               1076
+
+Stock en Paquetes: 
+Paquetes:                   89
+Unidades:                    8
+=======================================================
+Codigo del producto:       527
+Nombre del producto: Cinta Adhesiva Costa Tipo 09
+StockTotal:                988
+
+Stock en Paquetes: 
+Paquetes:                   98
+Unidades:                    8
+=======================================================
+Codigo del producto:       537
+Nombre del producto: Azucar Misti Tipo 24
+StockTotal:                 44
+
+Stock en Paquetes: 
+Paquetes:                    0
+Unidades:                   44
+=======================================================
+Codigo del producto:       538
+Nombre del producto: Te Norte Tipo 23
+StockTotal:                841
+
+Stock en Paquetes: 
+Paquetes:                    8
+Unidades:                   41
+=======================================================
+Codigo del producto:       539
+Nombre del producto: Detergente Inti Tipo 15
+StockTotal:                119
+
+Stock en Paquetes: 
+Paquetes:                    4
+Unidades:                   23
+=======================================================
+Codigo del producto:       540
+Nombre del producto: Jabon Central Tipo 07
+StockTotal:                159
+
+Stock en Paquetes: 
+Paquetes:                    1
+Unidades:                   59
+=======================================================
+Codigo del producto:       544
+Nombre del producto: Snack Canino Sierra Tipo 02
+StockTotal:               1281
+
+Stock en Paquetes: 
+Paquetes:                   64
+Unidades:                    1
+=======================================================
+Codigo del producto:       552
+Nombre del producto: Arena Gato Amazonia Tipo 09
+StockTotal:               1115
+
+Stock en Paquetes: 
+Paquetes:                   46
+Unidades:                   11
+=======================================================
+Codigo del producto:       555
+Nombre del producto: Suavizante Sol Tipo 01
+StockTotal:               1578
+
+Stock en Paquetes: 
+Paquetes:                  131
+Unidades:                    6
+=======================================================
+Codigo del producto:       556
+Nombre del producto: Papel Higienico Pacifico Tipo 21
+StockTotal:               1554
+
+Stock en Paquetes: 
+Paquetes:                   77
+Unidades:                   14
+=======================================================
+Codigo del producto:       563
+Nombre del producto: Desinfectante Misti Tipo 13
+StockTotal:               1197
+
+Stock en Paquetes: 
+Paquetes:                   99
+Unidades:                    9
+=======================================================
+Codigo del producto:       565
+Nombre del producto: Caramelo Misti Tipo 13
+StockTotal:               1640
+
+Stock en Paquetes: 
+Paquetes:                  136
+Unidades:                    8
+=======================================================
+Codigo del producto:       568
+Nombre del producto: Alimento Perro Valle Tipo 22
+StockTotal:                409
+
+Stock en Paquetes: 
+Paquetes:                    4
+Unidades:                    9
+=======================================================
+Codigo del producto:       569
+Nombre del producto: Sal Sol Tipo 18
+StockTotal:               1669
+
+Stock en Paquetes: 
+Paquetes:                   83
+Unidades:                    9
+=======================================================
+Codigo del producto:       570
+Nombre del producto: Gaseosa Kantu Tipo 07
+StockTotal:                813
+
+Stock en Paquetes: 
+Paquetes:                   32
+Unidades:                   13
+=======================================================
+Codigo del producto:       571
+Nombre del producto: Suavizante Sol Tipo 06
+StockTotal:                681
+
+Stock en Paquetes: 
+Paquetes:                   14
+Unidades:                    9
+=======================================================
+Codigo del producto:       575
+Nombre del producto: Cinta Adhesiva Amazonia Tipo 23
+StockTotal:                114
+
+Stock en Paquetes: 
+Paquetes:                    1
+Unidades:                   14
+=======================================================
+Codigo del producto:       580
+Nombre del producto: Jabon Pacifico Tipo 03
+StockTotal:                344
+
+Stock en Paquetes: 
+Paquetes:                   34
+Unidades:                    4
+=======================================================
+Codigo del producto:       582
+Nombre del producto: Maiz Dulce Costa Tipo 11
+StockTotal:                776
+
+Stock en Paquetes: 
+Paquetes:                    7
+Unidades:                   76
+=======================================================
+Codigo del producto:       585
+Nombre del producto: Lenteja Sol Tipo 15
+StockTotal:                411
+
+Stock en Paquetes: 
+Paquetes:                    8
+Unidades:                   11
+=======================================================
+Codigo del producto:       587
+Nombre del producto: Detergente Pacifico Tipo 14
+StockTotal:                301
+
+Stock en Paquetes: 
+Paquetes:                   12
+Unidades:                    1
+=======================================================
+Codigo del producto:       590
+Nombre del producto: Atun Sierra Tipo 13
+StockTotal:                799
+
+Stock en Paquetes: 
+Paquetes:                   66
+Unidades:                    7
+=======================================================
+Codigo del producto:       598
+Nombre del producto: Sardina Central Tipo 09
+StockTotal:               1543
+
+Stock en Paquetes: 
+Paquetes:                   61
+Unidades:                   18
+=======================================================

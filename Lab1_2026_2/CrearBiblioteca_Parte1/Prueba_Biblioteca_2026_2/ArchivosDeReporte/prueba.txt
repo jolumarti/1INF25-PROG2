@@ -1,0 +1,16 @@
+Prueba de Carga de Producto con codigo 6, nombre Salsa de Tomate Amazonia Tipo 11 y unidad UNIDAD
+Prueba de Carga de Empaque con codigo 6, nombre CAJA48 y cantidad 48
+Prueba de Busqueda Almacen con codigo 5: 5
+Almacen:           ALM5
+Numero de Productos: 1
+=======================================================
+Detalle de productos:
+=======================================================
+Codigo del producto:         6
+Nombre del producto: Salsa de Tomate Amazonia Tipo 11
+StockTotal:                 50
+
+Stock en Paquetes: 
+Paquetes:                    1
+Unidades:                    2
+=======================================================

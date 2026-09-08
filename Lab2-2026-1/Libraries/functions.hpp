@@ -4,7 +4,6 @@
 
 #ifndef LAB2_2026_2_FUNCTIONS_HPP
 #define LAB2_2026_2_FUNCTIONS_HPP
-#include "Utils.hpp"
 #include "auxFunctions.hpp"
 void cargarInformacion(const char *fileName, int *&fechas, char ***&datosDeTexto,
                        int **&datosEnteros, float **&datosDePuntoFlotante);

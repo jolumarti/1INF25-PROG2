@@ -1,100 +1,1300 @@
-Categoria: UM1000 - Just Chatting - Casual conversations; reactions; and hangouts without a main game.
-Categoria: DN1001 - League of Legends - 5v5 MOBA; ranked climbs; pro play analysis; and coaching.
-Categoria: TZ1002 - Grand Theft Auto V - Open-world gameplay: GTA Online missions; stunts; and roleplay servers.
-Categoria: QU1003 - Counter-Strike - Tactical 5v5 FPS; scrims; ranked; utility lineups; and tournaments.
-Categoria: LH1004 - VALORANT - Hero-based 5v5 FPS; ranked; team scrims; agent guides; and aim practice.
-Categoria: DB1005 - World of Warcraft - MMORPG raids; Mythic+; leveling; PvP arenas; and class guides.
-Categoria: XG1006 - IRL - Real-life streaming: travel; city walks; food tours; and daily life.
-Categoria: DT1007 - Minecraft - Survival; creative builds; minigames; speedruns; and modded packs.
-Categoria: NL1008 - Dota 2 - 5v5 MOBA; high-MMR pubs; scrims; drafts; and tournament coverage.
-Categoria: MJ1009 - Fortnite - Battle royale & creative modes; arena grind; events; and challenges.
-Categoria: WC1010 - Metal Gear Solid Delta: Snake Eater - Stealth-action remake playthroughs; challenges; and lore.
-Categoria: KI1011 - Apex Legends - Battle royale/arenas; ranked pushes; tournaments; and legend tips.
-Categoria: QC1012 - Call of Duty: Warzone - BR metas; loadouts; high-kill lobbies; and ranked Resurgence.
-Categoria: LN1013 - Dead by Daylight - 4v1 horror; killer/survivor gameplay; builds; and customs.
-Categoria: KO1014 - Teamfight Tactics - Auto-battler; patch meta comps; high-ELO ladders; and tips.
-Categoria: MI1015 - Special Events - One-off broadcasts: showcases; charity streams; and premieres.
-Categoria: WT1016 - Marvel Rivals - Team shooter with Marvel heroes; matches; comps; and strategies.
-Categoria: QT1017 - Overwatch 2 - 5v5 hero FPS; role queue ranked; scrims; and VOD reviews.
-Categoria: QR1018 - Escape from Tarkov - Extraction shooter; raids; looting routes; wipes; and market.
-Categoria: RO1019 - Rocket League - Car-soccer; ranked playlists; freestyling; and tournaments.
-Categoria: RD1020 - World of Tanks - Tank warfare; tech tree grinds; clan wars; and missions.
-Categoria: DQ1021 - Clash Royale - Mobile RTS; ladder; challenges; deck building; and tips.
-Categoria: BY1022 - Variety - Mixed-content channels rotating games and formats frequently.
-Categoria: BQ1023 - Street Fighter 6 - 1v1 fighting; ranked sets; lab work; tech; and tournaments.
-Categoria: LJ1024 - Hollow Knight - Metroidvania; challenge runs; speedruns; and full completions.
-Categoria: CY1025 - PEAK - Competitive/action title; early-meta exploration and live matches.
-Categoria: PK1026 - Sports - Sports talk; watch-alongs; management sims; and highlights.
-Categoria: RK1027 - Last Epoch - ARPG; endgame monoliths; builds; crafting; and loot hunts.
-Categoria: RQ1028 - Old School RuneScape - Classic MMORPG; skilling; PvM bosses; and Ironman runs.
-Categoria: LB1029 - Deadlock - Competitive shooter/MOBA hybrid; matches and meta testing.
-Categoria: RN1030 - Hearthstone - Digital CCG; ladder climbs; Arena; Battlegrounds; and deck guides.
-Categoria: KS1031 - ASMR - Whispered and sound-focused relaxation to help sleep and study.
-Categoria: LD1032 - Path of Exile 2 - ARPG; campaign; league starts; crafting; and bossing.
-Categoria: HW1033 - Art - Live drawing; painting; 3D modeling; and illustration workflows.
-Categoria: AK1034 - PUBG: BATTLEGROUNDS - Tactical battle royale; rotations; clutches; and team comps.
-Categoria: NS1035 - Virtual Casino - Virtual casino-style games and demonstrations.
-Categoria: GW1036 - Slots - Slot machine streams and related casino content.
-Categoria: NZ1037 - ROBLOX - Community-made experiences: obbies; roleplay; and minigames.
-Categoria: AE1038 - Im Only Sleeping - "“Sleep"" streams with chat interactions and ambience."
-Categoria: UW1039 - Music - Live music: covers; songwriting; production; and jam sessions.
-Categoria: NU1040 - DJs - DJ sets; mixing; and live club-style performances.
-Categoria: PY1041 - EA Sports FC 25 - Football/soccer; Ultimate Team; Seasons; and tournaments.
-Categoria: EW1042 - Rust - Survival PvP; wipe days; raids; bases; and team warfare.
-Categoria: ZG1043 - Retro - Classic and retro gaming; speedruns; challenges; and nostalgia.
-Categoria: FE1044 - Shadowverse: Worlds Beyond - Anime-style CCG; ladder; tournaments; and deck tech.
-Categoria: ZU1045 - Tom Clancys Rainbow Six Siege X - Tactical FPS; strats; ranked; and operator guides.
-Categoria: VG1046 - Albion Online - Sandbox MMORPG; PvP; ZvZ; gathering; and crafting economies.
-Categoria: KB1047 - Destiny 2 - Looter-shooter; raids; Trials; builds; and seasonal content.
-Categoria: BK1048 - Always On - 24/7 channels with loops; cams; and continuous programming.
-Categoria: LO1049 - Call of Duty: Black Ops 6 - CoD entry; multiplayer; Zombies; and campaign runs.
-Categoria: RL1050 - Delta Force - Tactical shooter; squad play; extraction/objective modes.
-Categoria: CG1051 - Madden NFL 26 - American football; Franchise; MUT; and head-to-head play.
-Categoria: OA1052 - RimWorld - Colony sim; storytelling runs; modpacks; and challenge scenarios.
-Categoria: DU1053 - Garrys Mod - Sandbox & community modes; RP; TTT; and minigames.
-Categoria: PA1054 - Tibia - Classic MMORPG; hunts; quests; and guild events.
-Categoria: NN1055 - Games + Demos - Demos and showcases for new and indie games.
-Categoria: HV1056 - ELDEN RING - Soulslike ARPG; challenge runs; builds; and boss fights.
-Categoria: UE1057 - FINAL FANTASY XIV ONLINE - MMORPG; MSQ; raids; glam; and daily roulettes.
-Categoria: MD1058 - Phasmophobia - Co-op ghost hunting; investigations and challenge runs.
-Categoria: IC1059 - Pokémon Community Game - Chat-driven Pokémon minigame played in-stream.
-Categoria: BA1060 - Talk Shows & Podcasts - Live interviews; panels; and podcast recordings.
-Categoria: XL1061 - Clair Obscur: Expedition 33 - Story-driven RPG; playthroughs and theorycrafting.
-Categoria: YC1062 - Animals Aquariums and Zoos - Live animal cams; care streams; and zoo tours.
-Categoria: DA1063 - Arena Breakout: Infinite - Extraction FPS; builds; raids; and economy.
-Categoria: CV1064 - VRChat - Social VR; avatar showcases; world hopping; and meetups.
-Categoria: ET1065 - Project Zomboid - Survival sim; base building; mods; and RP servers.
-Categoria: OR1066 - Are You Smarter Than a 5th Grader? - Quiz/show game sessions with viewers.
-Categoria: VD1067 - Gears of War: Reloaded - Cover-based shooter; campaign playthroughs and versus.
-Categoria: ZT1068 - Oh Deer - Light indie experience; exploration and humor.
-Categoria: VX1069 - HELLDIVERS 2 - Co-op shooter; operations; weapons; and stratagems.
-Categoria: NO1070 - Foxhole - Massive war MMO; logistics; fronts; and player-driven battles.
-Categoria: BQ1071 - Star Citizen - Space sim; ships; trading; org operations; and events.
-Categoria: XC1072 - Poker - Live poker tables; analysis; and tournaments.
-Categoria: TB1073 - Wuthering Waves - Gacha ARPG; pulls; builds; and open-world exploration.
-Categoria: AZ1074 - Heroes of Might and Magic III: The Restoration of Erathia - Turn-based strategy; campaigns and PvP.
-Categoria: EB1075 - Call of Duty - General CoD category; multiplayer; BR; and Zombies across titles.
-Categoria: II1076 - Crypto - Crypto markets talk; education; and web3 project coverage.
-Categoria: KF1077 - Guild Wars 2 - MMORPG; WvW; fractals; raids; and fashion.
-Categoria: AF1078 - Metal Gear Solid V: The Phantom Pain - Sandbox stealth-action; missions and mods.
-Categoria: AN1079 - Red Dead Redemption 2 - Open-world Western; story; online; and RP.
-Categoria: QA1080 - Magic: The Gathering - TCG; Arena/paper play; deck tech; and events.
-Categoria: IR1081 - Battlefield 2042 - Large-scale FPS; conquest; portal modes; and specialists.
-Categoria: AN1082 - GeoGuessr - Geography guessing; streaks; duels; and tournaments.
-Categoria: VS1083 - Abiotic Factor - Co-op survival; crafting; exploration; and base defense.
-Categoria: BC1084 - Blue Protocol: Star Resonance - Online action RPG with an anime vibe; quests and co-op.
-Categoria: OZ1085 - Haunted Room: 205 - Horror/escape; investigation; puzzles; and scares.
-Categoria: PC1086 - Warframe - Looter-shooter; frame builds; relic farming; and endgame grinds.
-Categoria: TP1087 - Chess - Chess games; puzzles; speed chess; and commentary.
-Categoria: TM1088 - Eternal Return - MOBA/BR hybrid; characters; routes; and ranked.
-Categoria: CW1089 - Marbles on Stream - Chat-controlled marble races and events.
-Categoria: VO1090 - World of Warships - Naval combat; grinds; clans; and ranked.
-Categoria: AG1091 - Sea of Thieves - Co-op pirate adventures; voyages and PvP.
-Categoria: MK1092 - Mobile Legends: Bang Bang - Mobile MOBA; ranked grind and events.
-Categoria: KK1093 - Shine Post: Be Your Idol! - Rhythm/idol content; music performance and progression.
-Categoria: SJ1094 - Pools Hot Tubs and Beaches - Aquatic IRL; pool streams; hot tubs; and beach hangouts.
-Categoria: KS1095 - Metin2 - Classic MMORPG; grinding; dungeons; and PvP.
-Categoria: VB1096 - Age of Empires II - RTS; build orders; ranked matches; and tournaments.
-Categoria: VD1097 - Supermarket Simulator - Management sim; build and run your own grocery store.
-Categoria: NA1098 - Guilty Gear: Strive - 1v1 fighter; training mode tech; sets; and tournaments.
-Categoria: NN1099 - Software and Game Development - Live coding; game engines; tools; and devlogs.
+***********************************************************************************Just Chatting************************************************************************************
+CUENTA                    FECHA CREACION      FECHA ULT. STREAM.         TIEMPO REP.       CANT. SEGUID.           ETIQUETAS
+====================================================================================================================================================================================
+TFBlade                       09-11-2021          20-08-2025             16.12 (dias)        1008040           [60e8d715] 'It will probably be around 15 million  maybe when you get some yourself.'
+pacific8815                   24-09-2023          14-08-2025              5.58 (dias)         171858           [4c5ed759] 'From now on I am back again to make his life miserable. '
+Bonjwa                        05-01-2023          13-08-2025              5.46 (dias)         123954           [9498f716] 'I'm so lucky I just got a red 92 Militao in my premium FUT Champions SBC. '
+Emongg                        19-01-2023          19-08-2025              4.38 (dias)         504653           [2f9c31c6] 'I would argue that they didn't deserve to be banned. '
+MrSavage                      27-08-2023          15-08-2025              2.88 (dias)        1651212          
+skill4ltu                     24-01-2022          18-08-2025              2.33 (dias)         127741          
+Twitch                        04-09-2022          16-08-2025              2.29 (dias)        1189614          
+Ezekiel_III                   13-09-2023          22-08-2025              1.54 (dias)         190452          
+BrookeAB                      01-12-2021          19-08-2025              1.54 (dias)         737161          
+*********************************************************************************League of Legends**********************************************************************************
+CUENTA                    FECHA CREACION      FECHA ULT. STREAM.         TIEMPO REP.       CANT. SEGUID.           ETIQUETAS
+====================================================================================================================================================================================
+Yogscast                      04-12-2023          16-08-2025              7.46 (dias)         961860           [605d8716] 'Hahaha that is just too funny laughing out loud .'
+chocoTaco                     09-03-2022          15-08-2025              7.17 (dias)        1134153           [373221e6] 'Everyone knows Jake is the goat  he's the greatest of all time.'
+Steelmage                     17-11-2023          13-08-2025              3.58 (dias)          60987           [3d3e843f] 'You seem to be way gone from reality my friend. '
+Smurfdomuca                   10-04-2022          14-08-2025              3.38 (dias)         267948          
+chistor_                      06-06-2021          21-08-2025              2.83 (dias)          89608          
+Amaz                          13-12-2021          14-08-2025              2.71 (dias)         915023          
+olyashaa                      23-04-2022          16-08-2025              2.17 (dias)         559877          
+Broeki1                       16-04-2023          22-08-2025              2.12 (dias)         150944          
+erobb221                      02-11-2022          13-08-2025              1.88 (dias)         244207          
+Lapi                          16-08-2023          14-08-2025              1.58 (dias)         130323          
+*********************************************************************************Grand Theft Auto V*********************************************************************************
+CUENTA                    FECHA CREACION      FECHA ULT. STREAM.         TIEMPO REP.       CANT. SEGUID.           ETIQUETAS
+====================================================================================================================================================================================
+DrLupo                        08-02-2023          16-08-2025             17.54 (dias)        4115083           [62e841f3] 'Two million coins spent on fitness cards? Holy crap  that's unbelievable.'
+RATIRL                        13-08-2023          25-08-2025              7.50 (dias)         423002           [373221e6] 'Jake is the goat we all know that's true .'
+GMHikaru                      07-12-2022          20-08-2025              6.38 (dias)         505361           [964cc88c] 'Please fix the kit numbers on the player jerseys. '
+m0xyy                         01-11-2022          17-08-2025              4.42 (dias)         461534           [22c07609] 'Will you try TOTY Messi this FIFA or can you not afford him? '
+Ponce                         11-03-2022          17-08-2025              4.08 (dias)         242969           [48711904] 'Okay that's definitely a professional player or something like that. '
+Calebhart42                   14-04-2022          17-08-2025              2.83 (dias)         177595          
+Becca                         23-12-2022          18-08-2025              2.00 (dias)         357844          
+RobertoCein                   17-03-2022          14-08-2025              1.71 (dias)         730326          
+primeleague                   12-06-2022          24-08-2025              1.67 (dias)          73409          
+Harmii                        24-06-2023          21-08-2025              1.58 (dias)         333858          
+Spraggy                       20-08-2023          25-08-2025              1.58 (dias)          99807          
+Destructoid                   17-07-2021          20-08-2025              1.42 (dias)          48007          
+***********************************************************************************Counter-Strike***********************************************************************************
+CUENTA                    FECHA CREACION      FECHA ULT. STREAM.         TIEMPO REP.       CANT. SEGUID.           ETIQUETAS
+====================================================================================================================================================================================
+Method                        14-04-2021          14-08-2025             10.46 (dias)         401400           [83eb002b] 'Jake I've missed seeing you in the stream chat .'
+itsHafu                       12-11-2021          26-08-2025              4.62 (dias)         787371           [636111cd] 'Bruh I can't believe what's happening. '
+MarcaoRX                      05-04-2022          24-08-2025              4.12 (dias)         166594           [ead2e84f] 'Hey guys hey guys what's going on in the stream? '
+T90Official                   09-08-2021          16-08-2025              3.21 (dias)         160226          
+nugiyen                       28-05-2022          22-08-2025              1.96 (dias)         121984          
+syaruru3                      13-04-2022          19-08-2025              1.67 (dias)          33726          
+RealKraftyy                   08-06-2022          19-08-2025              1.54 (dias)         710277          
+RayNarvaezJr                  21-01-2023          24-08-2025              1.54 (dias)         528396          
+Multiplayerit                 08-02-2022          27-08-2025              1.46 (dias)          58786          
+**************************************************************************************VALORANT**************************************************************************************
+CUENTA                    FECHA CREACION      FECHA ULT. STREAM.         TIEMPO REP.       CANT. SEGUID.           ETIQUETAS
+====================================================================================================================================================================================
+MontanaBlack88                25-01-2023          23-08-2025             27.88 (dias)        2911316           [18a3364b] 'I have saved up over 2 million coins from playing the game .'
+LEC                           04-12-2023          19-08-2025             17.00 (dias)         973727           [c43b9e82] ' The Bronze Pack Method is so overpowered right now I'm making so many coins.'
+Kitboga                       08-02-2023          13-08-2025              7.58 (dias)         772055           [3d3e843f] 'At this point Jake is just a meme now to be honest .'
+a541021                       22-02-2023          14-08-2025              5.96 (dias)         207369           [636111cd] 'Am I the only one that tries to have accurate kit numbers or am I weird? '
+sips_                         04-11-2023          13-08-2025              3.75 (dias)         430755           [3d3e843f] 'Laughing that is just too funny. '
+Ko0416                        16-07-2023          21-08-2025              3.54 (dias)         108784           [abd14a11] 'You're playing against a fellow Romanian Mass which is cool. '
+pimpimenta                    15-05-2022          17-08-2025              3.38 (dias)         828298          
+Worrun_                       12-10-2022          21-08-2025              2.33 (dias)         146163          
+mang0                         28-09-2022          21-08-2025              2.33 (dias)         328671          
+xTheSolutionTV                15-12-2022          26-08-2025              1.96 (dias)         320629          
+FFearFFul                     25-01-2021          24-08-2025              1.88 (dias)         727059          
+Tourva                        28-05-2023          15-08-2025              1.67 (dias)         287553          
+DizzyKitten                   13-10-2023          13-08-2025              1.46 (dias)         613135          
+*********************************************************************************World of Warcraft**********************************************************************************
+CUENTA                    FECHA CREACION      FECHA ULT. STREAM.         TIEMPO REP.       CANT. SEGUID.           ETIQUETAS
+====================================================================================================================================================================================
+RduLIVE                       25-07-2023          25-08-2025              6.08 (dias)         234884           [808b6695] 'Set up the team for an offensive playstyle please. '
+LosPollosTV                   20-05-2022          15-08-2025              4.75 (dias)         476096           [3d3e843f] 'Thank you for the follow  and it's our friend Jake laughing.'
+Shaunz                        26-04-2023          21-08-2025              4.38 (dias)         148568           [18e28048] 'Who is this Jake person lmao? '
+ShivFPS                       19-12-2023          19-08-2025              4.08 (dias)         236407           [3d3e843f] 'Please say something Jake we all want to hear from you. '
+UnknownxArmy                  01-06-2023          21-08-2025              3.83 (dias)         850944           [cc984e31] 'Joarwinston don't bully the new player that's mean. '
+TSM_Viss                      23-05-2021          13-08-2025              3.62 (dias)         762778           [2f9c31c6] 'Jake is getting shot down quicker than Malaysia Airlines Flight 370. '
+Flashpoint                    10-04-2021          16-08-2025              3.58 (dias)          93616           [373221e6] 'He seems like a decent lad so you should unban him. '
+Otzdarva                      15-12-2022          26-08-2025              2.54 (dias)         262104          
+QuarterJade                   18-04-2021          23-08-2025              1.75 (dias)         277256          
+TheRealMarzaa                 02-04-2022          14-08-2025              1.62 (dias)         495558          
+dragon3652                    16-12-2023          15-08-2025              1.50 (dias)          35503          
+****************************************************************************************IRL*****************************************************************************************
+CUENTA                    FECHA CREACION      FECHA ULT. STREAM.         TIEMPO REP.       CANT. SEGUID.           ETIQUETAS
+====================================================================================================================================================================================
+LCS                           18-03-2023          14-08-2025             16.88 (dias)        1162746           [86f2d5bb] 'Who did you end up packing from the red FUT Champions rewards bro? '
+shuteye_orange                01-01-2021          26-08-2025              8.42 (dias)          85247           [605d8716] 'You should use the 4-1-2-1-2 formation and swap the center backs .'
+2chamcham2                    21-07-2021          18-08-2025              5.67 (dias)         489270           [82bc92f5] 'Who is better for CAM TOTS Laca or TOTS Aguero? '
+mistermv                      09-11-2021          25-08-2025              5.50 (dias)         479900           [9498f716] 'I'm so lucky I just got a red 92 Militao in my premium FUT Champions SBC. '
+XEWER                         06-03-2021          16-08-2025              3.62 (dias)         455056           [b6ee695e] 'The gameplay in this game looks very quick which is great. '
+WeAreTheVR                    10-03-2023          13-08-2025              2.38 (dias)         410814          
+Peereira7                     08-02-2021          18-08-2025              2.29 (dias)         377689          
+Alfie                         02-11-2023          27-08-2025              2.21 (dias)         183885          
+BigEx                         08-10-2022          22-08-2025              2.00 (dias)         256448          
+HighDistortion                06-08-2021          25-08-2025              1.96 (dias)        1677690          
+*************************************************************************************Minecraft**************************************************************************************
+CUENTA                    FECHA CREACION      FECHA ULT. STREAM.         TIEMPO REP.       CANT. SEGUID.           ETIQUETAS
+====================================================================================================================================================================================
+Tfue                          24-06-2023          18-08-2025             42.46 (dias)        8938903           [d036de7c] 'I am trying to trade but  I only have 50000 coins to start with.'
+dota2ti                       09-04-2023          25-08-2025             11.75 (dias)         663297           [14c9f6c0] 'I still have 37 of them  I'm so glad I bought them laughing.'
+lestream                      06-02-2021          18-08-2025             11.04 (dias)         883706           [373221e6] 'That comment about the icon was actually pretty funny. '
+shroud                        20-12-2023          13-08-2025             10.25 (dias)        7744066           [d0589dbc] 'This is ridiculous  lol.'
+Locklear                      28-01-2022          13-08-2025              7.17 (dias)         824676           [3d3e843f] 'Yep I completely agree with you on that one  laughing.'
+RiotGamesRU                   03-04-2021          13-08-2025              4.04 (dias)         173861           [546b961f] 'Bro why are there so many guys named Luis in this stream? '
+AlphaCast                     23-10-2022          24-08-2025              3.25 (dias)         411993          
+1DrakoNz                      20-03-2022          14-08-2025              2.88 (dias)         373375          
+Opat04                        21-05-2021          16-08-2025              2.54 (dias)         178477          
+StreamerHouse                 27-03-2021          14-08-2025              2.29 (dias)         630255          
+dkwl025                       28-12-2022          27-08-2025              1.42 (dias)         220819          
+***************************************************************************************Dota 2***************************************************************************************
+CUENTA                    FECHA CREACION      FECHA ULT. STREAM.         TIEMPO REP.       CANT. SEGUID.           ETIQUETAS
+====================================================================================================================================================================================
+SilverName                    09-05-2022          24-08-2025             11.62 (dias)         614395           [d0589dbc] ' Congratulations on getting the icon you wanted.'
+Mithrain                      26-07-2023          19-08-2025              6.12 (dias)        1258713           [35a21fb9] 'Oh never mind you already changed it .'
+EmadGG                        18-12-2023          19-08-2025              5.62 (dias)         702744           [4c5ed759] 'From now on I am back again to make his life miserable. '
+BotezLive                     14-08-2021          25-08-2025              3.25 (dias)         330772          
+KarmikKoala                   11-09-2022          17-08-2025              3.00 (dias)         151920          
+JustCooman                    17-01-2023          14-08-2025              3.00 (dias)         159117          
+OfficialAndyPyro              08-09-2021          27-08-2025              2.46 (dias)         255595          
+Crystal_LoL                   27-08-2021          17-08-2025              2.38 (dias)         167132          
+HellYeahPlay                  24-05-2021          26-08-2025              2.00 (dias)         136885          
+chowh1                        13-12-2022          15-08-2025              1.75 (dias)         113551          
+Killars                       25-09-2023          18-08-2025              1.67 (dias)          46971          
+akagreenn                     06-06-2023          22-08-2025              1.58 (dias)         117916          
+SoyPan                        05-07-2022          16-08-2025              1.50 (dias)         343191          
+yagubu                        24-11-2021          21-08-2025              1.46 (dias)          59697          
+**************************************************************************************Fortnite**************************************************************************************
+CUENTA                    FECHA CREACION      FECHA ULT. STREAM.         TIEMPO REP.       CANT. SEGUID.           ETIQUETAS
+====================================================================================================================================================================================
+alanzoka                      20-10-2023          27-08-2025             23.75 (dias)        3445134           [9a8d790d] 'Jeg har sendt en beskjed I hope you received my message .'
+sneakylol                     19-07-2022          23-08-2025             13.29 (dias)        1659108           [7e152bd1] 'You simply can't compare those two players  they are completely different.'
+btscsgo                       07-09-2021          25-08-2025              4.12 (dias)         219539           [373221e6] 'Ok I understand what you mean. '
+TheKAIRI78                    14-09-2021          18-08-2025              4.08 (dias)         885915           [546b961f] 'Bro why are there so many guys named Luis in this stream? '
+109ace                        03-07-2021          19-08-2025              3.88 (dias)         166726           [cc984e31] 'Laughing out loud that's so funny! '
+dogswellfish                  04-09-2023          22-08-2025              3.17 (dias)         215413          
+SkyrrozTV                     11-05-2023          21-08-2025              2.46 (dias)         597890          
+HAchubby                      13-08-2022          26-08-2025              2.33 (dias)         221461          
+Faux                          25-11-2022          27-08-2025              2.04 (dias)         237909          
+BeyondTheSummit_PT2           02-11-2022          17-08-2025              1.83 (dias)         178612          
+Sweet_Anita                   22-09-2023          23-08-2025              1.79 (dias)         972070          
+TaKeTV                        25-06-2021          13-08-2025              1.50 (dias)         227062          
+Sinner666                     27-02-2022          16-08-2025              1.42 (dias)           7102          
+************************************************************************Metal Gear Solid Delta: Snake Eater*************************************************************************
+CUENTA                    FECHA CREACION      FECHA ULT. STREAM.         TIEMPO REP.       CANT. SEGUID.           ETIQUETAS
+====================================================================================================================================================================================
+Myth                          07-08-2023          18-08-2025             17.08 (dias)        6726893           [8d5c41b8] 'Players are up so much  with TOTS I could make so much profit.'
+dota2mc_ru                    16-04-2021          25-08-2025             16.92 (dias)         428284           [c43b9e82] ' The Bronze Pack Method is so overpowered right now I'm making so many coins.'
+adolfz                        11-10-2022          19-08-2025              3.46 (dias)         294217          
+MacieJay                      24-06-2023          20-08-2025              2.83 (dias)         835787          
+icebergdoto                   14-02-2021          24-08-2025              2.54 (dias)         171113          
+tranth                        12-03-2021          24-08-2025              2.25 (dias)          85764          
+iamSometimes                  20-02-2021          26-08-2025              2.12 (dias)         179552          
+SmallAnt                      07-07-2022          17-08-2025              1.92 (dias)         255156          
+pankylol                      05-09-2021          16-08-2025              1.83 (dias)         284563          
+Paoloidolo                    28-10-2023          25-08-2025              1.79 (dias)         183900          
+************************************************************************************Apex Legends************************************************************************************
+CUENTA                    FECHA CREACION      FECHA ULT. STREAM.         TIEMPO REP.       CANT. SEGUID.           ETIQUETAS
+====================================================================================================================================================================================
+pokimane                      21-07-2022          22-08-2025             11.12 (dias)        5367605           [373221e6] 'That comment about the icon was actually pretty funny. '
+SPYGEA                        25-09-2023          16-08-2025              5.21 (dias)         222046           [3d3e843f] 'I have missed you so much  my little cutie.'
+Sjow                          05-01-2021          18-08-2025              3.83 (dias)         240206           [e0355853] 'Please stop bullying Jake he's a good kid. '
+midbeast                      25-08-2023          17-08-2025              3.75 (dias)         330060           [d036de7c] 'Lol your depth is so low you should change it. '
+BeBePtv                       08-03-2023          14-08-2025              2.42 (dias)          57205          
+Flambass                      16-09-2022          19-08-2025              1.71 (dias)          71953          
+Puppers                       16-09-2022          21-08-2025              1.62 (dias)         171425          
+*******************************************************************************Call of Duty: Warzone********************************************************************************
+CUENTA                    FECHA CREACION      FECHA ULT. STREAM.         TIEMPO REP.       CANT. SEGUID.           ETIQUETAS
+====================================================================================================================================================================================
+ONSCREEN                      19-03-2023          20-08-2025             13.83 (dias)         918654           [e24a56b9] 'I packed a really crappy icon from my weekly rewards siuuuu! '
+Deadlyslob                    28-04-2021          22-08-2025              5.04 (dias)         315637           [373221e6] 'Ahahahahaha that is just so funny! '
+Shiphtur                      19-05-2023          14-08-2025              4.83 (dias)         709343           [ea0c7c5d] 'Laughing out loud that was so easy! '
+DesertHeartsRecords           21-05-2023          21-08-2025              3.17 (dias)          85097          
+pijack11                      18-09-2023          26-08-2025              2.79 (dias)         252717          
+kimdduddi                     16-12-2023          21-08-2025              2.54 (dias)         149158          
+landonorris                   19-12-2021          21-08-2025              2.42 (dias)         584831          
+LuquEt4                       06-10-2021          13-08-2025              1.96 (dias)          74404          
+takesipon                     26-06-2023          22-08-2025              1.88 (dias)          57634          
+DieHahn                       08-10-2022          22-08-2025              1.75 (dias)         231584          
+TommyKayLIVE                  26-05-2021          27-08-2025              1.42 (dias)         127770          
+**********************************************************************************Dead by Daylight**********************************************************************************
+CUENTA                    FECHA CREACION      FECHA ULT. STREAM.         TIEMPO REP.       CANT. SEGUID.           ETIQUETAS
+====================================================================================================================================================================================
+just_ns                       05-08-2023          16-08-2025              4.33 (dias)         341549           [3d3e843f] 'That's just a random legend in the stream chat. '
+rewinside                     01-01-2022          23-08-2025              2.33 (dias)        1259972          
+luke4316live                  16-06-2023          24-08-2025              2.08 (dias)         168531          
+RTGameCrowd                   01-11-2021          25-08-2025              1.92 (dias)         861594          
+Vargskelethor                 19-06-2023          20-08-2025              1.88 (dias)         287063          
+Rogue                         17-08-2021          18-08-2025              1.83 (dias)         169330          
+PardonMyTake                  04-03-2022          25-08-2025              1.79 (dias)         143916          
+albislol                      20-03-2023          20-08-2025              1.75 (dias)         146276          
+PainLivestream                04-02-2023          21-08-2025              1.67 (dias)         435872          
+GoBGG                         06-04-2023          15-08-2025              1.50 (dias)         229586          
+Buozzi                        20-10-2023          15-08-2025              1.42 (dias)          75290          
+*********************************************************************************Teamfight Tactics**********************************************************************************
+CUENTA                    FECHA CREACION      FECHA ULT. STREAM.         TIEMPO REP.       CANT. SEGUID.           ETIQUETAS
+====================================================================================================================================================================================
+Sardoche                      11-06-2022          13-08-2025             15.75 (dias)         746865           [60e8d715] 'It will probably be around 15 million  maybe when you get some yourself.'
+Symfuhny                      01-03-2023          17-08-2025             12.42 (dias)        2355063           [78d91c12] 'Why didn't I buy all the anchor cards when they were only 700 coins? '
+ZanoXVII                      18-09-2021          26-08-2025              7.04 (dias)         514866           [e0355853] 'I think we are gonna get absolutely smashed in this game. '
+wtcN                          21-06-2022          14-08-2025              6.71 (dias)        1852272           [3d3e843f] 'Laughing he is probably half of the 8000 follows  to be honest.'
+Voyboy                        26-09-2022          13-08-2025              4.75 (dias)        1251182           [481e859f] 'He's obviously a professional player a pro. '
+IamCristinini                 15-11-2021          25-08-2025              3.00 (dias)         398634          
+bytarifaaa                    10-03-2023          22-08-2025              2.62 (dias)         638657          
+Sco                           23-01-2022          24-08-2025              1.79 (dias)         375911          
+Aa9skillz                     06-08-2022          15-08-2025              1.71 (dias)         502696          
+Hype                          14-01-2022          18-08-2025              1.46 (dias)         145476          
+***********************************************************************************Special Events***********************************************************************************
+CUENTA                    FECHA CREACION      FECHA ULT. STREAM.         TIEMPO REP.       CANT. SEGUID.           ETIQUETAS
+====================================================================================================================================================================================
+LCK                           16-07-2021          16-08-2025             15.62 (dias)         934688           [b9c4f1a2] 'The Bronze Pack Method is an absolute goldmine  laughing out loud.'
+godjj                         14-04-2022          15-08-2025              6.29 (dias)         331744           [840b424d] 'Militao can't pass on his left foot so put him on the right side. '
+failverde                     06-08-2022          24-08-2025              5.04 (dias)         169973           [373221e6] 'Ahahahahaha that is just so funny! '
+BarbarousKing                 21-07-2022          22-08-2025              4.83 (dias)         159402           [ea0c7c5d] 'Laughing out loud that was so easy! '
+Distortion2                   27-07-2023          13-08-2025              4.08 (dias)         314170           [48711904] 'Okay that's definitely a professional player or something like that. '
+SaltyTeemo                    17-06-2021          25-08-2025              2.83 (dias)         173196          
+Monstercat                    03-09-2022          23-08-2025              1.88 (dias)         788684          
+Sweatcicle                    19-04-2022          24-08-2025              1.83 (dias)         160000          
+9ambler                       16-08-2021          17-08-2025              1.79 (dias)         144116          
+DreamHackDota2_RU             12-06-2023          22-08-2025              1.75 (dias)         203419          
+KVYZEE                        11-10-2022          26-08-2025              1.71 (dias)         127963          
+Japan_ASMR                    11-05-2022          15-08-2025              1.58 (dias)          67707          
+***********************************************************************************Marvel Rivals************************************************************************************
+CUENTA                    FECHA CREACION      FECHA ULT. STREAM.         TIEMPO REP.       CANT. SEGUID.           ETIQUETAS
+====================================================================================================================================================================================
+LVNDMARK                      11-04-2022          22-08-2025              9.12 (dias)         248829           [d23826b9] 'It is you are right about that. '
+Anton                         22-04-2021          25-08-2025              6.71 (dias)         207484           [373221e6] 'It only took us two hours to get a game  laughing out loud.'
+fl0m                          16-08-2022          25-08-2025              4.38 (dias)         658323           [2f9c31c6] 'I would argue that they didn't deserve to be banned. '
+Tumblurr                      21-07-2022          24-08-2025              3.71 (dias)         353687           [4e083e06] 'Can you please tell us what the current song is? '
+Dota2ruhub2                   25-08-2022          14-08-2025              3.54 (dias)         248277          
+RaizQT                        04-07-2021          26-08-2025              3.29 (dias)         167584          
+Rammus53                      26-05-2022          17-08-2025              2.83 (dias)         978645          
+Mazarin1k                     17-08-2023          14-08-2025              2.54 (dias)         205378          
+BikeMan                       01-09-2021          18-08-2025              2.46 (dias)         264192          
+Wardiii                       16-02-2021          27-08-2025              2.25 (dias)          76777          
+gabepeixe                     06-04-2022          18-08-2025              2.08 (dias)         149362          
+portialyn                     06-12-2021          13-08-2025              2.08 (dias)          39485          
+kangqui                       16-08-2022          22-08-2025              1.79 (dias)          57130          
+ZLOYn                         26-07-2021          21-08-2025              1.46 (dias)         294277          
+LenaGol0vach                  03-05-2021          25-08-2025              1.42 (dias)         274237          
+************************************************************************************Overwatch 2*************************************************************************************
+CUENTA                    FECHA CREACION      FECHA ULT. STREAM.         TIEMPO REP.       CANT. SEGUID.           ETIQUETAS
+====================================================================================================================================================================================
+SolaryFortnite                26-12-2023          15-08-2025             14.12 (dias)        1478270           [e24a56b9] 'I packed a really crappy icon from my weekly rewards siuuuu! '
+gratis150ml                   17-06-2023          20-08-2025              4.12 (dias)         741652           [3d3e843f] 'Please say something Jake we all want to hear from you. '
+jean_mago                     28-04-2021          22-08-2025              3.00 (dias)         342691          
+c9judite                      28-12-2021          24-08-2025              2.71 (dias)         105341          
+GrandPOObear                  04-01-2022          23-08-2025              2.67 (dias)         253619          
+PsheroTV                      06-01-2021          20-08-2025              2.62 (dias)         202779          
+Strippin                      25-04-2023          18-08-2025              2.62 (dias)         293665          
+Rubini                        11-02-2023          17-08-2025              2.46 (dias)         102528          
+brax                          22-11-2021          20-08-2025              2.33 (dias)         574927          
+d_obby                        04-08-2022          20-08-2025              2.25 (dias)         195405          
+Etoiles                       23-11-2023          27-08-2025              2.12 (dias)         220873          
+grafo                         24-01-2023          26-08-2025              1.96 (dias)         414577          
+karavay46                     22-04-2021          16-08-2025              1.58 (dias)         354734          
+*********************************************************************************Escape from Tarkov*********************************************************************************
+CUENTA                    FECHA CREACION      FECHA ULT. STREAM.         TIEMPO REP.       CANT. SEGUID.           ETIQUETAS
+====================================================================================================================================================================================
+YoDa                          09-07-2023          20-08-2025             19.54 (dias)        1792625           [24e2c63d] 'That's a lot of money to spend on players too much bro .'
+Rush                          17-12-2023          21-08-2025              4.75 (dias)         542991           [3d3e843f] 'Thank you for the follow  and it's our friend Jake laughing.'
+thedarkness                   25-07-2021          20-08-2025              3.21 (dias)         536792          
+KabajiOW                      11-02-2022          22-08-2025              2.92 (dias)         369667          
+Mixwell                       28-09-2023          25-08-2025              2.75 (dias)         331208          
+gamelifeow                    25-05-2023          22-08-2025              2.62 (dias)         234471          
+collet11                      28-08-2023          20-08-2025              2.00 (dias)         215304          
+AnneMunition                  10-08-2021          25-08-2025              1.88 (dias)         621921          
+Limmy                         05-08-2021          15-08-2025              1.71 (dias)         207508          
+CallMeCarsonLIVE              22-06-2021          14-08-2025              1.42 (dias)        1151712          
+***********************************************************************************Rocket League************************************************************************************
+CUENTA                    FECHA CREACION      FECHA ULT. STREAM.         TIEMPO REP.       CANT. SEGUID.           ETIQUETAS
+====================================================================================================================================================================================
+ROSHTEIN                      14-11-2022          14-08-2025             16.58 (dias)         381918           [14c9f6c0] 'I've genuinely never bought a single one of those packs  laughing out loud.'
+ESL_DOTA2                     06-04-2023          13-08-2025              7.62 (dias)         337177           [3d3e843f] 'At this point Jake is just a meme now to be honest .'
+Veritas                       04-05-2023          17-08-2025              3.67 (dias)         182492           [4e083e06] 'Can you please tell us what the current song is? '
+daltoosh                      12-03-2021          16-08-2025              3.67 (dias)         241602           [373221e6] 'Where is the guy that scammed Kieran? I want to see him. '
+ItsSlikeR                     23-10-2021          27-08-2025              2.50 (dias)         283503          
+BigSpinCR                     12-03-2022          16-08-2025              2.00 (dias)         185784          
+LobosJr                       25-10-2023          23-08-2025              1.88 (dias)         375646          
+monkeys_forever               17-08-2023          20-08-2025              1.67 (dias)          79270          
+Crayator                      11-10-2021          15-08-2025              1.62 (dias)         599828          
+LightFuryLF                   05-01-2022          14-08-2025              1.62 (dias)          51589          
+***********************************************************************************World of Tanks***********************************************************************************
+CUENTA                    FECHA CREACION      FECHA ULT. STREAM.         TIEMPO REP.       CANT. SEGUID.           ETIQUETAS
+====================================================================================================================================================================================
+Trymacs                       27-09-2022          26-08-2025             13.67 (dias)        1607134           [48f76607] 'Can we please get a ban on that user?  Thank you very much.'
+ybicanoooobov                 13-04-2021          18-08-2025             10.83 (dias)         523512           [83eb002b] 'Jake I've missed seeing you in the stream chat .'
+NOBRU                         01-05-2021          14-08-2025             10.25 (dias)        1549722           [d0589dbc] 'This is ridiculous  lol.'
+JoshOG                        04-09-2023          22-08-2025              5.88 (dias)        1748928           [1037e6f7] 'To troll him you should give Ronaldo something other than number 7 .'
+Faker                         17-08-2023          24-08-2025              5.67 (dias)        2716270           [373221e6] 'Now that Mass is big time we will all be forgotten about. '
+FEDMYSTER                     03-03-2023          21-08-2025              2.83 (dias)         609723          
+FifaTargrean                  12-08-2023          14-08-2025              2.67 (dias)         396862          
+ElcanaldeJoaco                24-02-2021          13-08-2025              2.38 (dias)         810622          
+Warcraft                      12-11-2023          22-08-2025              1.46 (dias)         593564          
+************************************************************************************Clash Royale************************************************************************************
+CUENTA                    FECHA CREACION      FECHA ULT. STREAM.         TIEMPO REP.       CANT. SEGUID.           ETIQUETAS
+====================================================================================================================================================================================
+ESL_CSGO                      16-12-2023          27-08-2025             45.92 (dias)        3944850          
+coscu                         09-03-2023          22-08-2025              7.17 (dias)        1865296           [840b424d] 'You should put Militao on the right side of the pitch .'
+EWROON                        15-05-2022          18-08-2025              6.08 (dias)         514693           [605d8716] 'I just changed it for the chemistry so the players link up .'
+Skyyart                       03-05-2021          22-08-2025              4.12 (dias)         598579           [373221e6] 'Ok I understand what you mean. '
+NairoMK                       02-01-2021          22-08-2025              3.88 (dias)         339545           [cc984e31] 'Laughing out loud that's so funny! '
+bysTaXx                       11-06-2023          17-08-2025              3.83 (dias)        1093212           [e0355853] 'Please stop bullying Jake he's a good kid. '
+mL7support                    09-06-2023          25-08-2025              3.00 (dias)         342850          
+AladdinTV                     18-11-2022          27-08-2025              2.17 (dias)         110211          
+Arcadum                       18-07-2022          15-08-2025              1.62 (dias)         120586          
+nielnieh345                   02-04-2023          19-08-2025              1.58 (dias)          93991          
+richwcampbell                 08-02-2021          26-08-2025              1.46 (dias)         108410          
+crazzyccat                    07-07-2023          24-08-2025              1.42 (dias)          35930          
+LAGTVMaximusBlack             14-02-2022          22-08-2025              1.42 (dias)         256353          
+**************************************************************************************Variety***************************************************************************************
+CUENTA                    FECHA CREACION      FECHA ULT. STREAM.         TIEMPO REP.       CANT. SEGUID.           ETIQUETAS
+====================================================================================================================================================================================
+Lord_Kebun                    17-11-2023          26-08-2025             22.46 (dias)         434200           [4a2b34c1] ' That's why your team is not valuable because you don't grind.'
+benjyfishy                    01-11-2023          22-08-2025              6.71 (dias)        1739112           [373221e6] 'It only took us two hours to get a game  laughing out loud.'
+Xayoo_                        16-06-2022          27-08-2025              6.62 (dias)         572789           [d0589dbc] 'Hopefully we can get a game before the three-hour mark .'
+CSRuHub                       10-07-2021          14-08-2025              6.25 (dias)         511431           [35a21fb9] 'Why has Lacazette got Aubameyang's squad number on his jersey? '
+FENGRUSH                      17-07-2022          19-08-2025              6.00 (dias)          95643           [cc984e31] 'Lazzo61 oh alright that makes sense. '
+Amar                          14-04-2023          25-08-2025              5.17 (dias)         604374           [373221e6] 'Holy crap that is so unbelievable! '
+modestal                      05-09-2021          26-08-2025              3.62 (dias)         323364           [373221e6] 'I want to unban him he seems like a decent lad. '
+LeBouseuh                     25-07-2021          15-08-2025              2.46 (dias)         988237          
+LPMassive                     12-11-2021          16-08-2025              2.25 (dias)         315264          
+Naowh                         21-12-2023          23-08-2025              1.88 (dias)         103636          
+ImMarksman                    20-06-2021          22-08-2025              1.62 (dias)         633443          
+lilballzlolz                  17-05-2023          25-08-2025              1.62 (dias)         118276          
+RelaxBeats                    16-03-2023          15-08-2025              1.42 (dias)         166162          
+**********************************************************************************Street Fighter 6**********************************************************************************
+CUENTA                    FECHA CREACION      FECHA ULT. STREAM.         TIEMPO REP.       CANT. SEGUID.           ETIQUETAS
+====================================================================================================================================================================================
+AdmiralBahroo                 08-05-2021          15-08-2025             13.75 (dias)         778055           [808b6695] 'I'm trading with Mass going from 1 million to 0 in less than 2 days let's go! '
+Jinnytty                      07-12-2023          13-08-2025              6.58 (dias)         372334           [d0589dbc] 'Hopefully we can get a game before the three-hour mark .'
+FolagorLives                  01-06-2022          26-08-2025              5.54 (dias)         786983           [24dff7db] 'Nah it's not just you I do the exact same thing .'
+buddha                        28-08-2023          15-08-2025              5.04 (dias)         247303           [d03c8078] 'J E S U S what is this player doing? '
+Homyatol                      14-04-2023          24-08-2025              4.38 (dias)         375749           [4e083e06] 'This guy is playing very well and dominating the game. '
+Conterstine                   24-08-2023          19-08-2025              3.25 (dias)         386804          
+MckyTV                        15-11-2022          17-08-2025              2.83 (dias)         722041          
+saintvicious                  25-06-2023          21-08-2025              2.79 (dias)         247236          
+***********************************************************************************Hollow Knight************************************************************************************
+CUENTA                    FECHA CREACION      FECHA ULT. STREAM.         TIEMPO REP.       CANT. SEGUID.           ETIQUETAS
+====================================================================================================================================================================================
+Sacriel                       19-12-2023          13-08-2025             11.58 (dias)         672403           [373221e6] 'That's our friend Jake  who is always so funny.'
+39daph                        16-11-2021          19-08-2025              5.88 (dias)         505362           [bf4326a7] 'Do you think Arsenal should sell their player Mesut Ozil? '
+sal_gu                        17-05-2021          22-08-2025              3.75 (dias)         164092           [3d3e843f] 'Laughing that is just too funny. '
+Loserfruit                    21-01-2023          25-08-2025              2.42 (dias)        1869993          
+Kamikatze                     24-04-2022          13-08-2025              2.33 (dias)         107476          
+game2eye                      15-01-2022          16-08-2025              2.00 (dias)         183891          
+westdoor                      12-04-2021          16-08-2025              1.46 (dias)         272662          
+****************************************************************************************PEAK****************************************************************************************
+CUENTA                    FECHA CREACION      FECHA ULT. STREAM.         TIEMPO REP.       CANT. SEGUID.           ETIQUETAS
+====================================================================================================================================================================================
+Gaules                        13-06-2023          14-08-2025             65.29 (dias)        1767635           [3d1a843f] ' Imagine doing this on a proper Road to Glory that's just a crazy thought.'
+Reborn_Live                   14-12-2023          16-08-2025              6.67 (dias)         697007           [fb77a079] 'We have nearly 500 viewers watching the stream let's go! '
+ESAMarathon                   02-01-2023          16-08-2025              5.00 (dias)         244440           [3d37399a] 'You are acting like a manager you should make a change. '
+BurkeBlack                    13-07-2021          13-08-2025              4.29 (dias)         276421           [2f9c31c6] 'Are you Jake? I'm just checking you sexy bum. '
+itmeJP                        03-05-2021          22-08-2025              3.54 (dias)         369273          
+chess24                       25-12-2022          22-08-2025              2.38 (dias)          66198          
+PaymoneyWubby                 12-09-2022          14-08-2025              1.92 (dias)         302419          
+hatsalsal                     11-07-2022          22-08-2025              1.79 (dias)          77861          
+leplol1                       20-11-2022          21-08-2025              1.46 (dias)         157981          
+TMemoryy                      07-01-2022          18-08-2025              1.42 (dias)         171107          
+***************************************************************************************Sports***************************************************************************************
+CUENTA                    FECHA CREACION      FECHA ULT. STREAM.         TIEMPO REP.       CANT. SEGUID.           ETIQUETAS
+====================================================================================================================================================================================
+JLTomy                        11-11-2021          20-08-2025             14.21 (dias)         428073           [12cb0d6f] 'Who do you think is better gold Neymar or the 88 Felipe? '
+Quin69                        17-07-2021          17-08-2025             13.71 (dias)         538532           [808b6695] 'I'm trading with Mass going from 1 million to 0 in less than 2 days let's go! '
+SolaryHS                      18-07-2023          17-08-2025              9.54 (dias)         149073           [d23826b9] ' Of course it's Michael Owen mate he's such a legend.'
+Jankos                        11-02-2023          15-08-2025              3.17 (dias)         573657          
+ixxYjYxxi                     24-12-2022          15-08-2025              2.33 (dias)         857099          
+fuslie                        05-03-2023          24-08-2025              2.04 (dias)         336394          
+VaporaDark                    15-12-2022          22-08-2025              1.92 (dias)         101359          
+cellinrj                      15-11-2023          24-08-2025              1.79 (dias)         245715          
+DuendePablo                   07-08-2023          21-08-2025              1.75 (dias)         514073          
+*************************************************************************************Last Epoch*************************************************************************************
+CUENTA                    FECHA CREACION      FECHA ULT. STREAM.         TIEMPO REP.       CANT. SEGUID.           ETIQUETAS
+====================================================================================================================================================================================
+Asmongold                     28-05-2023          14-08-2025             42.46 (dias)        1563438           [76c491e5] ' They should just chuck a few rare consumable packs in the rewards you stingy forks!'
+DrDisrespect                  11-01-2022          13-08-2025             21.29 (dias)        4450718           [7e152bd1] 'My team is now worth over 10 million coins in the game .'
+forsen                        24-01-2023          16-08-2025             12.79 (dias)        1308165           [83eb002b] 'You've got it Jake we're all here for you .'
+stylishnoob4                  02-05-2023          22-08-2025             11.88 (dias)         354579           [7e152bd1] ' That is a hilarious situation laughing.'
+SypherPK                      13-01-2022          22-08-2025             11.75 (dias)        3611359           [373221e6] 'Oh my goodness laughing out loud  that's amazing!'
+yumyumyu77                    28-01-2021          21-08-2025              3.62 (dias)         309322           [373221e6] 'I want to unban him he seems like a decent lad. '
+Wingsofdeath                  16-01-2023          21-08-2025              2.33 (dias)         473157          
+CurtisRyan                    22-03-2023          21-08-2025              2.29 (dias)          65688          
+Sev7n                         18-02-2022          22-08-2025              2.25 (dias)         469944          
+kyliebitkin                   07-02-2022          24-08-2025              1.71 (dias)          85336          
+foggedftw2                    03-07-2022          23-08-2025              1.62 (dias)         242205          
+MadDecentLive                 01-03-2021          19-08-2025              1.50 (dias)          95371          
+FlexZ                         07-01-2021          21-08-2025              1.46 (dias)         155382          
+********************************************************************************Old School RuneScape********************************************************************************
+CUENTA                    FECHA CREACION      FECHA ULT. STREAM.         TIEMPO REP.       CANT. SEGUID.           ETIQUETAS
+====================================================================================================================================================================================
+NICKMERCS                     03-02-2022          18-08-2025             38.88 (dias)        4074287           [76c491e5] ' They should just chuck a few rare consumable packs in the rewards you stingy forks!'
+Papaplatte                    24-10-2023          13-08-2025             12.79 (dias)         919026           [2f12c31e] 'We've got a triple team working together  this is so fun.'
+DreamHackCS                   23-01-2021          26-08-2025             12.17 (dias)        1801697           [78d91c12] 'Why didn't I buy all the anchor cards when they were only 700 coins? '
+GarenaTW                      21-07-2021          13-08-2025              3.17 (dias)         401222          
+Manyrin                       01-10-2021          24-08-2025              2.88 (dias)         449520          
+TidesofTime                   20-06-2022          20-08-2025              2.50 (dias)         251700          
+CzechCloud                    08-07-2022          23-08-2025              2.38 (dias)         180668          
+SirhcEz                       24-04-2022          27-08-2025              2.00 (dias)         579629          
+Dmitry_Lixxx                  21-04-2023          24-08-2025              1.83 (dias)         347824          
+CyrusTWO                      03-11-2023          24-08-2025              1.50 (dias)          96691          
+CeMka                         02-01-2021          14-08-2025              1.46 (dias)          86502          
+**************************************************************************************Deadlock**************************************************************************************
+CUENTA                    FECHA CREACION      FECHA ULT. STREAM.         TIEMPO REP.       CANT. SEGUID.           ETIQUETAS
+====================================================================================================================================================================================
+Scarra                        02-03-2021          22-08-2025             10.00 (dias)        1242014           [d03c8078] ' Please give Telles the number 13 on his jersey.'
+aXtLOL                        06-05-2021          23-08-2025              4.33 (dias)         763886           [e0355853] 'That person is a legend in the FIFA community. '
+FPSThailand                   24-04-2023          27-08-2025              4.04 (dias)         390579           [3d3e843f] 'Talk to us we want to hear what you have to say. '
+Recrent                       14-10-2021          22-08-2025              2.33 (dias)         220789          
+RTAinJapan                    12-01-2021          20-08-2025              2.04 (dias)          71730          
+Tyceno                        16-03-2023          20-08-2025              2.04 (dias)         297359          
+rxnexus                       01-07-2021          15-08-2025              1.92 (dias)         255944          
+AkTep                         20-06-2021          20-08-2025              1.79 (dias)         222796          
+Stewie2K                      02-10-2021          27-08-2025              1.75 (dias)         875087          
+Kaydop                        11-03-2022          22-08-2025              1.67 (dias)         193058          
+Videoyun                      18-08-2022          23-08-2025              1.50 (dias)         375697          
+************************************************************************************Hearthstone*************************************************************************************
+CUENTA                    FECHA CREACION      FECHA ULT. STREAM.         TIEMPO REP.       CANT. SEGUID.           ETIQUETAS
+====================================================================================================================================================================================
+Castro_1021                   06-01-2022          27-08-2025             21.33 (dias)        2411995           [ab7f2910] 'Can someone please help me understand  how to do trading properly?' [7e152bd1] 'My team is now worth over 10 million coins in the game .'
+Pestily                       23-02-2022          18-08-2025             19.21 (dias)         616168           [24e2c63d] 'That's a lot of money to spend on players too much bro .'
+Jahrein                       04-08-2022          19-08-2025              6.54 (dias)        1422862           [d03c8078] 'You should give Telles the number 13 because that's his real number you dummy. '
+ElRichMC                      16-05-2023          19-08-2025              3.33 (dias)         688715          
+ses836                        17-05-2023          27-08-2025              2.17 (dias)         105730          
+dizzy                         06-09-2022          24-08-2025              1.83 (dias)         795869          
+Bidule                        22-08-2023          16-08-2025              1.46 (dias)          82570          
+****************************************************************************************ASMR****************************************************************************************
+CUENTA                    FECHA CREACION      FECHA ULT. STREAM.         TIEMPO REP.       CANT. SEGUID.           ETIQUETAS
+====================================================================================================================================================================================
+Rainbow6                      20-02-2023          25-08-2025             11.92 (dias)        1501197           [fceca079] 'It's so funny anchors were 800 coins just a week ago. '
+lol_woolf                     19-01-2022          27-08-2025              6.17 (dias)         308528           [35a21fb9] 'Oh never mind you already changed it .'
+boxbox                        10-08-2022          26-08-2025              4.08 (dias)        1717150           [373221e6] 'I am so happy with my red picks. '
+s1mple                        09-10-2022          26-08-2025              3.83 (dias)        1681884           [cc984e31] 'Joarwinston don't bully the new player that's mean. '
+kumikomii                     17-05-2023          18-08-2025              2.88 (dias)         177741          
+Mibrtv                        24-09-2023          24-08-2025              2.62 (dias)         250709          
+Markstrom                     26-08-2023          14-08-2025              1.46 (dias)          93045          
+Remx                          08-07-2022          13-08-2025              1.38 (dias)         178553          
+**********************************************************************************Path of Exile 2***********************************************************************************
+CUENTA                    FECHA CREACION      FECHA ULT. STREAM.         TIEMPO REP.       CANT. SEGUID.           ETIQUETAS
+====================================================================================================================================================================================
+ZeratoR                       09-06-2023          20-08-2025             11.67 (dias)         880728           [d0589dbc] ' Congratulations on getting the icon you wanted.'
+relaxing234                   27-07-2022          23-08-2025              4.92 (dias)         258402           [373221e6] 'I can't believe how incredible that team is. '
+DatModz                       24-06-2021          16-08-2025              4.71 (dias)         270720           [605d8716] 'I'm staying up late tonight because tomorrow there is no school. '
+BlackUFA                      25-04-2022          27-08-2025              3.96 (dias)         279922           [808b6695] 'He's obviously a Silva 2 finisher come on Mass. '
+Cryaotic                      05-05-2022          19-08-2025              1.88 (dias)         813371          
+tebtv                         09-04-2023          21-08-2025              1.83 (dias)          76050          
+Yamikazexz                    19-11-2023          17-08-2025              1.58 (dias)         201657          
+WillerZ                       13-07-2023          25-08-2025              1.50 (dias)          79392          
+wingz                         15-08-2021          22-08-2025              1.46 (dias)          85695          
+****************************************************************************************Art*****************************************************************************************
+CUENTA                    FECHA CREACION      FECHA ULT. STREAM.         TIEMPO REP.       CANT. SEGUID.           ETIQUETAS
+====================================================================================================================================================================================
+ibai                          01-03-2022          18-08-2025             16.33 (dias)        1894953           [14c9f6c0] 'I've genuinely never bought a single one of those packs  laughing out loud.'
+Brunenger                     25-01-2021          21-08-2025              6.46 (dias)         659652           [3d3e843f] 'It's about time we started playing sarcastic .'
+Klean                         10-11-2021          25-08-2025              6.29 (dias)         276242           [840b424d] 'Militao can't pass on his left foot so put him on the right side. '
+Grimmmz                       12-07-2021          25-08-2025              4.33 (dias)        1001739           [e0355853] 'That person is a legend in the FIFA community. '
+Smoke                         10-04-2023          26-08-2025              3.00 (dias)         166007          
+hexy                          27-11-2022          27-08-2025              2.12 (dias)         336093          
+Datto                         09-06-2022          25-08-2025              2.08 (dias)         530822          
+Esports_Alliance              21-05-2022          18-08-2025              1.88 (dias)         117084          
+voicetv                       22-08-2022          18-08-2025              1.88 (dias)           3660          
+Dyrus                         08-04-2023          13-08-2025              1.83 (dias)        1474090          
+nookyyy                       16-01-2022          25-08-2025              1.54 (dias)         206681          
+********************************************************************************PUBG: BATTLEGROUNDS*********************************************************************************
+CUENTA                    FECHA CREACION      FECHA ULT. STREAM.         TIEMPO REP.       CANT. SEGUID.           ETIQUETAS
+====================================================================================================================================================================================
+TheRealKnossi                 07-05-2022          17-08-2025             20.96 (dias)        1260160           [a6f2c8d4] 'Quick maths I believe the total value is about  1.6 million probably.'
+Sfory                         16-05-2023          16-08-2025              7.08 (dias)         457502           [c02778fb] 'Can you please adjust the kit numbers for the players? '
+StaysafeTV                    09-01-2022          16-08-2025              4.62 (dias)         149648           [373221e6] 'Kieran has banned so many random people in the chat. '
+faceittv                      02-12-2023          26-08-2025              3.38 (dias)        1681615          
+Swifty                        01-06-2021          20-08-2025              2.62 (dias)         615027          
+Alinity                       24-08-2022          20-08-2025              2.50 (dias)        1203324          
+Linkus7                       26-12-2022          21-08-2025              1.62 (dias)          96728          
+***********************************************************************************Virtual Casino***********************************************************************************
+CUENTA                    FECHA CREACION      FECHA ULT. STREAM.         TIEMPO REP.       CANT. SEGUID.           ETIQUETAS
+====================================================================================================================================================================================
+Yassuo                        28-07-2023          17-08-2025             15.58 (dias)        1878416           [b9c4f1a2] 'The Bronze Pack Method is an absolute goldmine  laughing out loud.'
+lol_ambition                  18-05-2022          24-08-2025              7.38 (dias)         362297           [605d8716] 'Hahaha that is just too funny laughing out loud .'
+moistcr1tikal                 12-06-2021          17-08-2025              4.79 (dias)        1166681           [e0355853] 'Friend just kidding don't take it seriously. '
+OgamingSC2                    26-09-2021          17-08-2025              2.92 (dias)         105368          
+pqueen                        10-11-2023          18-08-2025              2.79 (dias)         485787          
+Th3Antonio                    26-04-2021          14-08-2025              2.00 (dias)         223756          
+lovelyyeon                    28-11-2023          21-08-2025              1.83 (dias)         108382          
+UCCleague                     13-05-2021          15-08-2025              1.75 (dias)         226974          
+***************************************************************************************Slots****************************************************************************************
+CUENTA                    FECHA CREACION      FECHA ULT. STREAM.         TIEMPO REP.       CANT. SEGUID.           ETIQUETAS
+====================================================================================================================================================================================
+Giantwaffle                   19-11-2021          26-08-2025              7.08 (dias)         878934           [c02778fb] 'Can you please adjust the kit numbers for the players? '
+CriticalRole                  28-10-2022          19-08-2025              6.21 (dias)         571210           [808b6695] 'What's your in-game setup for the team? '
+BastiGHG                      21-06-2023          24-08-2025              4.75 (dias)         507730           [605d8716] 'I'm staying up late tonight because tomorrow there is no school. '
+iateyourpie                   14-03-2021          23-08-2025              2.12 (dias)         124020          
+forever                       10-02-2021          13-08-2025              2.04 (dias)         373484          
+TSM_Hamlinz                   05-10-2023          18-08-2025              1.92 (dias)        2137521          
+easywithaces                  04-09-2023          20-08-2025              1.83 (dias)          90359          
+ArQuel                        28-10-2022          21-08-2025              1.54 (dias)         285920          
+RyuQuezacotl                  11-07-2023          15-08-2025              1.42 (dias)          79063          
+***************************************************************************************ROBLOX***************************************************************************************
+CUENTA                    FECHA CREACION      FECHA ULT. STREAM.         TIEMPO REP.       CANT. SEGUID.           ETIQUETAS
+====================================================================================================================================================================================
+guit88man                     18-12-2023          23-08-2025              3.29 (dias)         144898          
+Jerma985                      09-05-2021          14-08-2025              3.08 (dias)         334594          
+LuluLuvely                    06-01-2023          13-08-2025              2.62 (dias)         431852          
+DarioMocciaTwitch             03-10-2023          22-08-2025              2.50 (dias)         114376          
+TheNo1Alex                    08-01-2023          15-08-2025              2.38 (dias)         140855          
+AlpTV                         15-04-2022          17-08-2025              2.04 (dias)         576276          
+BRNWOWZK1                     24-11-2021          15-08-2025              2.00 (dias)         173713          
+TobiasFate                    09-11-2021          14-08-2025              1.83 (dias)         701822          
+natalan                       22-07-2022          13-08-2025              1.75 (dias)         529357          
+KEEMSTAR                      01-08-2023          19-08-2025              1.42 (dias)         146035          
+**********************************************************************************Im Only Sleeping**********************************************************************************
+CUENTA                    FECHA CREACION      FECHA ULT. STREAM.         TIEMPO REP.       CANT. SEGUID.           ETIQUETAS
+====================================================================================================================================================================================
+Domingo                       14-02-2022          23-08-2025              7.67 (dias)         829700           [f385274f] 'Militao has a 2-star weak foot so use him on the right .'
+CasinoDaddy                   25-12-2023          27-08-2025              6.67 (dias)         151098           [0d983dbc] 'Finally we are getting to play a game after all this waiting. '
+Magic                         10-11-2023          25-08-2025              4.17 (dias)         365714           [04990488] 'I just got here so what did I miss? '
+singsing                      28-01-2022          17-08-2025              4.00 (dias)         572005           [0d983dbc] 'The sweat is real in this game it's so competitive. '
+UNLOSTV                       26-06-2023          14-08-2025              3.50 (dias)        1585519          
+WOKE                          09-12-2021          16-08-2025              2.71 (dias)         107484          
+CooLifeGame                   11-04-2021          13-08-2025              2.71 (dias)         395859          
+Albralelie                    16-05-2023          19-08-2025              2.67 (dias)         240030          
+BlackFIreIce                  23-03-2022          26-08-2025              1.71 (dias)         108895          
+bighead033                    14-10-2023          17-08-2025              1.42 (dias)         213212          
+***************************************************************************************Music****************************************************************************************
+CUENTA                    FECHA CREACION      FECHA ULT. STREAM.         TIEMPO REP.       CANT. SEGUID.           ETIQUETAS
+====================================================================================================================================================================================
+Elraenn                       19-07-2022          14-08-2025              8.38 (dias)        1223076           [605d8716] 'You should use the 4-1-2-1-2 formation and swap the center backs .'
+Nadeshot                      03-12-2023          20-08-2025              5.08 (dias)        1472104           [d03c8078] 'J E S U S what is this player doing? '
+Aurateur                      23-10-2021          22-08-2025              4.71 (dias)         142427           [808b6695] 'We need to start a movement to #letjakefree. '
+Slushpuppy                    18-09-2021          23-08-2025              3.54 (dias)         122486          
+WARDELL                       06-10-2023          15-08-2025              2.04 (dias)         306435          
+Xposed                        02-04-2022          16-08-2025              1.92 (dias)         266853          
+FanHOTS                       12-05-2022          27-08-2025              1.71 (dias)          64587          
+UncleBjorn                    28-04-2022          15-08-2025              1.62 (dias)         111003          
+****************************************************************************************DJs*****************************************************************************************
+CUENTA                    FECHA CREACION      FECHA ULT. STREAM.         TIEMPO REP.       CANT. SEGUID.           ETIQUETAS
+====================================================================================================================================================================================
+Bugha                         19-01-2022          14-08-2025             15.29 (dias)        2942212           [76c491e6] 'It's crazy that anchor chemistry styles are now like 4000 coins .'
+Maximilian_DOOD               10-01-2023          15-08-2025             11.83 (dias)         833047           [7e152bd1] ' That is a hilarious situation laughing.'
+jinu6734                      20-02-2022          15-08-2025              6.88 (dias)         274875           [f385274f] 'Can you please give Bernardo Silva a hunter chemistry style? '
+KingGeorge                    19-07-2022          19-08-2025              5.46 (dias)         767727           [3d3e843f] 'Welcome back we're all so happy to see you here again. '
+IWillDominate                 23-04-2022          14-08-2025              5.12 (dias)         797244           [e0355853] 'Look who is back again  our favorite person.'
+DownToQuest                   15-05-2023          14-08-2025              3.25 (dias)          82299          
+Moondye7                      02-10-2022          20-08-2025              3.00 (dias)         306920          
+Nattank                       08-09-2021          24-08-2025              2.79 (dias)          86544          
+Pikabooirl                    09-03-2023          22-08-2025              2.58 (dias)         237214          
+KingGothalion                 24-06-2022          21-08-2025              2.50 (dias)        1015521          
+GernaderJake                  28-03-2021          27-08-2025              2.50 (dias)         295771          
+caps                          17-05-2023          26-08-2025              2.21 (dias)         479368          
+Drjayfisto                    22-04-2021          20-08-2025              2.04 (dias)         130341          
+NBA2KLeague                   14-10-2021          15-08-2025              2.00 (dias)         143535          
+Igromania                     03-11-2021          25-08-2025              1.96 (dias)         184078          
+CrReaM                        24-10-2023          27-08-2025              1.92 (dias)         165906          
+PUBG                          08-07-2022          16-08-2025              1.83 (dias)         733628          
+innocents                     05-03-2022          25-08-2025              1.54 (dias)         534759          
+**********************************************************************************EA Sports FC 25***********************************************************************************
+CUENTA                    FECHA CREACION      FECHA ULT. STREAM.         TIEMPO REP.       CANT. SEGUID.           ETIQUETAS
+====================================================================================================================================================================================
+boyMinORu                     26-04-2023          17-08-2025              4.33 (dias)         367223           [3d3e843f] 'That's just a random legend in the stream chat. '
+Kephrii                       14-02-2021          19-08-2025              2.83 (dias)         559647          
+Froggen                       23-07-2021          14-08-2025              1.67 (dias)         770030          
+Naru                          25-12-2021          17-08-2025              1.46 (dias)         344859          
+runner0608                    04-12-2022          19-08-2025              1.42 (dias)         164902          
+Hitch                         15-09-2022          24-08-2025              1.42 (dias)          96343          
+****************************************************************************************Rust****************************************************************************************
+CUENTA                    FECHA CREACION      FECHA ULT. STREAM.         TIEMPO REP.       CANT. SEGUID.           ETIQUETAS
+====================================================================================================================================================================================
+Fextralife                    07-08-2021          19-08-2025             38.21 (dias)         508816           [e0355853] 'Let's do some more league squad building challenges to get some rewards .'
+Gotaga                        09-11-2022          16-08-2025             17.79 (dias)        2401580           [71b79a6f] ' That's really a huge waste of money that's crazy dude.'
+RebirthzTV                    06-09-2021          27-08-2025              6.33 (dias)         276694           [3d3e843f] 'Imagine just playing menus with 500 viewers sarcastic .'
+ESL_CSGOb                     19-04-2021          17-08-2025              3.75 (dias)         575769           [3d3e843f] 'Finally my first Jake ban of the day sarcastic sorry Jake. '
+sonycast_                     05-10-2021          18-08-2025              3.33 (dias)         255949          
+ClintStevens                  03-03-2022          16-08-2025              2.17 (dias)         393432          
+BarcaGamer                    04-03-2021          20-08-2025              1.62 (dias)         636568          
+AlcastHQ                      03-05-2022          13-08-2025              1.50 (dias)          81928          
+zorlaKOKA                     22-08-2023          19-08-2025              1.42 (dias)         361102          
+***************************************************************************************Retro****************************************************************************************
+CUENTA                    FECHA CREACION      FECHA ULT. STREAM.         TIEMPO REP.       CANT. SEGUID.           ETIQUETAS
+====================================================================================================================================================================================
+BeyondTheSummit               24-05-2022          17-08-2025             15.46 (dias)         923689           [27a8f979] ' I've spent 1.2 million coins on fitness cards and my team is worth a similar price.'
+B0aty                         05-01-2023          25-08-2025              5.88 (dias)         516113           [1037e6f7] 'To troll him you should give Ronaldo something other than number 7 .'
+Zizaran                       27-07-2021          16-08-2025              5.29 (dias)         267004           [2f9c31c6] 'I was the first one to comment on the stream let's go! '
+RiotGamesJP                   23-08-2023          26-08-2025              4.50 (dias)         141684           [636111cd] 'biblethump I am so sad about this. '
+Syndicate                     10-12-2021          16-08-2025              3.33 (dias)        3000509          
+cyr                           03-09-2022          23-08-2025              2.92 (dias)         182107          
+Arteezy                       11-06-2022          21-08-2025              2.75 (dias)         634982          
+Lasqa                         14-09-2022          20-08-2025              2.50 (dias)         135446          
+MarkiLokurasY                 22-01-2023          24-08-2025              2.29 (dias)         923377          
+iProMx                        21-11-2021          25-08-2025              1.96 (dias)         151788          
+MaTaFe_                       09-12-2023          18-08-2025              1.96 (dias)         116653          
+Bawkbasoup                    06-04-2022          22-08-2025              1.92 (dias)          94820          
+bebelolz                      23-09-2022          26-08-2025              1.88 (dias)         260119          
+BananaSlamJamma               15-10-2021          18-08-2025              1.83 (dias)         170181          
+*****************************************************************************Shadowverse: Worlds Beyond*****************************************************************************
+CUENTA                    FECHA CREACION      FECHA ULT. STREAM.         TIEMPO REP.       CANT. SEGUID.           ETIQUETAS
+====================================================================================================================================================================================
+buster                        13-08-2023          18-08-2025             10.21 (dias)        1087377           [d03c8078] ' Please give Telles the number 13 on his jersey.'
+btssmash                      09-04-2023          19-08-2025              4.50 (dias)         216558           [636111cd] 'biblethump I am so sad about this. '
+JonVlogs                      15-05-2023          27-08-2025              2.42 (dias)         480299          
+runitup247                    10-10-2021          23-08-2025              2.38 (dias)          91608          
+10000DAYS                     28-09-2023          18-08-2025              1.96 (dias)         356683          
+EAMaddenNFL                   10-11-2022          26-08-2025              1.83 (dias)         241924          
+robn_live                     24-12-2023          25-08-2025              1.58 (dias)          66223          
+mandiocaa1                    06-05-2023          26-08-2025              1.50 (dias)         312944          
+**************************************************************************Tom Clancys Rainbow Six Siege X***************************************************************************
+CUENTA                    FECHA CREACION      FECHA ULT. STREAM.         TIEMPO REP.       CANT. SEGUID.           ETIQUETAS
+====================================================================================================================================================================================
+TimTheTatman                  15-11-2022          21-08-2025             32.79 (dias)        5265659           [d036de7c] 'I am trying to trade but  I only have 50000 coins to start with.'
+H2P_Gucio                     27-06-2023          18-08-2025              6.62 (dias)         220488           [0d983dbc] 'Finally we are getting to play a game after all this waiting. '
+KendineMuzisyen               09-06-2023          17-08-2025              6.54 (dias)        1372290           [d03c8078] 'You should give Telles the number 13 because that's his real number you dummy. '
+Hiko                          10-07-2022          15-08-2025              6.04 (dias)        1001350           [808b6695] 'Set up the team for an offensive playstyle please. '
+dafran                        14-01-2023          14-08-2025              4.71 (dias)         599036           [de2f7017] 'Hello everyone in the chat  how are you all doing?'
+silphtv                       16-12-2021          20-08-2025              4.42 (dias)         309065           [3d3e843f] 'You seem to be new to this whole mod thing sarcastic. '
+Sykkuno                       16-10-2022          25-08-2025              3.12 (dias)         334591          
+JLWaliid                      18-10-2023          16-08-2025              2.46 (dias)         272391          
+Draineo                       05-07-2022          20-08-2025              1.79 (dias)         102225          
+Herdyn                        13-12-2021          22-08-2025              1.71 (dias)         410224          
+julien                        23-02-2023          26-08-2025              1.50 (dias)         511861          
+iGeStarK                      18-10-2023          20-08-2025              1.50 (dias)         244437          
+***********************************************************************************Albion Online************************************************************************************
+CUENTA                    FECHA CREACION      FECHA ULT. STREAM.         TIEMPO REP.       CANT. SEGUID.           ETIQUETAS
+====================================================================================================================================================================================
+Dota2RuHub                    28-05-2023          25-08-2025             15.38 (dias)         777510           [76c491e6] 'It's crazy that anchor chemistry styles are now like 4000 coins .'
+elded                         18-02-2023          14-08-2025              9.83 (dias)        2601858           [e0355853] 'Is that Jake? Oh my goodness  it's so great to see you.'
+IzakOOO                       22-12-2021          15-08-2025              8.29 (dias)        1461767           [14c9f6c0] 'cheer100 we should start a campaign to #unbanjake .'
+lilypichu                     27-01-2022          16-08-2025              5.50 (dias)        1363222           [24dff7db] 'Nah it's not just you I do the exact same thing .'
+pjs9073                       13-01-2022          26-08-2025              2.38 (dias)         193757          
+iLame                         14-10-2022          22-08-2025              2.33 (dias)         233263          
+Sanchovies                    22-09-2022          23-08-2025              2.08 (dias)         154845          
+Kandyland                     26-11-2021          22-08-2025              1.79 (dias)         405554          
+ops1x                         21-04-2023          26-08-2025              1.46 (dias)         268942          
+*************************************************************************************Destiny 2**************************************************************************************
+CUENTA                    FECHA CREACION      FECHA ULT. STREAM.         TIEMPO REP.       CANT. SEGUID.           ETIQUETAS
+====================================================================================================================================================================================
+TheGrefg                      07-03-2021          23-08-2025             20.33 (dias)        3795667           [a6f2c8d4] 'Quick maths I believe the total value is about  1.6 million probably.'
+DreamLeague                   02-07-2023          16-08-2025              4.75 (dias)         349054           [481e859f] 'He's obviously a professional player a pro. '
+Loeya                         26-02-2022          19-08-2025              4.58 (dias)        1233300           [373221e6] 'Kieran has banned so many random people in the chat. '
+PietSmiet                     08-12-2022          17-08-2025              4.46 (dias)         576903           [373221e6] 'Kieran has banned so many random channels for no reason. '
+WELOVEGAMES                   08-03-2022          19-08-2025              3.79 (dias)         413458           [636111cd] 'I'm better than this guy and I finish bronze 3 in Weekend League sarcastic. '
+blxckoutz                     08-02-2022          15-08-2025              3.62 (dias)         482061           [b6ee695e] 'The gameplay in this game looks very quick which is great. '
+crokeyz                       21-04-2022          19-08-2025              3.38 (dias)          68907          
+Kurumx                        02-04-2022          20-08-2025              2.33 (dias)          50286          
+Speedrun                      19-12-2023          19-08-2025              2.12 (dias)          93358          
+Evangelion0                   12-10-2021          27-08-2025              1.75 (dias)         120494          
+trihex                        04-05-2022          13-08-2025              1.67 (dias)         431935          
+mailand                       16-12-2023          25-08-2025              1.42 (dias)          86561          
+*************************************************************************************Always On**************************************************************************************
+CUENTA                    FECHA CREACION      FECHA ULT. STREAM.         TIEMPO REP.       CANT. SEGUID.           ETIQUETAS
+====================================================================================================================================================================================
+auronplay                     20-01-2021          23-08-2025             27.88 (dias)        3983847           [18a3364b] 'I have saved up over 2 million coins from playing the game .'
+PlayHearthstone               11-11-2023          17-08-2025              7.62 (dias)         825727           [f385274f] 'Militao has a 2-star weak foot so use him on the right .'
+Kyle                          26-03-2023          20-08-2025              5.79 (dias)         182260           [e781d0f0] 'Will you get TOTY Virgil van face or Varane in the future? '
+ziGueira                      07-04-2023          27-08-2025              4.71 (dias)         529814           [2f9c31c6] 'Please be quiet and listen to the streamer. '
+HGmony                        13-03-2023          17-08-2025              3.33 (dias)          34358          
+Replays                       24-03-2022          23-08-2025              3.29 (dias)         871405          
+Warframe                      17-04-2023          22-08-2025              3.00 (dias)        1254031          
+QuickyBaby                    07-12-2021          15-08-2025              2.96 (dias)         416329          
+masondota2                    22-12-2021          22-08-2025              2.88 (dias)         104526          
+Pace22                        22-03-2022          25-08-2025              2.83 (dias)         171871          
+qSnake                        11-05-2023          15-08-2025              2.46 (dias)         200878          
+SparkofPhoenixTV              19-01-2021          15-08-2025              1.71 (dias)         433078          
+newmasca                      03-07-2023          26-08-2025              1.42 (dias)         109068          
+*****************************************************************************Call of Duty: Black Ops 6******************************************************************************
+CUENTA                    FECHA CREACION      FECHA ULT. STREAM.         TIEMPO REP.       CANT. SEGUID.           ETIQUETAS
+====================================================================================================================================================================================
+WePlayEsport_EN               05-06-2022          25-08-2025              8.12 (dias)         175061           [d0589dbc] 'It feels like EA made that menu to just troll you sarcastic .'
+nokduro                       19-10-2022          18-08-2025              6.42 (dias)         165823           [cc984e31] 'You are playing Bernardo as a CDM  that's a bit strange.'
+obm1025                       04-12-2022          17-08-2025              4.00 (dias)         428179           [0d983dbc] 'The sweat is real in this game it's so competitive. '
+PENTA                         15-08-2021          24-08-2025              3.21 (dias)         152821          
+Alderiate                     14-10-2023          19-08-2025              2.62 (dias)         319860          
+Flight23white                 06-06-2021          24-08-2025              2.50 (dias)         828896          
+IrmanPlay                     16-10-2023          13-08-2025              2.38 (dias)         252042          
+NiceWigg                      14-09-2021          26-08-2025              2.21 (dias)         184033          
+NiteNightKid                  22-12-2023          23-08-2025              2.04 (dias)          28818          
+sam1268                       12-11-2021          14-08-2025              1.96 (dias)         148702          
+Corobizar                     06-01-2022          27-08-2025              1.75 (dias)         272635          
+SlotRoom247                   28-03-2021          27-08-2025              1.42 (dias)          69183          
+************************************************************************************Delta Force*************************************************************************************
+CUENTA                    FECHA CREACION      FECHA ULT. STREAM.         TIEMPO REP.       CANT. SEGUID.           ETIQUETAS
+====================================================================================================================================================================================
+tmxk319                       26-08-2022          13-08-2025              9.92 (dias)         427926           [3d3e843f] 'Yes Jake we are all so happy you are back <3 .'
+Rakin                         19-01-2021          16-08-2025              9.75 (dias)        1258173           [d23826b9] ' Of course it's Michael Owen mate he's such a legend.'
+LexVeldhuis                   16-02-2022          23-08-2025              4.38 (dias)         244467           [22c07609] 'Will you try TOTY Messi this FIFA or can you not afford him? '
+RiffTrax                      28-11-2023          13-08-2025              3.38 (dias)          79099          
+sleepy                        26-11-2021          23-08-2025              2.67 (dias)         317125          
+***********************************************************************************Madden NFL 26************************************************************************************
+CUENTA                    FECHA CREACION      FECHA ULT. STREAM.         TIEMPO REP.       CANT. SEGUID.           ETIQUETAS
+====================================================================================================================================================================================
+Anomaly                       28-09-2023          15-08-2025             33.12 (dias)        2607076          
+fps_shaka                     20-10-2022          15-08-2025             13.08 (dias)         303671           [71f2b57a] 'That's a tough break I am paying my respects .'
+hashinshin                    21-01-2022          14-08-2025              5.96 (dias)         570621           [636111cd] 'Am I the only one that tries to have accurate kit numbers or am I weird? '
+limit_maximum                 18-03-2023          27-08-2025              3.33 (dias)         162040          
+A1taOda                       18-06-2023          13-08-2025              3.08 (dias)         537519          
+livekiss                      18-05-2022          22-08-2025              3.08 (dias)          31323          
+BruceGrannec                  24-07-2021          27-08-2025              2.71 (dias)         463188          
+theRealShooKon3               02-01-2021          13-08-2025              2.67 (dias)         126282          
+Monkeynews                    08-08-2021          16-08-2025              2.04 (dias)          80290          
+Sintica                       14-12-2022          16-08-2025              1.46 (dias)         160387          
+**************************************************************************************RimWorld**************************************************************************************
+CUENTA                    FECHA CREACION      FECHA ULT. STREAM.         TIEMPO REP.       CANT. SEGUID.           ETIQUETAS
+====================================================================================================================================================================================
+Elajjaz                       03-10-2022          16-08-2025              8.38 (dias)         346566           [605d8716] 'That's a great tip thank you very much .'
+mobilmobil                    28-07-2023          21-08-2025              7.54 (dias)         446426           [808b6695] 'Is that the kid who makes 10 accounts a day just to get into the stream? '
+Chap                          26-02-2022          18-08-2025              6.38 (dias)        1272899           [d036de7c] 'You're wasting Ronaldo by putting him at CAM he should be an outside CAM or striker .'
+Xari                          14-11-2023          13-08-2025              4.17 (dias)         269447           [04990488] 'I just got here so what did I miss? '
+Skadoodle                     20-04-2021          22-08-2025              2.58 (dias)         611890          
+k1ng                          15-03-2021          16-08-2025              1.88 (dias)         706537          
+Spaceboy                      21-05-2021          25-08-2025              1.67 (dias)         135311          
+Ziqoftw                       28-09-2021          19-08-2025              1.50 (dias)         198304          
+*************************************************************************************Garrys Mod*************************************************************************************
+CUENTA                    FECHA CREACION      FECHA ULT. STREAM.         TIEMPO REP.       CANT. SEGUID.           ETIQUETAS
+====================================================================================================================================================================================
+Shlorox                       03-04-2021          18-08-2025              7.21 (dias)         331632           [840b424d] 'You should put Militao on the right side of the pitch .'
+Mathil1                       02-07-2022          19-08-2025              6.50 (dias)         293595           [27f84979] 'Let's go it's finally time for some gameplay. '
+Greekgodx                     20-09-2021          20-08-2025              6.50 (dias)        1278824           [27f84979] 'Let's go it's finally time for some gameplay. '
+Gladd                         21-08-2022          23-08-2025              6.29 (dias)         337972           [35a21fb9] 'Why has Lacazette got Aubameyang's squad number on his jersey? '
+JohnPitterTV                  04-10-2021          27-08-2025              5.33 (dias)         286184           [2f9c31c6] 'I was the first one to comment on the stream let's go! '
+GN_GG                         03-01-2021          13-08-2025              2.12 (dias)          91514          
+WankilStudio                  06-11-2021          17-08-2025              2.04 (dias)         726730          
+wkgml                         05-11-2021          17-08-2025              1.92 (dias)         415795          
+CaMaK                         02-01-2021          22-08-2025              1.75 (dias)         151886          
+Sologesang                    04-03-2023          22-08-2025              1.58 (dias)          58531          
+ESL_CSGO_FR                   22-01-2021          21-08-2025              1.46 (dias)         193614          
+***************************************************************************************Tibia****************************************************************************************
+CUENTA                    FECHA CREACION      FECHA ULT. STREAM.         TIEMPO REP.       CANT. SEGUID.           ETIQUETAS
+====================================================================================================================================================================================
+sodapoppin                    13-12-2022          23-08-2025             26.96 (dias)        2786162           [00ef1b3f] 'Spending that much on fitness cards  is just way too much I'm just watching.'
+bratishkinoff                 12-08-2021          24-08-2025              7.46 (dias)        1128907           [373221e6] 'Jake is the goat we all know that's true .'
+AvoidingThePuddle             10-04-2021          27-08-2025              3.54 (dias)         336181           [abd14a11] 'You're playing against a fellow Romanian Mass which is cool. '
+asiagodtonegg3be0             13-01-2022          20-08-2025              3.25 (dias)         494643          
+wtf_winds123                  02-05-2023          16-08-2025              2.67 (dias)         259338          
+venruki                       22-05-2023          16-08-2025              1.96 (dias)         292558          
+Xiuder_                       17-06-2022          26-08-2025              1.92 (dias)         312280          
+pikra10                       21-03-2022          19-08-2025              1.62 (dias)          77376          
+JeffHoogland                  23-03-2021          19-08-2025              1.50 (dias)          68914          
+Gigz                          08-09-2023          25-08-2025              1.46 (dias)         254401          
+***********************************************************************************Games + Demos************************************************************************************
+CUENTA                    FECHA CREACION      FECHA ULT. STREAM.         TIEMPO REP.       CANT. SEGUID.           ETIQUETAS
+====================================================================================================================================================================================
+loltyler1                     26-10-2023          18-08-2025             33.88 (dias)        3530767           [ab7f2910] 'Can someone please help me understand  how to do trading properly?'
+LIRIK                         23-02-2021          14-08-2025             32.75 (dias)        2666382           [e0355853] 'Let's do some more league squad building challenges to get some rewards .'
+AntoineDanielLive             25-12-2023          16-08-2025              2.75 (dias)         416920          
+CuteDog_                      23-11-2023          14-08-2025              2.71 (dias)         113658          
+BreaK                         18-02-2021          21-08-2025              1.92 (dias)         309300          
+95pingman                     15-03-2023          27-08-2025              1.88 (dias)         195423          
+Patriota                      09-11-2021          25-08-2025              1.42 (dias)         646758          
+LITkillah                     19-08-2023          20-08-2025              1.42 (dias)         601927          
+*************************************************************************************ELDEN RING*************************************************************************************
+CUENTA                    FECHA CREACION      FECHA ULT. STREAM.         TIEMPO REP.       CANT. SEGUID.           ETIQUETAS
+====================================================================================================================================================================================
+aceu                          27-02-2023          21-08-2025              8.58 (dias)         859439           [bf4326a7] 'I think Ronaldo is best when he's at CAM .'
+DreadzTV                      11-09-2023          16-08-2025              8.25 (dias)         675908           [7e152bd1] 'Putting Ronaldo at CAM is a waste of a good striker .'
+MYM_ALKAPONE                  26-02-2022          26-08-2025              6.92 (dias)         770535           [f385274f] 'Can you please give Bernardo Silva a hunter chemistry style? '
+BobRoss                       26-08-2022          13-08-2025              6.46 (dias)        1519266           [e781d0f0] 'In the future will you get TOTY Virgil van face or Varane? '
+Ramee                         05-01-2023          19-08-2025              5.29 (dias)         132642           [7e152bd1] 'I'm going to fight you  so you better stop right now.'
+zrush                         10-04-2021          21-08-2025              5.04 (dias)         180412           [e0355853] 'He's back again we all missed him so much. '
+Doigby                        04-12-2023          15-08-2025              4.92 (dias)        1068260           [373221e6] 'I can't believe how incredible that team is. '
+bmkibler                      20-09-2021          15-08-2025              2.79 (dias)         475075          
+Sloot                         21-04-2021          15-08-2025              2.25 (dias)         205002          
+Vovo                          26-12-2023          16-08-2025              1.88 (dias)         141898          
+Lutti                         15-02-2022          21-08-2025              1.62 (dias)         226344          
+SilentSentry                  25-08-2021          26-08-2025              1.62 (dias)         301633          
+Bamboe                        27-08-2021          18-08-2025              1.54 (dias)          86644          
+******************************************************************************FINAL FANTASY XIV ONLINE******************************************************************************
+CUENTA                    FECHA CREACION      FECHA ULT. STREAM.         TIEMPO REP.       CANT. SEGUID.           ETIQUETAS
+====================================================================================================================================================================================
+MOONMOON                      26-08-2021          13-08-2025             17.67 (dias)         923448           [62e841f3] 'Two million coins spent on fitness cards? Holy crap  that's unbelievable.'
+RatedEpicz                    13-12-2021          26-08-2025              6.71 (dias)         134757           [3d3e843f] 'Laughing he is probably half of the 8000 follows  to be honest.'
+uhSnow                        01-06-2023          24-08-2025              3.21 (dias)         134611          
+Odablock                      03-11-2023          15-08-2025              2.83 (dias)         131966          
+cherrypach                    15-10-2021          22-08-2025              2.54 (dias)         240835          
+Tomato                        21-03-2021          18-08-2025              2.38 (dias)          92634          
+DavyJones                     24-04-2023          18-08-2025              2.29 (dias)         955846          
+dda_ju                        02-02-2021          18-08-2025              1.92 (dias)         205041          
+************************************************************************************Phasmophobia************************************************************************************
+CUENTA                    FECHA CREACION      FECHA ULT. STREAM.         TIEMPO REP.       CANT. SEGUID.           ETIQUETAS
+====================================================================================================================================================================================
+uzra                          16-10-2022          21-08-2025              9.38 (dias)         185506           [3d3e843f] 'I thought you had died or something  welcome back my friend.'
+woowakgood                    08-01-2022          25-08-2025              7.50 (dias)         591500           [14c9f6c0] 'That is so ridiculous laughing. '
+FORMAL                        13-02-2023          25-08-2025              4.25 (dias)         512592           [cf95348a] 'I got some really great players from my red picks. '
+tarzaned                      28-06-2022          27-08-2025              3.54 (dias)         388878          
+DisguisedToast                10-07-2023          25-08-2025              3.21 (dias)        1340283          
+R6esportsBR                   19-11-2023          19-08-2025              2.83 (dias)         323856          
+Philza                        21-07-2023          17-08-2025              2.33 (dias)         527540          
+Dhalucard                     26-10-2021          20-08-2025              2.21 (dias)         269408          
+******************************************************************************Pokémon Community Game*******************************************************************************
+CUENTA                    FECHA CREACION      FECHA ULT. STREAM.         TIEMPO REP.       CANT. SEGUID.           ETIQUETAS
+====================================================================================================================================================================================
+GamesDoneQuick                23-01-2023          26-08-2025             18.71 (dias)        1724316           [f9d146c8] 'I haven't bought a single fitness card for my players this year .'
+LPL                           09-01-2023          17-08-2025              9.83 (dias)         502467           [14c9f6c0] 'That's our famous Jake  the one who is always here laughing.'
+Cellbit                       09-01-2021          27-08-2025              9.46 (dias)        1293451           [6d379a9a] 'Jake is the best streamer ever  we all love him.'
+Kamet0                        19-02-2021          19-08-2025              6.92 (dias)         565661           [964cc88c] 'Please sort out the kit numbers for the players. '
+INSCOPE21TV                   09-05-2023          26-08-2025              5.42 (dias)         658658           [48711904] 'I hope that the new team in action dominates this game. '
+Elwind                        02-08-2022          16-08-2025              4.88 (dias)         703464           [605d8716] 'Hahahaha that is just too hilarious! '
+Payo                          01-09-2022          16-08-2025              4.46 (dias)         175503           [373221e6] 'Kieran has banned so many random channels for no reason. '
+BobbyPoffGaming               25-01-2021          21-08-2025              3.42 (dias)         125803          
+SaltyBet                      11-01-2022          20-08-2025              3.33 (dias)         224099          
+Pengu                         20-12-2023          20-08-2025              2.08 (dias)         775987          
+Maghla                        24-10-2021          25-08-2025              2.00 (dias)         329065          
+AnthonyZ                      25-06-2023          21-08-2025              1.75 (dias)         199617          
+MarkitoNavaja                 01-06-2021          25-08-2025              1.71 (dias)         665430          
+RiceGum                       20-12-2023          20-08-2025              1.67 (dias)         903261          
+Staryuuki                     12-03-2023          23-08-2025              1.46 (dias)         586475          
+*******************************************************************************Talk Shows & Podcasts********************************************************************************
+CUENTA                    FECHA CREACION      FECHA ULT. STREAM.         TIEMPO REP.       CANT. SEGUID.           ETIQUETAS
+====================================================================================================================================================================================
+Evelone192                    02-01-2021          24-08-2025             17.04 (dias)        1075101           [5e9f3b17] 'You really should just do the squad building challenges instead .'
+dogdog                        12-11-2022          19-08-2025              7.17 (dias)         594239           [373221e6] 'Everyone knows Jake is the goat  he's the greatest of all time.'
+flurry1989                    24-08-2022          26-08-2025              5.83 (dias)         169505           [27f84979] 'Would you sell Lacazette for a 94 Neymar? '
+melharucos                    02-02-2022          25-08-2025              5.42 (dias)         328473           [48711904] 'I hope that the new team in action dominates this game. '
+Mendo                         24-05-2021          27-08-2025              2.58 (dias)         518090          
+SheriffEli                    22-01-2021          21-08-2025              2.12 (dias)         265814          
+RaulZitoYT                    12-04-2021          23-08-2025              1.58 (dias)          78971          
+****************************************************************************Clair Obscur: Expedition 33*****************************************************************************
+CUENTA                    FECHA CREACION      FECHA ULT. STREAM.         TIEMPO REP.       CANT. SEGUID.           ETIQUETAS
+====================================================================================================================================================================================
+Amouranth                     03-05-2022          23-08-2025              7.12 (dias)        1707804           [808b6695] 'That's a sick legend to get from the pack .'
+Annoying                      17-07-2022          19-08-2025              2.88 (dias)         431285          
+lucia94                       26-03-2021          17-08-2025              2.58 (dias)          82578          
+twlevewinsHS                  26-05-2021          20-08-2025              2.00 (dias)          38410          
+MatteoHS                      17-04-2022          17-08-2025              1.96 (dias)         428553          
+EFEUYGAC                      28-11-2021          13-08-2025              1.62 (dias)         358498          
+Xnapycz                       09-04-2023          20-08-2025              1.62 (dias)          94551          
+JonBams                       13-04-2022          15-08-2025              1.58 (dias)         309837          
+aircool                       11-11-2023          15-08-2025              1.58 (dias)         153703          
+AndyMilonakis                 08-05-2022          20-08-2025              1.38 (dias)         547446          
+*****************************************************************************Animals Aquariums and Zoos*****************************************************************************
+CUENTA                    FECHA CREACION      FECHA ULT. STREAM.         TIEMPO REP.       CANT. SEGUID.           ETIQUETAS
+====================================================================================================================================================================================
+ludwig                        19-10-2023          24-08-2025              6.08 (dias)         542580           [605d8716] 'I just changed it for the chemistry so the players link up .'
+KingRichard                   08-02-2022          25-08-2025              5.46 (dias)        1536757           [3d3e843f] 'Welcome back we're all so happy to see you here again. '
+naseongkim                    07-03-2022          26-08-2025              4.04 (dias)         103260           [3d3e843f] 'Talk to us we want to hear what you have to say. '
+Mickalow                      10-10-2023          16-08-2025              3.50 (dias)         864324          
+Savjz                         11-07-2021          19-08-2025              3.42 (dias)         542892          
+Kubon_                        02-10-2023          27-08-2025              2.25 (dias)         267984          
+slrabbit99                    11-12-2021          21-08-2025              1.75 (dias)         106235          
+******************************************************************************Arena Breakout: Infinite******************************************************************************
+CUENTA                    FECHA CREACION      FECHA ULT. STREAM.         TIEMPO REP.       CANT. SEGUID.           ETIQUETAS
+====================================================================================================================================================================================
+zilioner                      23-02-2022          23-08-2025              6.96 (dias)         465887           [e0355853] 'I think we are gonna get absolutely smashed in this game. '
+kimdoe                        10-06-2022          21-08-2025              6.33 (dias)         287639           [3d3e843f] 'Imagine just playing menus with 500 viewers sarcastic .'
+Mongraal                      08-03-2023          19-08-2025              5.67 (dias)        2951980           [82bc92f5] 'Who is better for CAM TOTS Laca or TOTS Aguero? '
+BeyondTheSummit_PT            24-03-2021          18-08-2025              3.25 (dias)         203549          
+Gosu                          05-08-2023          16-08-2025              2.83 (dias)        1751290          
+makataO                       10-12-2022          15-08-2025              2.04 (dias)         391656          
+Back2Warcraft                 16-04-2023          25-08-2025              1.96 (dias)          94929          
+Werlyb                        26-06-2021          13-08-2025              1.92 (dias)         204348          
+ElOjoNinja                    21-06-2022          25-08-2025              1.54 (dias)         273504          
+***************************************************************************************VRChat***************************************************************************************
+CUENTA                    FECHA CREACION      FECHA ULT. STREAM.         TIEMPO REP.       CANT. SEGUID.           ETIQUETAS
+====================================================================================================================================================================================
+NymN                          18-11-2021          23-08-2025              3.92 (dias)         241746           [f385274f] 'You should go with a high depth because it helps your defense. '
+hardgamechannel               03-07-2021          16-08-2025              3.83 (dias)         786562           [98c15224] 'Laughing it's our friend Jake again! '
+VooDooSh                      02-05-2022          27-08-2025              3.79 (dias)          85678           [636111cd] 'I'm better than this guy and I finish bronze 3 in Weekend League sarcastic. '
+ilMasseo                      09-12-2022          25-08-2025              2.33 (dias)         617665          
+Pieface23                     22-09-2022          13-08-2025              2.33 (dias)         238155          
+Daxak                         19-02-2023          21-08-2025              2.17 (dias)         116897          
+xChocoBars                    20-04-2021          26-08-2025              2.12 (dias)         583881          
+Sigma                         27-12-2021          18-08-2025              1.42 (dias)          61206          
+**********************************************************************************Project Zomboid***********************************************************************************
+CUENTA                    FECHA CREACION      FECHA ULT. STREAM.         TIEMPO REP.       CANT. SEGUID.           ETIQUETAS
+====================================================================================================================================================================================
+Vinesauce                     17-08-2023          27-08-2025              6.21 (dias)         442493           [808b6695] 'What's your in-game setup for the team? '
+scump                         22-01-2022          22-08-2025              5.83 (dias)         893010           [27f84979] 'Would you sell Lacazette for a 94 Neymar? '
+Nmplol                        05-09-2021          27-08-2025              4.96 (dias)         455444           [3d37399a] 'You are acting like a manager you should make a change. '
+HusKerrs                      17-04-2023          23-08-2025              4.92 (dias)         361360           [e0355853] 'Jake is back everyone tell all of your friends. '
+bateson87                     11-10-2022          17-08-2025              3.96 (dias)         598678           [b2c77a02] 'Can I get a chance or what?  This is making me tired.'
+kss7749                       20-08-2023          26-08-2025              3.46 (dias)         170718          
+JokerdTV                      20-10-2023          23-08-2025              3.12 (dias)         159384          
+alenenwooptv                  12-03-2021          13-08-2025              3.04 (dias)         125615          
+KriszhAdvice                  25-03-2022          18-08-2025              2.96 (dias)         284899          
+flamuu                        09-08-2023          21-08-2025              2.75 (dias)         117425          
+roger9527                     11-03-2021          20-08-2025              2.25 (dias)         131484          
+bazattak007                   24-06-2022          17-08-2025              1.83 (dias)         391413          
+murilo_RT                     25-12-2022          24-08-2025              1.50 (dias)          70814          
+HunterGodBr                   22-10-2021          17-08-2025              1.46 (dias)         258876          
+*************************************************************************Are You Smarter Than a 5th Grader?*************************************************************************
+CUENTA                    FECHA CREACION      FECHA ULT. STREAM.         TIEMPO REP.       CANT. SEGUID.           ETIQUETAS
+====================================================================================================================================================================================
+NickEh30                      28-07-2023          22-08-2025             13.25 (dias)        1660204           [7e152bd1] 'You simply can't compare those two players  they are completely different.'
+EsfandTV                      05-12-2021          24-08-2025             10.25 (dias)         471970           [d349dfb1] 'Will you be able to get TOTS VVD later on? '
+Thijs                         26-11-2023          21-08-2025              9.17 (dias)         755116           [14c9f6c0] 'I think he honestly deserves to be unbanned  in my opinion laughing.'
+Chess                         27-11-2023          19-08-2025              6.00 (dias)         326118           [cc984e31] 'Lazzo61 oh alright that makes sense. '
+AustinShow                    01-08-2021          24-08-2025              5.88 (dias)         840624           [bf4326a7] 'Do you think Arsenal should sell their player Mesut Ozil? '
+yamatonjp                     04-09-2021          15-08-2025              4.12 (dias)         179920           [ead2e84f] 'Hey guys hey guys what's going on in the stream? '
+keanelol                      28-06-2022          16-08-2025              3.75 (dias)         162917           [373221e6] 'Paying my respects to the player you lost. '
+ELoTRiX                       27-12-2022          16-08-2025              3.67 (dias)         895851           [373221e6] 'Where is the guy that scammed Kieran? I want to see him. '
+kanetv8                       11-03-2023          26-08-2025              2.08 (dias)         141167          
+*******************************************************************************Gears of War: Reloaded*******************************************************************************
+CUENTA                    FECHA CREACION      FECHA ULT. STREAM.         TIEMPO REP.       CANT. SEGUID.           ETIQUETAS
+====================================================================================================================================================================================
+riotgames                     02-11-2022          25-08-2025             30.92 (dias)        4487489           [5c6e9874] 'They call me unexpected  you just never know what I'm going to do.'
+csgomc_ru                     24-06-2021          23-08-2025             15.12 (dias)         492954           [d14c9f6c] 'And before that  I had enough coins through buying packs already.'
+Swagg                         06-12-2021          13-08-2025              9.12 (dias)         784966           [14c9f6c0] 'I think he honestly deserves to be unbanned  in my opinion laughing.'
+GTimeTV                       07-08-2022          19-08-2025              2.67 (dias)         665021          
+k3soju                        07-06-2023          21-08-2025              2.46 (dias)          76666          
+xkwhd                         02-09-2023          18-08-2025              2.38 (dias)         142209          
+MrBboy45                      03-12-2023          18-08-2025              2.21 (dias)         318995          
+TpaBoMaH                      14-09-2023          26-08-2025              1.58 (dias)         151266          
+Halifax                       21-06-2021          15-08-2025              1.46 (dias)         228316          
+calango                       12-08-2021          23-08-2025              1.42 (dias)         767187          
+ZiggyDLive                    24-05-2022          14-08-2025              1.42 (dias)         173807          
+**************************************************************************************Oh Deer***************************************************************************************
+CUENTA                    FECHA CREACION      FECHA ULT. STREAM.         TIEMPO REP.       CANT. SEGUID.           ETIQUETAS
+====================================================================================================================================================================================
+SNEUX                         11-06-2023          14-08-2025              2.92 (dias)         196635          
+XBOCT                         11-01-2022          13-08-2025              2.00 (dias)         318230          
+SkyshockTV                    15-12-2023          16-08-2025              1.75 (dias)         114154          
+kurt0411                      26-05-2023          25-08-2025              1.71 (dias)         142446          
+CouRageJD                     19-07-2021          17-08-2025              1.50 (dias)        2115596          
+ALLinPav                      09-04-2022          13-08-2025              1.42 (dias)          71579          
+************************************************************************************HELLDIVERS 2************************************************************************************
+CUENTA                    FECHA CREACION      FECHA ULT. STREAM.         TIEMPO REP.       CANT. SEGUID.           ETIQUETAS
+====================================================================================================================================================================================
+saddummy                      27-09-2023          20-08-2025             14.33 (dias)         580794           [bf1e32f8] ' Having Ronaldo on my team is such a game-changer for me.'
+ddahyoni                      18-08-2022          23-08-2025              8.21 (dias)         322895           [7e152bd1] 'Putting Ronaldo at CAM is a waste of a good striker .'
+JesusAVGN                     08-01-2021          27-08-2025              3.54 (dias)         682899          
+PatoPapao                     04-05-2021          22-08-2025              3.29 (dias)         656860          
+harbleu                       10-11-2021          25-08-2025              3.08 (dias)         349467          
+Altair                        03-10-2021          19-08-2025              2.04 (dias)          42265          
+CarTmaNzbs                    14-02-2023          26-08-2025              2.04 (dias)         386948          
+YoMax                         13-11-2021          22-08-2025              1.50 (dias)         273980          
+**************************************************************************************Foxhole***************************************************************************************
+CUENTA                    FECHA CREACION      FECHA ULT. STREAM.         TIEMPO REP.       CANT. SEGUID.           ETIQUETAS
+====================================================================================================================================================================================
+Trainwreckstv                 01-06-2022          23-08-2025             11.79 (dias)         728097           [14c9f6c0] 'I still have 37 of them  I'm so glad I bought them laughing.'
+Stray228                      10-06-2023          19-08-2025             11.25 (dias)         773712           [481e859f] 'How can you call an icon a crappy player? '
+WePlayEsport_RU               23-10-2023          21-08-2025              9.88 (dias)         346934           [e0355853] 'Is that Jake? Oh my goodness  it's so great to see you.'
+dota2ti_ru                    25-01-2022          19-08-2025              9.38 (dias)         541644           [6d379a9a] 'Jake is the best streamer ever  we all love him.'
+POW3Rtv                       07-07-2021          19-08-2025              8.33 (dias)        1080764           [14c9f6c0] 'cheer100 we should start a campaign to #unbanjake .'
+StereOnline                   27-08-2022          17-08-2025              3.79 (dias)         327645           [373221e6] 'Paying my respects to the player you lost. '
+Ampeterby7                    09-12-2022          26-08-2025              2.92 (dias)        1194476          
+qttsix                        04-09-2021          24-08-2025              2.50 (dias)         118305          
+IFrostBolt                    02-09-2022          15-08-2025              1.79 (dias)         199618          
+ProfessorBroman               02-08-2023          20-08-2025              1.79 (dias)         732192          
+MiltonTPike1                  24-06-2023          25-08-2025              1.71 (dias)         200012          
+BotanicX                      19-12-2023          26-08-2025              1.67 (dias)          34119          
+Robbaz                        15-12-2023          14-08-2025              1.42 (dias)         229652          
+************************************************************************************Star Citizen************************************************************************************
+CUENTA                    FECHA CREACION      FECHA ULT. STREAM.         TIEMPO REP.       CANT. SEGUID.           ETIQUETAS
+====================================================================================================================================================================================
+Vader                         25-11-2021          22-08-2025             12.83 (dias)         424374           [83eb002b] 'You've got it Jake we're all here for you .'
+koil                          08-11-2022          27-08-2025              4.67 (dias)         299033           [636111cd] 'We need to start a hashtag #givejakemod. '
+shongxbong                    18-03-2023          27-08-2025              4.62 (dias)         845158           [636111cd] 'Bruh I can't believe what's happening. '
+so_urf                        19-04-2023          24-08-2025              3.38 (dias)          95477          
+rhdgurwns                     02-08-2021          24-08-2025              3.33 (dias)         289455          
+aDrive                        17-01-2023          25-08-2025              2.92 (dias)         461081          
+Crocodyle_lol                 04-08-2023          20-08-2025              2.04 (dias)         107835          
+zzamtiger0310                 01-06-2021          25-08-2025              1.96 (dias)         185684          
+Pimpeano                      25-11-2021          26-08-2025              1.96 (dias)         740343          
+wintergaming                  01-09-2022          16-08-2025              1.67 (dias)         260779          
+AnniTheDuck                   19-04-2023          27-08-2025              1.62 (dias)         460463          
+***************************************************************************************Poker****************************************************************************************
+CUENTA                    FECHA CREACION      FECHA ULT. STREAM.         TIEMPO REP.       CANT. SEGUID.           ETIQUETAS
+====================================================================================================================================================================================
+dasMEHDI                      25-07-2023          16-08-2025             13.54 (dias)         299048           [48f76607] 'Can we please get a ban on that user?  Thank you very much.'
+StarLadder_cs_en              17-02-2023          13-08-2025             12.58 (dias)         820675           [2f12c31e] 'We've got a triple team working together  this is so fun.'
+allkeyshop_tv                 25-04-2021          16-08-2025              7.67 (dias)          67472           [27f84979] 'laughing out loud this is hilarious! '
+Fortnite                      01-05-2021          25-08-2025              4.25 (dias)        3558217           [cf95348a] 'I got some really great players from my red picks. '
+ANGRYPUG                      19-04-2022          14-08-2025              4.17 (dias)         366463           [d036de7c] 'Are you playing with a drop-back defensive style? '
+Criken                        08-06-2023          26-08-2025              2.46 (dias)         285509          
+ChicaLive                     06-06-2023          26-08-2025              2.25 (dias)        1041932          
+orslok                        15-10-2022          17-08-2025              2.00 (dias)         327888          
+LRojo_                        09-09-2021          18-08-2025              1.67 (dias)         100767          
+iklooode25                    25-08-2023          25-08-2025              1.58 (dias)         418710          
+Sonecarox                     26-04-2022          13-08-2025              1.54 (dias)          87530          
+sacy                          16-02-2022          26-08-2025              1.46 (dias)         206184          
+**********************************************************************************Wuthering Waves***********************************************************************************
+CUENTA                    FECHA CREACION      FECHA ULT. STREAM.         TIEMPO REP.       CANT. SEGUID.           ETIQUETAS
+====================================================================================================================================================================================
+DansGaming                    01-08-2021          24-08-2025              7.54 (dias)         817365           [808b6695] 'Is that the kid who makes 10 accounts a day just to get into the stream? '
+SkipNhOLIVE                   19-04-2021          22-08-2025              6.92 (dias)         324765           [964cc88c] 'Please sort out the kit numbers for the players. '
+C_a_k_e                       14-03-2022          19-08-2025              6.79 (dias)         302633           [db892075] 'Tell me about the players you got in your red picks. '
+ClassyBeef                    13-02-2021          26-08-2025              6.46 (dias)         108623           [3d3e843f] 'It's about time we started playing sarcastic .'
+SoloRenektonOnly              24-08-2023          17-08-2025              2.46 (dias)         391603          
+JeelTV                        18-05-2021          27-08-2025              2.08 (dias)         357385          
+BeatportOfficial              14-09-2022          18-08-2025              2.08 (dias)         126546          
+THump                         04-05-2023          26-08-2025              1.96 (dias)         250786          
+berkriptepe                   28-07-2021          24-08-2025              1.92 (dias)         622358          
+Dementardo                    11-09-2022          17-08-2025              1.92 (dias)         547154          
+Pelegrino1993                 07-02-2021          26-08-2025              1.67 (dias)          80566          
+Adin2Huncho                   26-02-2021          17-08-2025              1.42 (dias)         199880          
+*************************************************************Heroes of Might and Magic III: The Restoration of Erathia**************************************************************
+CUENTA                    FECHA CREACION      FECHA ULT. STREAM.         TIEMPO REP.       CANT. SEGUID.           ETIQUETAS
+====================================================================================================================================================================================
+LVPes                         19-07-2023          27-08-2025             12.88 (dias)         587677           [71f2b57a] 'That's a tough break I am paying my respects .'
+Baiano                        08-05-2022          14-08-2025              9.92 (dias)         425797           [3d3e843f] 'Yes Jake we are all so happy you are back <3 .'
+Anthony_Kongphan              12-03-2023          23-08-2025              3.62 (dias)         462128           [2f9c31c6] 'Jake is getting shot down quicker than Malaysia Airlines Flight 370. '
+Perxitaa                      24-05-2023          18-08-2025              2.88 (dias)         689582          
+WagamamaTV                    04-08-2023          26-08-2025              2.67 (dias)         312799          
+AdzTV                         14-09-2023          26-08-2025              2.38 (dias)         489577          
+KheZu                         23-08-2023          27-08-2025              1.50 (dias)         122158          
+************************************************************************************Call of Duty************************************************************************************
+CUENTA                    FECHA CREACION      FECHA ULT. STREAM.         TIEMPO REP.       CANT. SEGUID.           ETIQUETAS
+====================================================================================================================================================================================
+CohhCarnage                   02-09-2021          27-08-2025             23.46 (dias)        1264808           [9a8d790d] 'Jeg har sendt en beskjed I hope you received my message .'
+ALOHADANCETV                  23-01-2021          21-08-2025              3.58 (dias)         555334           [4e083e06] 'Please tell us what the current song is. '
+jakenbakeLIVE                 08-06-2023          24-08-2025              3.33 (dias)         489623          
+sunbaking                     24-09-2022          27-08-2025              2.75 (dias)         251416          
+SayNoToRage                   27-12-2022          20-08-2025              1.71 (dias)         168463          
+Day9tv                        20-05-2021          17-08-2025              1.58 (dias)         496790          
+hejin0_0                      01-12-2021          13-08-2025              1.46 (dias)         123451          
+***************************************************************************************Crypto***************************************************************************************
+CUENTA                    FECHA CREACION      FECHA ULT. STREAM.         TIEMPO REP.       CANT. SEGUID.           ETIQUETAS
+====================================================================================================================================================================================
+Solary                        12-06-2021          22-08-2025             17.88 (dias)         493207           [71b79a6f] ' That's really a huge waste of money that's crazy dude.'
+Alexby11                      15-09-2022          16-08-2025              3.71 (dias)        1448018           [d036de7c] 'Lol your depth is so low you should change it. '
+Timmac                        01-02-2023          14-08-2025              3.38 (dias)         393639          
+JLBichouu                     11-06-2023          25-08-2025              2.29 (dias)         212578          
+armateam                      08-04-2021          20-08-2025              2.08 (dias)         187315          
+DuelLinksMeta                 04-09-2023          27-08-2025              1.88 (dias)          88697          
+Mushway                       09-03-2021          26-08-2025              1.83 (dias)         310100          
+************************************************************************************Guild Wars 2************************************************************************************
+CUENTA                    FECHA CREACION      FECHA ULT. STREAM.         TIEMPO REP.       CANT. SEGUID.           ETIQUETAS
+====================================================================================================================================================================================
+OgamingLoL                    08-04-2023          26-08-2025             17.17 (dias)         523758           [8d5c41b8] 'Players are up so much  with TOTS I could make so much profit.'
+HasanAbi                      23-08-2022          15-08-2025             15.50 (dias)         470123           [27a8f979] ' I've spent 1.2 million coins on fitness cards and my team is worth a similar price.'
+GRONKH                        23-11-2023          14-08-2025             11.75 (dias)        1216020           [373221e6] 'Oh my goodness laughing out loud  that's amazing!'
+UberHaxorNova                 25-08-2022          22-08-2025              7.08 (dias)         421256           [808b6695] 'That's a sick legend to get from the pack .'
+Aydan                         21-11-2023          24-08-2025              5.71 (dias)        1701314           [373221e6] 'Now that Mass is big time we will all be forgotten about. '
+A_Seagull                     10-02-2021          15-08-2025              4.71 (dias)        1028544           [2f9c31c6] 'Please be quiet and listen to the streamer. '
+orangemorange                 15-04-2022          20-08-2025              3.88 (dias)         261139           [3d3e843f] 'No I don't think that is the right thing to do. '
+knekro                        13-10-2021          24-08-2025              3.46 (dias)         260728          
+cdewx                         24-08-2021          20-08-2025              3.29 (dias)         380159          
+ajehr                         13-04-2021          18-08-2025              2.92 (dias)         362794          
+Solaaaa                       22-06-2023          21-08-2025              2.62 (dias)         309594          
+ImSoFresh                     11-11-2022          18-08-2025              2.42 (dias)         111954          
+KarasMai                      13-01-2021          25-08-2025              2.25 (dias)         281664          
+Everyeyeit                    03-09-2023          27-08-2025              2.12 (dias)          86590          
+KYR_SP33DY                    16-11-2021          25-08-2025              2.12 (dias)         706212          
+GingiTV                       26-07-2023          17-08-2025              1.96 (dias)         156597          
+RebeuDeter                    11-06-2021          15-08-2025              1.54 (dias)         215360          
+callofduty                    28-06-2022          16-08-2025              1.50 (dias)         968465          
+************************************************************************Metal Gear Solid V: The Phantom Pain************************************************************************
+CUENTA                    FECHA CREACION      FECHA ULT. STREAM.         TIEMPO REP.       CANT. SEGUID.           ETIQUETAS
+====================================================================================================================================================================================
+Xop0                          16-12-2021          27-08-2025              3.00 (dias)          94751          
+IlloJuan                      18-08-2023          23-08-2025              2.88 (dias)         275174          
+looksam                       16-04-2021          25-08-2025              2.67 (dias)         285474          
+LotharHS                      28-02-2021          13-08-2025              2.38 (dias)         251812          
+ThaldrinLol                   23-09-2022          13-08-2025              2.17 (dias)         521166          
+MenosTrece                    27-04-2022          19-08-2025              1.88 (dias)         470873          
+Cerbero_Podcast               24-07-2021          26-08-2025              1.79 (dias)         179420          
+DaigoTheBeasTV                15-12-2022          13-08-2025              1.62 (dias)         173271          
+StarCraft                     25-10-2022          14-08-2025              1.50 (dias)         342409          
+HeyarTV                       02-11-2023          19-08-2025              1.42 (dias)         124479          
+*******************************************************************************Red Dead Redemption 2********************************************************************************
+CUENTA                    FECHA CREACION      FECHA ULT. STREAM.         TIEMPO REP.       CANT. SEGUID.           ETIQUETAS
+====================================================================================================================================================================================
+Squeezie                      21-10-2022          25-08-2025              7.71 (dias)        2149306           [27f84979] 'laughing out loud this is hilarious! '
+Destiny                       23-10-2023          19-08-2025              7.50 (dias)         571183           [14c9f6c0] 'That is so ridiculous laughing. '
+SkipNhO                       24-11-2022          27-08-2025              6.38 (dias)        1076499           [964cc88c] 'Please fix the kit numbers on the player jerseys. '
+KamoLRF                       08-09-2022          18-08-2025              3.08 (dias)         688868          
+OGADotaPIT                    13-12-2021          17-08-2025              2.50 (dias)         157820          
+CalebDMTG                     03-02-2023          19-08-2025              2.29 (dias)          71327          
+Tiagovski555YT                24-02-2023          25-08-2025              2.04 (dias)         220585          
+ipav999                       10-11-2021          23-08-2025              1.67 (dias)         163956          
+purple_hs                     21-01-2021          24-08-2025              1.62 (dias)          88792          
+FantaBobShow                  22-05-2022          15-08-2025              1.46 (dias)         348598          
+********************************************************************************Magic: The Gathering********************************************************************************
+CUENTA                    FECHA CREACION      FECHA ULT. STREAM.         TIEMPO REP.       CANT. SEGUID.           ETIQUETAS
+====================================================================================================================================================================================
+xQcOW                         08-01-2022          13-08-2025             71.71 (dias)        3246298           [e2b1002c] 'Wow there are  5110 people in here!'
+SummonersInnLive              24-12-2023          17-08-2025              5.75 (dias)         503346           [e781d0f0] 'Will you get TOTY Virgil van face or Varane in the future? '
+yapyap30                      05-03-2022          27-08-2025              4.88 (dias)         301033           [605d8716] 'Hahahaha that is just too hilarious! '
+xargon0731                    09-02-2023          21-08-2025              4.62 (dias)         283232           [840b424d] 'There's a pro that uses that badge this might be him. '
+Shotz                         18-07-2022          25-08-2025              4.46 (dias)         159763           [3d3e843f] 'You seem to be new to this whole mod thing sarcastic. '
+DanucD                        24-12-2022          18-08-2025              3.21 (dias)         546052          
+mokrivskyi                    04-12-2021          22-08-2025              1.75 (dias)         308815          
+**********************************************************************************Battlefield 2042**********************************************************************************
+CUENTA                    FECHA CREACION      FECHA ULT. STREAM.         TIEMPO REP.       CANT. SEGUID.           ETIQUETAS
+====================================================================================================================================================================================
+OverwatchLeague               09-11-2023          21-08-2025              9.29 (dias)        1796619           [3d3e843f] 'I thought you had died or something  welcome back my friend.'
+resttpowered                  17-11-2023          15-08-2025              3.50 (dias)         252184          
+Felps                         03-05-2023          23-08-2025              3.50 (dias)         844681          
+TrU3Ta1ent                    18-07-2022          23-08-2025              2.92 (dias)         595939          
+MoMaN                         10-06-2022          19-08-2025              2.79 (dias)         360418          
+SLAKUN10                      16-02-2023          17-08-2025              2.04 (dias)        1874932          
+Alkaizerx                     16-08-2021          24-08-2025              1.83 (dias)         153870          
+jorbs                         07-02-2021          18-08-2025              1.71 (dias)          70609          
+beryl_lulu                    25-08-2022          17-08-2025              1.62 (dias)         156726          
+*************************************************************************************GeoGuessr**************************************************************************************
+CUENTA                    FECHA CREACION      FECHA ULT. STREAM.         TIEMPO REP.       CANT. SEGUID.           ETIQUETAS
+====================================================================================================================================================================================
+Mizkif                        18-04-2023          13-08-2025             12.17 (dias)         591653           [fceca079] 'It's so funny anchors were 800 coins just a week ago. '
+jdm2088                       16-11-2021          15-08-2025              5.29 (dias)         276488           [7e152bd1] 'I'm going to fight you  so you better stop right now.'
+Trick2g                       08-11-2023          19-08-2025              4.29 (dias)        1476226           [2f9c31c6] 'Are you Jake? I'm just checking you sexy bum. '
+Staiy                         12-11-2021          22-08-2025              3.92 (dias)         259624           [b2c77a02] 'Can I get a chance or what?  This is making me tired.'
+rudbeckia7                    06-09-2023          14-08-2025              3.58 (dias)         212053           [373221e6] 'He seems like a decent lad so you should unban him. '
+gueigotv                      10-01-2021          26-08-2025              2.21 (dias)         165232          
+BoarControlHS                 06-03-2023          18-08-2025              1.92 (dias)          79204          
+MANvsGAME                     05-02-2022          23-08-2025              1.62 (dias)         510330          
+aram4519                      05-12-2021          14-08-2025              1.58 (dias)         301329          
+***********************************************************************************Abiotic Factor***********************************************************************************
+CUENTA                    FECHA CREACION      FECHA ULT. STREAM.         TIEMPO REP.       CANT. SEGUID.           ETIQUETAS
+====================================================================================================================================================================================
+jovirone                      28-11-2023          24-08-2025              6.38 (dias)        1089830           [d036de7c] 'You're wasting Ronaldo by putting him at CAM he should be an outside CAM or striker .'
+NateHill                      06-11-2021          26-08-2025              4.38 (dias)        1055613           [18e28048] 'Who is this Jake person lmao? '
+GoldGlove                     05-11-2022          26-08-2025              3.08 (dias)        1433703          
+sutanmi                       27-08-2021          27-08-2025              2.50 (dias)          53124          
+Fairlight_Excalibur           15-09-2021          22-08-2025              2.29 (dias)         408958          
+mirage720                     07-04-2023          15-08-2025              1.83 (dias)         352412          
+Surefour                      27-03-2023          22-08-2025              1.42 (dias)         331662          
+***************************************************************************Blue Protocol: Star Resonance****************************************************************************
+CUENTA                    FECHA CREACION      FECHA ULT. STREAM.         TIEMPO REP.       CANT. SEGUID.           ETIQUETAS
+====================================================================================================================================================================================
+Rubius                        12-07-2021          16-08-2025             29.96 (dias)        5751354           [5c6e9874] 'They call me unexpected  you just never know what I'm going to do.'
+Agraelus                      02-11-2023          19-08-2025              9.00 (dias)         414951           [d036de7c] 'You should try putting Ronaldo on the wing and Silva at CAM. '
+jukes                         01-12-2022          25-08-2025              7.25 (dias)        1327059           [373221e6] 'That's wrong you shouldn't say that about Jake .'
+blusewilly_retry              16-10-2022          26-08-2025              7.12 (dias)         374480           [3d3e843f] 'Yep I completely agree with you on that one  laughing.'
+QuattroAce                    25-12-2021          16-08-2025              3.96 (dias)         157620           [808b6695] 'He's obviously a Silva 2 finisher come on Mass. '
+kyo1984123                    15-05-2023          19-08-2025              3.75 (dias)         135687           [3d3e843f] 'Finally my first Jake ban of the day sarcastic sorry Jake. '
+RakanooLive                   24-10-2021          23-08-2025              3.33 (dias)        1234662          
+PG_Esports                    09-07-2023          16-08-2025              2.29 (dias)         112874          
+JASONR                        14-12-2023          27-08-2025              2.21 (dias)         777611          
+NoctisAK47                    04-01-2022          18-08-2025              2.17 (dias)          73584          
+Uthenera                      18-04-2021          13-08-2025              1.75 (dias)         411346          
+StRoGo                        19-06-2021          25-08-2025              1.62 (dias)         272944          
+wltn4765                      13-06-2023          13-08-2025              1.46 (dias)          99600          
+*********************************************************************************Haunted Room: 205**********************************************************************************
+CUENTA                    FECHA CREACION      FECHA ULT. STREAM.         TIEMPO REP.       CANT. SEGUID.           ETIQUETAS
+====================================================================================================================================================================================
+Nick28T                       06-09-2021          26-08-2025              6.42 (dias)         977377           [cc984e31] 'You are playing Bernardo as a CDM  that's a bit strange.'
+HoneyMad                      05-07-2022          13-08-2025              5.00 (dias)         533250           [e0355853] 'He's back again we all missed him so much. '
+NeVeR_LosEs                   03-12-2023          15-08-2025              3.54 (dias)         200953           [2f9c31c6] 'Shaking my head I can't believe this is happening. '
+Pun1shers_TV                  24-08-2022          17-08-2025              2.67 (dias)          82289          
+MasterSnakou                  16-09-2023          27-08-2025              2.58 (dias)         448316          
+goncho                        02-06-2022          22-08-2025              1.88 (dias)         442412          
+jmjdoc                        07-11-2021          14-08-2025              1.50 (dias)          30877          
+**************************************************************************************Warframe**************************************************************************************
+CUENTA                    FECHA CREACION      FECHA ULT. STREAM.         TIEMPO REP.       CANT. SEGUID.           ETIQUETAS
+====================================================================================================================================================================================
+Clix                          07-10-2021          13-08-2025             14.54 (dias)        2035180           [173edd99] 'I remember I counted that a month ago  and it was already disgraceful.'
+imls                          05-06-2023          15-08-2025              5.29 (dias)         392024           [636111cd] 'I'm so glad I'm not the only one that is doing that. '
+jungtaejune                   08-03-2022          18-08-2025              3.25 (dias)         124835          
+sah_yang                      13-02-2023          17-08-2025              2.33 (dias)         206794          
+DougisRaw                     18-04-2022          16-08-2025              1.92 (dias)         127151          
+1PVCS                         07-10-2022          23-08-2025              1.79 (dias)          71596          
+kutcherlol                    22-09-2021          21-08-2025              1.75 (dias)         198818          
+dinablin                      05-08-2022          16-08-2025              1.67 (dias)         293748          
+MuTeX                         12-01-2022          26-08-2025              1.54 (dias)         200619          
+Wackyjacky101                 22-04-2022          27-08-2025              1.50 (dias)         209700          
+Cizzorz                       03-04-2022          22-08-2025              1.42 (dias)        1866339          
+***************************************************************************************Chess****************************************************************************************
+CUENTA                    FECHA CREACION      FECHA ULT. STREAM.         TIEMPO REP.       CANT. SEGUID.           ETIQUETAS
+====================================================================================================================================================================================
+hanryang1125                  06-08-2021          17-08-2025             25.29 (dias)         494445           [00ef1b3f] 'Spending that much on fitness cards  is just way too much I'm just watching.'
+Fresh                         21-09-2023          18-08-2025             16.92 (dias)        3135667           [86f2d5bb] 'Who did you end up packing from the red FUT Champions rewards bro? '
+TeePee                        06-11-2023          15-08-2025              9.12 (dias)         520519           [d23826b9] 'It is you are right about that. '
+x2Twins                       22-07-2022          25-08-2025              6.88 (dias)        1288969           [82bc92f5] 'Which player is better TOTS Lacazette or TOTS Aguero? '
+EASPORTSFIFA                  21-06-2022          26-08-2025              3.58 (dias)        1287954           [4e083e06] 'Please tell us what the current song is. '
+supertf                       27-12-2021          19-08-2025              2.79 (dias)         196136          
+***********************************************************************************Eternal Return***********************************************************************************
+CUENTA                    FECHA CREACION      FECHA ULT. STREAM.         TIEMPO REP.       CANT. SEGUID.           ETIQUETAS
+====================================================================================================================================================================================
+TSM_ImperialHal               16-12-2021          13-08-2025              5.29 (dias)         302593           [636111cd] 'I'm so glad I'm not the only one that is doing that. '
+yeTz                          18-07-2021          15-08-2025              4.71 (dias)         849972           [de2f7017] 'Hello everyone in the chat  how are you all doing?'
+Doublelift                    09-05-2021          17-08-2025              3.46 (dias)        1389835          
+maxim                         02-10-2021          16-08-2025              2.71 (dias)         312566          
+RiotGamesTurkish              15-07-2022          21-08-2025              2.04 (dias)         651994          
+Zombie_Barricades             09-07-2021          26-08-2025              2.00 (dias)         172386          
+Reverse2k                     13-02-2021          17-08-2025              1.88 (dias)         380488          
+CarritosKami                  09-08-2021          21-08-2025              1.83 (dias)         165439          
+Frankkaster                   26-08-2022          15-08-2025              1.71 (dias)         826222          
+Tanovich                      04-01-2023          24-08-2025              1.50 (dias)         296560          
+*********************************************************************************Marbles on Stream**********************************************************************************
+CUENTA                    FECHA CREACION      FECHA ULT. STREAM.         TIEMPO REP.       CANT. SEGUID.           ETIQUETAS
+====================================================================================================================================================================================
+NoWay4u_Sir                   02-03-2023          20-08-2025             14.25 (dias)         383892           [bf1e32f8] ' Having Ronaldo on my team is such a game-changer for me.'
+Nightblue3                    20-04-2022          22-08-2025             10.38 (dias)        2641880           [d349dfb1] 'Will you be able to get TOTS VVD later on? '
+ElmiilloR                     17-08-2021          23-08-2025              7.92 (dias)         426716           [d0589dbc] 'It feels like EA made that menu to just troll you sarcastic .'
+Diegosaurs                    02-12-2022          25-08-2025              6.46 (dias)         521201           [e781d0f0] 'In the future will you get TOTY Virgil van face or Varane? '
+TwitchRivals                  19-06-2023          21-08-2025              5.96 (dias)         999480           [3d3e843f] 'We've reached 522 viewers let's go! '
+FollowGrubby                  04-03-2023          13-08-2025              5.21 (dias)         430649           [373221e6] 'Holy crap that is so unbelievable! '
+Sequisha                      07-10-2022          13-08-2025              4.92 (dias)         252495           [e0355853] 'Jake is back everyone tell all of your friends. '
+Letshe                        17-02-2022          18-08-2025              3.33 (dias)         884661          
+bebe872                       21-01-2021          17-08-2025              2.50 (dias)          70232          
+nanayango3o                   27-07-2022          26-08-2025              2.29 (dias)         147351          
+zEkO                          16-12-2021          17-08-2025              2.21 (dias)         743040          
+dlxowns45                     26-11-2023          27-08-2025              2.08 (dias)         346631          
+Zalae                         24-09-2022          20-08-2025              1.50 (dias)         170668          
+*********************************************************************************World of Warships**********************************************************************************
+CUENTA                    FECHA CREACION      FECHA ULT. STREAM.         TIEMPO REP.       CANT. SEGUID.           ETIQUETAS
+====================================================================================================================================================================================
+RocketLeague                  04-01-2022          14-08-2025             15.29 (dias)        1409120           [d14c9f6c] 'And before that  I had enough coins through buying packs already.'
+AdmiralBulldog                14-03-2023          17-08-2025             11.25 (dias)         694253           [481e859f] 'How can you call an icon a crappy player? '
+imaqtpie                      01-06-2021          21-08-2025              6.88 (dias)        2652018           [82bc92f5] 'Which player is better TOTS Lacazette or TOTS Aguero? '
+AsmodaiTV                     17-02-2021          22-08-2025              4.38 (dias)         247056           [4e083e06] 'This guy is playing very well and dominating the game. '
+P4wnyhof                      07-07-2022          16-08-2025              2.54 (dias)         489174          
+TSM_TheOddOne                 20-03-2023          19-08-2025              2.08 (dias)         864087          
+Tanxlive                      11-03-2021          18-08-2025              1.83 (dias)         244133          
+CoconutB                      18-09-2021          18-08-2025              1.71 (dias)         188378          
+Weak3n                        09-06-2022          14-08-2025              1.67 (dias)         188176          
+***********************************************************************************Sea of Thieves***********************************************************************************
+CUENTA                    FECHA CREACION      FECHA ULT. STREAM.         TIEMPO REP.       CANT. SEGUID.           ETIQUETAS
+====================================================================================================================================================================================
+CDNThe3rd                     05-09-2023          24-08-2025              8.33 (dias)        2009972           [605d8716] 'That's a great tip thank you very much .'
+pokelawls                     19-10-2022          14-08-2025              4.71 (dias)         668807           [808b6695] 'We need to start a movement to #letjakefree. '
+MinosTV_                      21-01-2021          15-08-2025              3.88 (dias)         204605           [3d3e843f] 'No I don't think that is the right thing to do. '
+Nikolarn                      06-11-2021          14-08-2025              3.38 (dias)         526389          
+runthefutmarket               04-08-2023          16-08-2025              3.04 (dias)         292812          
+swimstrim                     07-06-2021          20-08-2025              1.88 (dias)         137885          
+OuterHeaven                   25-11-2021          22-08-2025              1.58 (dias)         137954          
+*****************************************************************************Mobile Legends: Bang Bang******************************************************************************
+CUENTA                    FECHA CREACION      FECHA ULT. STREAM.         TIEMPO REP.       CANT. SEGUID.           ETIQUETAS
+====================================================================================================================================================================================
+summit1g                      25-12-2021          25-08-2025             70.50 (dias)        5310163           [3d1a843f] ' Imagine doing this on a proper Road to Glory that's just a crazy thought.' [e2b1002c] 'Wow there are  5110 people in here!'
+cloakzy                       08-12-2021          22-08-2025              8.62 (dias)        2138294           [bf4326a7] 'I think Ronaldo is best when he's at CAM .'
+winstrike_tv                  01-03-2022          20-08-2025              2.79 (dias)         148183          
+Heelmike                      16-09-2023          22-08-2025              2.50 (dias)         308927          
+TrilluXe                      28-09-2022          26-08-2025              2.42 (dias)         412495          
+NeZaK_                        11-04-2021          20-08-2025              2.38 (dias)         255840          
+Mmorpg                        14-05-2023          18-08-2025              1.92 (dias)         235167          
+moogrr1211                    22-07-2022          25-08-2025              1.92 (dias)          37162          
+roflgator                     28-04-2021          23-08-2025              1.75 (dias)         106365          
+Krayn_Live                    16-03-2023          24-08-2025              1.46 (dias)         125775          
+*****************************************************************************Shine Post: Be Your Idol!******************************************************************************
+CUENTA                    FECHA CREACION      FECHA ULT. STREAM.         TIEMPO REP.       CANT. SEGUID.           ETIQUETAS
+====================================================================================================================================================================================
+handongsuk                    13-03-2023          23-08-2025             18.75 (dias)         385250           [f9d146c8] 'I haven't bought a single fitness card for my players this year .'
+muse_tw                       24-08-2022          20-08-2025              7.21 (dias)         121053           [373221e6] 'That's wrong you shouldn't say that about Jake .'
+Sh4dowehhh                    18-11-2023          27-08-2025              2.62 (dias)          84234          
+GodHunt                       28-01-2023          14-08-2025              2.12 (dias)         202883          
+*****************************************************************************Pools Hot Tubs and Beaches*****************************************************************************
+CUENTA                    FECHA CREACION      FECHA ULT. STREAM.         TIEMPO REP.       CANT. SEGUID.           ETIQUETAS
+====================================================================================================================================================================================
+nl_Kripp                      13-07-2021          22-08-2025             17.00 (dias)        1379123           [5e9f3b17] 'You really should just do the squad building challenges instead .'
+RiotGamesBrazil               10-11-2023          20-08-2025             14.21 (dias)        1011924           [12cb0d6f] 'Who do you think is better gold Neymar or the 88 Felipe? '
+dakotaz                       17-12-2022          20-08-2025             11.29 (dias)        4520305           [373221e6] 'That's our friend Jake  who is always so funny.'
+Llobeti4                      04-03-2021          26-08-2025              4.62 (dias)         648084           [840b424d] 'There's a pro that uses that badge this might be him. '
+Broxah                        13-02-2022          15-08-2025              2.42 (dias)         317896          
+iceiceice                     12-05-2023          26-08-2025              1.50 (dias)         183960          
+***************************************************************************************Metin2***************************************************************************************
+CUENTA                    FECHA CREACION      FECHA ULT. STREAM.         TIEMPO REP.       CANT. SEGUID.           ETIQUETAS
+====================================================================================================================================================================================
+72hrs                         17-08-2022          15-08-2025              6.00 (dias)        1024814           [3d3e843f] 'We've reached 522 viewers let's go! '
+polsatgames                   18-02-2021          15-08-2025              3.92 (dias)         141026           [f385274f] 'You should go with a high depth because it helps your defense. '
+The_Happy_Hob                 06-07-2021          25-08-2025              3.42 (dias)         216106          
+yd0821                        25-08-2021          24-08-2025              2.71 (dias)         279864          
+x6FlipiN                      12-12-2021          20-08-2025              2.21 (dias)         279204          
+cacho01                       15-12-2021          25-08-2025              1.75 (dias)         269080          
+rhobalas_lol                  03-10-2021          13-08-2025              1.54 (dias)         100599          
+*********************************************************************************Age of Empires II**********************************************************************************
+CUENTA                    FECHA CREACION      FECHA ULT. STREAM.         TIEMPO REP.       CANT. SEGUID.           ETIQUETAS
+====================================================================================================================================================================================
+SmiteGame                     09-02-2023          26-08-2025              6.79 (dias)         535211           [db892075] 'Tell me about the players you got in your red picks. '
+mch_AGG                       28-01-2021          17-08-2025              5.12 (dias)         219431           [e0355853] 'Look who is back again  our favorite person.'
+RocketBeansTV                 16-10-2023          20-08-2025              4.17 (dias)         416018           [d036de7c] 'Are you playing with a drop-back defensive style? '
+Kiwo                          14-08-2022          25-08-2025              3.46 (dias)         296481          
+Kotton                        24-08-2023          23-08-2025              2.79 (dias)         253065          
+ESL_SC2                       26-09-2022          21-08-2025              2.71 (dias)         305311          
+Valkia                        13-01-2023          14-08-2025              2.25 (dias)         308459          
+SovietWomble                  04-07-2022          19-08-2025              2.17 (dias)        1368076          
+GhostFreak66                  21-01-2021          20-08-2025              2.04 (dias)         111646          
+Tonton                        20-05-2023          14-08-2025              1.88 (dias)         147542          
+hastad                        06-10-2022          19-08-2025              1.83 (dias)         868738          
+veloxey                       14-07-2022          15-08-2025              1.54 (dias)         252913          
+NumotTheNummy                 17-02-2022          17-08-2025              1.42 (dias)         103069          
+*******************************************************************************Supermarket Simulator********************************************************************************
+CUENTA                    FECHA CREACION      FECHA ULT. STREAM.         TIEMPO REP.       CANT. SEGUID.           ETIQUETAS
+====================================================================================================================================================================================
+JERICHO                       02-09-2022          26-08-2025              3.21 (dias)        1191987          
+rooftopcat99                  16-07-2021          26-08-2025              2.50 (dias)         214028          
+duckmanzch                    19-01-2022          23-08-2025              2.21 (dias)         122694          
+Jay3                          16-09-2022          18-08-2025              2.17 (dias)         189654          
+CapcomFighters                18-01-2023          18-08-2025              2.08 (dias)         348447          
+NeverSayYesTwitch             26-08-2023          14-08-2025              2.08 (dias)         194933          
+shtan_udachi                  18-06-2021          18-08-2025              2.00 (dias)         100852          
+H0llyLP                       16-06-2022          24-08-2025              1.71 (dias)         151000          
+MarketTradersTV               23-01-2022          14-08-2025              1.71 (dias)          30413          
+RiotGamesOCE                  20-09-2021          20-08-2025              1.50 (dias)         149775          
+********************************************************************************Guilty Gear: Strive*********************************************************************************
+CUENTA                    FECHA CREACION      FECHA ULT. STREAM.         TIEMPO REP.       CANT. SEGUID.           ETIQUETAS
+====================================================================================================================================================================================
+LCK_Korea                     03-04-2023          25-08-2025             22.17 (dias)         619382           [4a2b34c1] ' That's why your team is not valuable because you don't grind.'
+Towelliee                     25-08-2023          15-08-2025              5.21 (dias)         705098           [3d3e843f] 'I have missed you so much  my little cutie.'
+alexelcapo                    07-06-2021          18-08-2025              4.83 (dias)         680023           [e0355853] 'Friend just kidding don't take it seriously. '
+PAGO3                         07-12-2022          22-08-2025              4.62 (dias)         425072           [636111cd] 'We need to start a hashtag #givejakemod. '
+rkdwl12                       27-05-2023          24-08-2025              4.08 (dias)         507418           [373221e6] 'I am so happy with my red picks. '
+scoped                        22-12-2021          21-08-2025              3.79 (dias)         731808           [98c15224] 'Laughing it's our friend Jake again! '
+RoyalPhunk                    09-12-2021          20-08-2025              3.58 (dias)         204451           [3d3e843f] 'You seem to be way gone from reality my friend. '
+LigaPro1                      09-02-2022          24-08-2025              3.46 (dias)          30986          
+G4G_REVENANT                  18-03-2022          19-08-2025              2.75 (dias)         284620          
+miniminter                    10-03-2023          24-08-2025              2.17 (dias)         858427          
+ZONY                          17-01-2021          22-08-2025              1.88 (dias)         260125          
+Gabi                          21-01-2021          15-08-2025              1.46 (dias)         271202          
+aminematue                    19-11-2022          24-08-2025              1.42 (dias)         124232          
+***************************************************************************Software and Game Development****************************************************************************
+CUENTA                    FECHA CREACION      FECHA ULT. STREAM.         TIEMPO REP.       CANT. SEGUID.           ETIQUETAS
+====================================================================================================================================================================================
+Gorgc                         26-07-2023          14-08-2025             14.46 (dias)         391726           [173edd99] 'I remember I counted that a month ago  and it was already disgraceful.'
+juansguarnizo                 10-03-2023          13-08-2025              9.79 (dias)        1204773           [14c9f6c0] 'That's our famous Jake  the one who is always here laughing.'
+BLASTPremier                  24-05-2023          27-08-2025              8.71 (dias)         501371           [d036de7c] 'You should try putting Ronaldo on the wing and Silva at CAM. '
+StarLadder5                   12-01-2021          18-08-2025              6.71 (dias)        1029203           [fb77a079] 'We have nearly 500 viewers watching the stream let's go! '
+Overpow                       04-06-2023          20-08-2025              3.58 (dias)         254516           [2f9c31c6] 'Shaking my head I can't believe this is happening. '
+ReventXz                      10-03-2022          25-08-2025              3.29 (dias)         362062          
+Northernlion                  23-10-2022          17-08-2025              2.79 (dias)         359260          
+VGBootCamp                    24-04-2021          14-08-2025              2.08 (dias)         521938          
+lolesportsla                  26-06-2023          13-08-2025              1.88 (dias)         186208          
+Vicens                        16-12-2021          17-08-2025              1.67 (dias)         730679          
+kragiee                       13-06-2023          27-08-2025              1.62 (dias)         234312          
+Zerkaa                        01-06-2023          20-08-2025              1.58 (dias)         529504          

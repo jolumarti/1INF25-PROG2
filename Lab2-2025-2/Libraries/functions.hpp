@@ -9,7 +9,7 @@
 void cargarCategorias(const char *file_name, char ***&categorias);
 
 void cargarStreamers(const char *file_name, char ***&streamers, int **&fechasPromedios,
-                     long long **&tiempoRepSegidores);
+                     long long **&tiempoRepSeguidores);
 
 void cargarComentarios(const char *file_name, char ***&comentarios, char ***&etiquetas);
 void imprimirReporte(const char *file_name, char ***categorias, char ***streamers, int **fechasPromedios,

@@ -6,11 +6,11 @@ int main() {
                      categorias);
     char ***streamers;
     int **fechasPromedios;
-    long long **tiempoRepSegidores;
+    long long **tiempoRepSeguidores;
     cargarStreamers("../data/streamers.csv",
                     streamers,
                     fechasPromedios,
-                    tiempoRepSegidores);
+                    tiempoRepSeguidores);
     char ***comentarios;
     char ***etiquetas;
     cargarComentarios("../data/comentarios.csv",
@@ -20,7 +20,7 @@ int main() {
                     categorias,
                     streamers,
                     fechasPromedios,
-                    tiempoRepSegidores,
+                    tiempoRepSeguidores,
                     comentarios,
                     etiquetas);
     return 0;

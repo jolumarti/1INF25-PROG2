@@ -111,10 +111,11 @@ void allocate_inc_memory(int &cap, int &n, char ***&comentarios, char ***&etique
     allocate_memory(cap, n, comentarios, etiquetas);
 }
 
-char *concat_cstring(const char *s1, const char *s2) {
+char *concat_cstring(const char *s1, char *s2) {
     int len1 = strlen(s1);
     int len2 = strlen(s2);
-    char *result = new char[len1 + len2 + 1];
+    if (s2[len2 - 1] == '\r') s2[len2 - 1] = '\0'; // remove \r if present
+    char *result = new char[len1 + len2 + 1]{};
     strcpy(result, s1);
     strcat(result, s2);
     return result;

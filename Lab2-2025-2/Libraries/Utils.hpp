@@ -17,6 +17,6 @@
 #define MAX_ARR_TIEMPO 2
 #define MAX_ARR_COMENT 2
 #define MAX_ARR_ETIQUETA 2
-#define LINE_SIZE 150
+#define LINE_SIZE 180
 using namespace std;
 #endif //LAB2_2025_2_UTILS_HPP

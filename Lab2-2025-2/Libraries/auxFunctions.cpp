@@ -11,6 +11,7 @@ void open_in_file(ifstream &input, const char *file_name) {
         exit(1);
     }
 }
+
 void open_out_file(ofstream &output, const char *file_name) {
     output.open(file_name, ios::out);
     if (!output.is_open()) {
@@ -23,15 +24,19 @@ void open_out_file(ofstream &output, const char *file_name) {
 char *read_line(ifstream &input, char deli) {
     char buffer[MAX_BUFFER];
     input.getline(buffer, MAX_BUFFER, deli);
-    char *p = new char[strlen(buffer) + 1]{};
+    int len = strlen(buffer);
+    char *p = new char[len + 1]{};
+    if (buffer[len - 1] == '\r') buffer[len - 1] = '\0'; // remove \r if present recheck on unbut
     strcpy(p, buffer);
     return p;
 }
+
 char *copy_cstring(const char *source) {
     char *copy = new char[strlen(source) + 1]{};
     strcpy(copy, source);
     return copy;
 }
+
 void print_filled_line(ofstream &output, char delimitador) {
     output << setw(LINE_SIZE) << setfill(delimitador) << delimitador << setfill(' ') << endl;
 }

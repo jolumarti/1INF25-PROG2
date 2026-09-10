@@ -1,0 +1,100 @@
+Categoria: UM1000 - Just Chatting - Casual conversations; reactions; and hangouts without a main game.
+Categoria: DN1001 - League of Legends - 5v5 MOBA; ranked climbs; pro play analysis; and coaching.
+Categoria: TZ1002 - Grand Theft Auto V - Open-world gameplay: GTA Online missions; stunts; and roleplay servers.
+Categoria: QU1003 - Counter-Strike - Tactical 5v5 FPS; scrims; ranked; utility lineups; and tournaments.
+Categoria: LH1004 - VALORANT - Hero-based 5v5 FPS; ranked; team scrims; agent guides; and aim practice.
+Categoria: DB1005 - World of Warcraft - MMORPG raids; Mythic+; leveling; PvP arenas; and class guides.
+Categoria: XG1006 - IRL - Real-life streaming: travel; city walks; food tours; and daily life.
+Categoria: DT1007 - Minecraft - Survival; creative builds; minigames; speedruns; and modded packs.
+Categoria: NL1008 - Dota 2 - 5v5 MOBA; high-MMR pubs; scrims; drafts; and tournament coverage.
+Categoria: MJ1009 - Fortnite - Battle royale & creative modes; arena grind; events; and challenges.
+Categoria: WC1010 - Metal Gear Solid Delta: Snake Eater - Stealth-action remake playthroughs; challenges; and lore.
+Categoria: KI1011 - Apex Legends - Battle royale/arenas; ranked pushes; tournaments; and legend tips.
+Categoria: QC1012 - Call of Duty: Warzone - BR metas; loadouts; high-kill lobbies; and ranked Resurgence.
+Categoria: LN1013 - Dead by Daylight - 4v1 horror; killer/survivor gameplay; builds; and customs.
+Categoria: KO1014 - Teamfight Tactics - Auto-battler; patch meta comps; high-ELO ladders; and tips.
+Categoria: MI1015 - Special Events - One-off broadcasts: showcases; charity streams; and premieres.
+Categoria: WT1016 - Marvel Rivals - Team shooter with Marvel heroes; matches; comps; and strategies.
+Categoria: QT1017 - Overwatch 2 - 5v5 hero FPS; role queue ranked; scrims; and VOD reviews.
+Categoria: QR1018 - Escape from Tarkov - Extraction shooter; raids; looting routes; wipes; and market.
+Categoria: RO1019 - Rocket League - Car-soccer; ranked playlists; freestyling; and tournaments.
+Categoria: RD1020 - World of Tanks - Tank warfare; tech tree grinds; clan wars; and missions.
+Categoria: DQ1021 - Clash Royale - Mobile RTS; ladder; challenges; deck building; and tips.
+Categoria: BY1022 - Variety - Mixed-content channels rotating games and formats frequently.
+Categoria: BQ1023 - Street Fighter 6 - 1v1 fighting; ranked sets; lab work; tech; and tournaments.
+Categoria: LJ1024 - Hollow Knight - Metroidvania; challenge runs; speedruns; and full completions.
+Categoria: CY1025 - PEAK - Competitive/action title; early-meta exploration and live matches.
+Categoria: PK1026 - Sports - Sports talk; watch-alongs; management sims; and highlights.
+Categoria: RK1027 - Last Epoch - ARPG; endgame monoliths; builds; crafting; and loot hunts.
+Categoria: RQ1028 - Old School RuneScape - Classic MMORPG; skilling; PvM bosses; and Ironman runs.
+Categoria: LB1029 - Deadlock - Competitive shooter/MOBA hybrid; matches and meta testing.
+Categoria: RN1030 - Hearthstone - Digital CCG; ladder climbs; Arena; Battlegrounds; and deck guides.
+Categoria: KS1031 - ASMR - Whispered and sound-focused relaxation to help sleep and study.
+Categoria: LD1032 - Path of Exile 2 - ARPG; campaign; league starts; crafting; and bossing.
+Categoria: HW1033 - Art - Live drawing; painting; 3D modeling; and illustration workflows.
+Categoria: AK1034 - PUBG: BATTLEGROUNDS - Tactical battle royale; rotations; clutches; and team comps.
+Categoria: NS1035 - Virtual Casino - Virtual casino-style games and demonstrations.
+Categoria: GW1036 - Slots - Slot machine streams and related casino content.
+Categoria: NZ1037 - ROBLOX - Community-made experiences: obbies; roleplay; and minigames.
+Categoria: AE1038 - Im Only Sleeping - "“Sleep"" streams with chat interactions and ambience."
+Categoria: UW1039 - Music - Live music: covers; songwriting; production; and jam sessions.
+Categoria: NU1040 - DJs - DJ sets; mixing; and live club-style performances.
+Categoria: PY1041 - EA Sports FC 25 - Football/soccer; Ultimate Team; Seasons; and tournaments.
+Categoria: EW1042 - Rust - Survival PvP; wipe days; raids; bases; and team warfare.
+Categoria: ZG1043 - Retro - Classic and retro gaming; speedruns; challenges; and nostalgia.
+Categoria: FE1044 - Shadowverse: Worlds Beyond - Anime-style CCG; ladder; tournaments; and deck tech.
+Categoria: ZU1045 - Tom Clancys Rainbow Six Siege X - Tactical FPS; strats; ranked; and operator guides.
+Categoria: VG1046 - Albion Online - Sandbox MMORPG; PvP; ZvZ; gathering; and crafting economies.
+Categoria: KB1047 - Destiny 2 - Looter-shooter; raids; Trials; builds; and seasonal content.
+Categoria: BK1048 - Always On - 24/7 channels with loops; cams; and continuous programming.
+Categoria: LO1049 - Call of Duty: Black Ops 6 - CoD entry; multiplayer; Zombies; and campaign runs.
+Categoria: RL1050 - Delta Force - Tactical shooter; squad play; extraction/objective modes.
+Categoria: CG1051 - Madden NFL 26 - American football; Franchise; MUT; and head-to-head play.
+Categoria: OA1052 - RimWorld - Colony sim; storytelling runs; modpacks; and challenge scenarios.
+Categoria: DU1053 - Garrys Mod - Sandbox & community modes; RP; TTT; and minigames.
+Categoria: PA1054 - Tibia - Classic MMORPG; hunts; quests; and guild events.
+Categoria: NN1055 - Games + Demos - Demos and showcases for new and indie games.
+Categoria: HV1056 - ELDEN RING - Soulslike ARPG; challenge runs; builds; and boss fights.
+Categoria: UE1057 - FINAL FANTASY XIV ONLINE - MMORPG; MSQ; raids; glam; and daily roulettes.
+Categoria: MD1058 - Phasmophobia - Co-op ghost hunting; investigations and challenge runs.
+Categoria: IC1059 - Pokémon Community Game - Chat-driven Pokémon minigame played in-stream.
+Categoria: BA1060 - Talk Shows & Podcasts - Live interviews; panels; and podcast recordings.
+Categoria: XL1061 - Clair Obscur: Expedition 33 - Story-driven RPG; playthroughs and theorycrafting.
+Categoria: YC1062 - Animals Aquariums and Zoos - Live animal cams; care streams; and zoo tours.
+Categoria: DA1063 - Arena Breakout: Infinite - Extraction FPS; builds; raids; and economy.
+Categoria: CV1064 - VRChat - Social VR; avatar showcases; world hopping; and meetups.
+Categoria: ET1065 - Project Zomboid - Survival sim; base building; mods; and RP servers.
+Categoria: OR1066 - Are You Smarter Than a 5th Grader? - Quiz/show game sessions with viewers.
+Categoria: VD1067 - Gears of War: Reloaded - Cover-based shooter; campaign playthroughs and versus.
+Categoria: ZT1068 - Oh Deer - Light indie experience; exploration and humor.
+Categoria: VX1069 - HELLDIVERS 2 - Co-op shooter; operations; weapons; and stratagems.
+Categoria: NO1070 - Foxhole - Massive war MMO; logistics; fronts; and player-driven battles.
+Categoria: BQ1071 - Star Citizen - Space sim; ships; trading; org operations; and events.
+Categoria: XC1072 - Poker - Live poker tables; analysis; and tournaments.
+Categoria: TB1073 - Wuthering Waves - Gacha ARPG; pulls; builds; and open-world exploration.
+Categoria: AZ1074 - Heroes of Might and Magic III: The Restoration of Erathia - Turn-based strategy; campaigns and PvP.
+Categoria: EB1075 - Call of Duty - General CoD category; multiplayer; BR; and Zombies across titles.
+Categoria: II1076 - Crypto - Crypto markets talk; education; and web3 project coverage.
+Categoria: KF1077 - Guild Wars 2 - MMORPG; WvW; fractals; raids; and fashion.
+Categoria: AF1078 - Metal Gear Solid V: The Phantom Pain - Sandbox stealth-action; missions and mods.
+Categoria: AN1079 - Red Dead Redemption 2 - Open-world Western; story; online; and RP.
+Categoria: QA1080 - Magic: The Gathering - TCG; Arena/paper play; deck tech; and events.
+Categoria: IR1081 - Battlefield 2042 - Large-scale FPS; conquest; portal modes; and specialists.
+Categoria: AN1082 - GeoGuessr - Geography guessing; streaks; duels; and tournaments.
+Categoria: VS1083 - Abiotic Factor - Co-op survival; crafting; exploration; and base defense.
+Categoria: BC1084 - Blue Protocol: Star Resonance - Online action RPG with an anime vibe; quests and co-op.
+Categoria: OZ1085 - Haunted Room: 205 - Horror/escape; investigation; puzzles; and scares.
+Categoria: PC1086 - Warframe - Looter-shooter; frame builds; relic farming; and endgame grinds.
+Categoria: TP1087 - Chess - Chess games; puzzles; speed chess; and commentary.
+Categoria: TM1088 - Eternal Return - MOBA/BR hybrid; characters; routes; and ranked.
+Categoria: CW1089 - Marbles on Stream - Chat-controlled marble races and events.
+Categoria: VO1090 - World of Warships - Naval combat; grinds; clans; and ranked.
+Categoria: AG1091 - Sea of Thieves - Co-op pirate adventures; voyages and PvP.
+Categoria: MK1092 - Mobile Legends: Bang Bang - Mobile MOBA; ranked grind and events.
+Categoria: KK1093 - Shine Post: Be Your Idol! - Rhythm/idol content; music performance and progression.
+Categoria: SJ1094 - Pools Hot Tubs and Beaches - Aquatic IRL; pool streams; hot tubs; and beach hangouts.
+Categoria: KS1095 - Metin2 - Classic MMORPG; grinding; dungeons; and PvP.
+Categoria: VB1096 - Age of Empires II - RTS; build orders; ranked matches; and tournaments.
+Categoria: VD1097 - Supermarket Simulator - Management sim; build and run your own grocery store.
+Categoria: NA1098 - Guilty Gear: Strive - 1v1 fighter; training mode tech; sets; and tournaments.
+Categoria: NN1099 - Software and Game Development - Live coding; game engines; tools; and devlogs.

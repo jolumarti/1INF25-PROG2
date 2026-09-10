@@ -27,6 +27,11 @@ char *read_line(ifstream &input, char deli) {
     strcpy(p, buffer);
     return p;
 }
+char *copy_cstring(const char *source) {
+    char *copy = new char[strlen(source) + 1]{};
+    strcpy(copy, source);
+    return copy;
+}
 void print_filled_line(ofstream &output, char delimitador) {
     output << setw(LINE_SIZE) << setfill(delimitador) << delimitador << setfill(' ') << endl;
 }

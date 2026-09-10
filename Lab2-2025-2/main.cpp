@@ -2,27 +2,26 @@
 
 int main() {
     char ***categorias;
-    cargarCategorias("categorias.csv",
+    cargarCategorias("../data/categorias.csv",
                      categorias);
     char ***streamers;
     int **fechasPromedios;
     long long **tiempoRepSegidores;
-    cargarStreamers("streamers.csv",
+    cargarStreamers("../data/streamers.csv",
                     streamers,
                     fechasPromedios,
                     tiempoRepSegidores);
-    // char ***comentarios;
-    // char ***etiquetas;
-    // cargarComentarios("comentarios.csv",
-    //                   comentarios,
-    //                   etiquetas);
-    // imprimirReporte("reporte.txt",
-    //                 categorias,
-    //                 streamers,
-    //                 fechasPromedios,
-    //                 tiempoRepSegidores,
-    //                 comentarios,
-    //                 etiquetas);
-    return 0;
+    char ***comentarios;
+    char ***etiquetas;
+    cargarComentarios("../data/comentarios.csv",
+                      comentarios,
+                      etiquetas);
+    imprimirReporte("../report/reporte.txt",
+                    categorias,
+                    streamers,
+                    fechasPromedios,
+                    tiempoRepSegidores,
+                    comentarios,
+                    etiquetas);
     return 0;
 }

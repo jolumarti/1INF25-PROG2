@@ -122,6 +122,24 @@ void actualizacomentarios(void *streamers, void *comentarios) {
     }
 }
 
+void print_comments(ofstream &file, int w, void **comments) {
+    if (comments && comments[0]) {
+        file << "Comentarios Emitidos:" << endl;
+        print_filled_line(file, '-');
+        file << setw(w) << "Receptor" << "Texto" << endl;
+        print_filled_line(file, '-');
+
+        int i = 0;
+        void **comment = (void **) comments[i];
+        while (comment) {
+            char *receiver = (char *) comment[S_RECEIVER];
+            char *text = (char *) comment[S_TEXT];
+            file << setw(w) << receiver << text << endl;
+            comment = (void **) comments[++i];
+        }
+    } else file << "No hay comentarios" << endl;
+}
+
 void imprimestreamers(void *streamers) {
     ofstream file;
     open_out_file(file, "../dist/Reporte.txt");
@@ -136,22 +154,7 @@ void imprimestreamers(void *streamers) {
         file << left << setw(w) << "Cuenta" << "Seguidores" << endl;
         file << setw(w) << account << *followers << endl;
         print_filled_line(file, '-');
-
-        if (comments && comments[0]) {
-            file << "Comentarios Emitidos:" << endl;
-            print_filled_line(file, '-');
-            file << setw(w) << "Receptor" << "Texto" << endl;
-            print_filled_line(file, '-');
-
-            int i = 0;
-            void **comment = (void **) comments[i];
-            while (comment) {
-                char *receiver = (char *) comment[S_RECEIVER];
-                char *text = (char *) comment[S_TEXT];
-                file << setw(w) << receiver << text << endl;
-                comment = (void **) comments[++i];
-            }
-        } else file << "No hay comentarios" << endl;
+        print_comments(file, w, comments);
         streamer = (void **) aux_streamers[++i];
     }
 }

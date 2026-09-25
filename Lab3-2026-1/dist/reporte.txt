@@ -1,0 +1,55 @@
+==========================================================================================
+                            REPORTE DEL SISTEMA DE URGENCIAS
+==========================================================================================
+    ID              NOMBRE             EDAD         GENERO        VISITAS          TOTAL
+------------------------------------------------------------------------------------------
+30001001        H. Glasspool             69              M              3            294
+30001002          X. Methuen              4              M              3            351
+30001003        P. Schubuser             56              F              3            408
+30001004         U. Titcombe             24              F              3            465
+30001005      Y. Gionettitti              5              M              3            522
+30001006             H. Buff             58              M              3            453
+30001007           F. Perrat             68              F              3            384
+30001008          K. Gwillim             47              F              3            315
+30001009         E. Dewhirst             79              F              3            372
+30001010            M. Crebo             62              M              3            429
+30001011        Q. Churchard             73              F              3            486
+30001012           N. Corpes             16              F              3            417
+30001013           R. Brixey             16              F              3            474
+30001014           M. Goudie             46              M              3            405
+30001015         G. Stanlack             69              M              3            336
+30001016          C. McMurty             37              M              3            393
+30001017         I. Scothorn             50              F              3            450
+30001018          J. Helgass             37              M              3            507
+30001019         W. Chittock             70              F              3            438
+30001020      F. Prendergast             55              M              3            369
+30001021         T. Bissiker             63              F              2            177
+30001022          M. Mandell             44              F              2            215
+30001023            D. Coste             11              F              2            253
+30001024         Q. Dodridge              8              M              2            291
+30001025            C. Pavie              4              F              2            329
+30001026      Z. Sleightholm             42              M              2            367
+30001027            S. Noads             68              F              2            279
+30001028           J. Filkin             22              M              2            191
+30001029            C. Bilby             58              F              2            229
+30001030            H. Kehoe             72              F              2            267
+30001031          S. O'Neill             73              F              2            305
+30001032           J. Sibbit             35              M              2            343
+30001033         T. Clissett             48              M              2            255
+30001034         L. Vannacci             74              F              2            293
+30001035          H. Ponting             14              M              2            205
+30001036         D. Bleacher             37              F              1            110
+30001037         B. Drinkeld             25              M              1            129
+30001038           N. Aggiss             39              M              1            148
+30001039         K. Bilofsky             48              M              1            167
+30001040       R. Harrington             22              F              1            186
+30001041       D. Yarrington             72              F              1             79
+30001042         N. Gulliman             41              F              1             98
+30001043      Q. Garnsworthy              8              F              1            117
+30001044         H. Hesbrook             70              F              1            136
+30001045          N. Romanet             50              F              1            155
+30001046         K. Rushmare             33              F              1            174
+30001047              P. Pow             17              M              1            193
+30001048             Q. Dear             45              F              1             86
+30001049            X. Leake             53              F              1            105
+30001050           Z. Friman             15              F              1            124

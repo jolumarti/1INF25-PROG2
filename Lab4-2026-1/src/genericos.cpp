@@ -25,7 +25,7 @@ void insertarLista(void *list, void *data) {
     new_node[NEXT] = aux_list[HEAD];
     aux_list[HEAD] = new_node;
 }
-void crearLista(void **array, void *&list, int (*cmp) (void *, void *)) {
+void crearLista(void **array, void *&list, int (*cmp) (const void *, const void *)) {
     int num = 0;
     for (; array[num]; num++);
     qsort(array, num, sizeof(void *), cmp);

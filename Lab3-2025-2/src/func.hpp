@@ -1,6 +1,6 @@
 #ifndef FUNCTIONS_HPP
 #define FUNCTIONS_HPP
-#include "aux.hpp"
+#include "helpers.hpp"
 
 void cargastreamers(void *&streamers);
 void cargacomentarios(void *&comentarios);

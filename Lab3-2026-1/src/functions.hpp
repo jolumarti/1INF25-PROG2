@@ -4,7 +4,7 @@
 
 #ifndef FUNCTIONS_HPP
 #define FUNCTIONS_HPP
-#include "aux.hpp"
+#include "helpers.hpp"
 
 void cargarVentas(const char *file_name, char ***&ventas);
 void cargarDetallesDeVentas(const char *file_name, char ***ventas,

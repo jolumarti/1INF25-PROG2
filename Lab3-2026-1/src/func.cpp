@@ -67,6 +67,7 @@ void push_visita(void **&visitas, void *visita, int &cap, int &num) {
     visitas[num++] = visita;
 }
 
+
 bool read_visita(ifstream &file, void *&visita, int &id_paciente) {
     int yy, mm, dd, hour, minute, cost;
     char c;

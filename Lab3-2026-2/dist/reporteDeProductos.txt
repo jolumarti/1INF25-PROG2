@@ -1,0 +1,224 @@
+======================================================================================================================================================
+                                                             REPORTE DE CATALOGO DE PRODUCTOS
+======================================================================================================================================================
+CODIGO  NOMBRE PRODUCTO                                       TIPO            PRECIO            EMPAQ.              UNID             VALOR
+------------------------------------------------------------------------------------------------------------------------------------------------------
+P0001   Avena Pacifico Tipo 17                                   A             25.00                 2                45            993.75
+P0002   Bebida Isotonica Costa Tipo 24                           B             56.00                 8               340          16876.16
+P0003   Jabon Liquido Amazonia Tipo 22                           L             35.00                 2                37           1197.35
+P0004   Alcohol Gel Valle Tipo 05                                H             45.99                 2                35           1356.71
+P0005   Cereal Pacifico Tipo 01                                  S             43.00                 2                70           2846.60
+P0006   Salsa de Tomate Amazonia Tipo 11                         C             28.00                 2                60           1471.68
+P0007   Cuaderno Kantu Tipo 18                                   O             26.00                 3               173           4268.16
+P0008   Arena Gato Amazonia Tipo 11                              M             43.00                 2               112           4227.76
+P0009   Azucar Sierra Tipo 05                                    A             66.00                 1                12            681.12
+P0015   Folder Misti Tipo 09                                     O             42.00                 1                48           1693.44
+P0017   Sal Central Tipo 03                                      A              3.00                 1                25             69.00
+P0018   Gaseosa Sol Tipo 07                                      B             64.00                 2               150           8352.00
+P0019   Suavizante Central Tipo 11                               L             31.70                 2               125           3542.48
+P0020   Alcohol Gel Kantu Tipo 13                                H             18.00                 1                24            410.40
+P0021   Cereal Inti Tipo 05                                      S             26.00                 2               112           2640.56
+P0022   Durazno Central Tipo 01                                  C             29.00                 2                68           1630.96
+P0023   Marcador Andes Tipo 23                                   O             36.00                 2                60           2039.04
+P0024   Alimento Perro Sol Tipo 04                               M              3.00                 1                48            132.48
+P0025   Fideo Kantu Tipo 04                                      A             24.00                 2                70           1495.20
+P0026   Bebida Isotonica Pacifico Tipo 20                        B             35.00                 2               120           3535.00
+P0027   Suavizante Costa Tipo 14                                 L             16.00                 1                12            161.28
+P0028   Pasta Dental Sol Tipo 07                                 H             69.20                 2                60           3771.40
+P0029   Papas Amazonia Tipo 05                                   S             31.00                 1                24            647.28
+P0030   Durazno Sierra Tipo 08                                   C             35.00                 2                37           1148.35
+P0031   Folder Kantu Tipo 04                                     O             49.00                 1               100           4410.00
+P0032   Alimento Perro Valle Tipo 21                             M             46.00                 2                60           2439.84
+P0033   Quinua Valle Tipo 12                                     A             16.00                 1                10            147.20
+P0034   Agua Central Tipo 04                                     B             27.00                 2                98           2314.44
+P0035   Desinfectante Central Tipo 06                            L              2.00                 1                25             42.50
+P0036   Jabon Norte Tipo 24                                      H             20.00                 1                50            850.00
+P0037   Chocolate Kantu Tipo 18                                  S             30.00                 1                20            546.00
+P0038   Atun Costa Tipo 16                                       C              8.00                 2                70            505.60
+P0039   Marcador Inti Tipo 24                                    O              2.00                 2                70            114.60
+P0040   Alimento Gato Central Tipo 13                            M             50.00                 1                50           2075.00
+P0041   Lenteja Amazonia Tipo 11                                 A             70.00                 1               100           6230.00
+P0043   Suavizante Sol Tipo 06                                   L             37.00                 2                68           2237.76
+P0044   Papel Higienico Pacifico Tipo 02                         H             11.90                 2                30            291.55
+P0045   Barra Energetica Sol Tipo 11                             S             13.00                 2                75            913.25
+P0046   Sardina Amazonia Tipo 14                                 C             32.00                 2                70           2028.80
+P0047   Lapicero Valle Tipo 14                                   O             60.00                 2                72           3888.00
+P0048   Alimento Gato Pacifico Tipo 10                           M             33.00                 1                25            717.75
+P0049   Arroz Costa Tipo 21                                      A             43.00                 1                20            739.60
+P0050   Jugo Kantu Tipo 13                                       B              7.00                 2                22            141.96
+P0051   Suavizante Valle Tipo 18                                 L             21.00                 1                24            413.28
+P0052   Pasta Dental Sol Tipo 21                                 H             14.00                 1                20            254.80
+P0053   Caramelo Kantu Tipo 11                                   S             12.00                 1                12            132.48
+P0054   Maiz Dulce Amazonia Tipo 24                              C             54.00                 2                62           3189.24
+P0055   Lapicero Sierra Tipo 21                                  O             56.00                 1                25           1316.00
+P0056   Shampoo Mascota Misti Tipo 13                            M             15.00                 2               125           1556.25
+P0057   Cafe Central Tipo 03                                     A             31.00                 2                75           1922.00
+P0058   Jugo Central Tipo 15                                     B              9.00                 2               120            952.20
+P0059   Detergente Amazonia Tipo 15                              L             37.00                 1               100           3108.00
+P0060   Toalla Humeda Kantu Tipo 04                              H             68.55                 2                75           4232.96
+P0062   Sardina Norte Tipo 12                                    C             29.00                 1                25            652.50
+P0063   Marcador Norte Tipo 24                                   O             27.00                 2                70           1757.70
+P0064   Snack Canino Pacifico Tipo 17                            M              3.00                 2                62            153.42
+P0065   Harina Inti Tipo 23                                      A             26.00                 1                12            287.04
+P0066   Jugo Sol Tipo 11                                         B             57.00                 2               148           7195.68
+P0068   Pasta Dental Andes Tipo 15                               H             10.00                 1                20            172.00
+P0069   Barra Energetica Central Tipo 09                         S             21.00                 1                24            453.60
+P0070   Leche Evaporada Misti Tipo 05                            C             28.00                 1                48           1236.48
+P0071   Cuaderno Pacifico Tipo 10                                O              6.00                 1                12             63.36
+P0072   Alimento Perro Norte Tipo 13                             M             32.00                 2               150           4064.00
+P0073   Cafe Andes Tipo 21                                       A             24.00                 1                25            516.00
+P0074   Gaseosa Kantu Tipo 24                                    B             43.00                 2                73           2865.52
+P0075   Limpiavidrios Amazonia Tipo 16                           L             52.00                 2               150           6942.00
+P0076   Alcohol Gel Valle Tipo 10                                H             54.00                 2               148           7335.36
+P0077   Chocolate Sierra Tipo 05                                 S             13.00                 2               124           1473.16
+P0078   Maiz Dulce Sierra Tipo 17                                C             51.00                 1                20            948.60
+P0079   Folder Amazonia Tipo 14                                  O             10.11                 2                34            290.56
+P0080   Alimento Perro Valle Tipo 10                             M             21.00                 1                50            913.50
+P0081   Fideo Andes Tipo 15                                      A             42.00                 2               148           5848.08
+P0082   Te Sol Tipo 01                                           B             68.00                 2                49           3100.12
+P0083   Detergente Sol Tipo 07                                   L             36.00                 1                20            676.80
+P0084   Alcohol Gel Inti Tipo 04                                 H             54.00                 1                50           2376.00
+P0085   Barra Energetica Sol Tipo 23                             S             22.00                 1                20            404.80
+P0086   Maiz Dulce Sierra Tipo 19                                C             17.00                 2                35            517.65
+P0087   Papel A4 Valle Tipo 01                                   O              2.00                 2               110            192.00
+P0088   Alimento Gato Pacifico Tipo 20                           M             22.00                 1                50            990.00
+P0089   Arroz Costa Tipo 19                                      A             29.00                 2                74           1787.56
+P0090   Jugo Inti Tipo 23                                        B             34.00                 2               150           4777.00
+P0091   Desinfectante Norte Tipo 02                              L             15.00                 1                24            342.00
+P0092   Alcohol Gel Costa Tipo 16                                H             51.00                 1                24           1175.04
+P0093   Chocolate Costa Tipo 03                                  S             29.00                 2                70           1806.70
+P0094   Salsa de Tomate Sol Tipo 20                              C             51.00                 2                98           4397.22
+P0095   Papel A4 Sol Tipo 14                                     O             50.00                 2                62           2653.00
+P0096   Snack Canino Inti Tipo 16                                M             15.00                 3                60            819.00
+P0098   Bebida Isotonica Central Tipo 07                         B             14.00                 2                44            507.92
+P0099   Suavizante Inti Tipo 14                                  L             48.00                 2                70           3115.20
+P0100   Shampoo Sol Tipo 17                                      H             18.00                 1                24            371.52
+P0101   Caramelo Central Tipo 09                                 S             64.52                 1                10            593.58
+P0102   Maiz Dulce Valle Tipo 15                                 C             40.00                 2               120           4152.00
+P0103   Lapicero Central Tipo 21                                 O             53.00                 2               120           5533.20
+P0104   Shampoo Mascota Costa Tipo 12                            M             36.00                 2                49           1615.32
+P0105   Harina Misti Tipo 10                                     A             35.00                 2               150           4480.00
+P0106   Te Inti Tipo 11                                          B             14.00                 1                48            591.36
+P0107   Suavizante Pacifico Tipo 22                              L             38.00                 2                44           1469.84
+P0108   Jabon Pacifico Tipo 20                                   H             16.00                 2               120           1692.80
+P0109   Chocolate Valle Tipo 04                                  S             14.00                 2                30            366.80
+P0110   Sardina Amazonia Tipo 23                                 C             61.00                 1                24           1317.60
+P0111   Cuaderno Sierra Tipo 21                                  O             18.00                 1                50            738.00
+P0112   Shampoo Mascota Andes Tipo 12                            M             26.00                 1                10            236.60
+P0113   Frijol Amazonia Tipo 06                                  A             72.00                 1                24           1624.32
+P0114   Jugo Pacifico Tipo 21                                    B             11.00                 2               112           1116.72
+P0115   Suavizante Pacifico Tipo 05                              L             14.00                 1                24            302.40
+P0116   Pasta Dental Misti Tipo 02                               H             50.00                 2               150           7050.00
+P0117   Chocolate Norte Tipo 19                                  S             58.00                 1                12            598.56
+P0118   Sardina Amazonia Tipo 17                                 C             13.00                 1                25            292.50
+P0119   Lapicero Sol Tipo 14                                     O             27.00                 2                30            691.20
+P0120   Shampoo Mascota Sol Tipo 03                              M             54.00                 1                20            896.40
+P0121   Frijol Inti Tipo 20                                      A             28.00                 1                10            268.80
+P0122   Agua Misti Tipo 15                                       B             14.00                 1                50            553.00
+P0123   Detergente Sierra Tipo 01                                L             11.00                 1               100            913.00
+P0124   Papel Higienico Kantu Tipo 02                            H             50.00                 2                73           3069.00
+P0125   Caramelo Norte Tipo 16                                   S             24.40                 1               100           2098.40
+P0126   Atun Sol Tipo 04                                         C             36.00                 1                12            410.40
+P0127   Papel A4 Andes Tipo 02                                   O             32.00                 2                34            911.36
+P0128   Alimento Gato Valle Tipo 20                              M             46.00                 1                24            960.48
+P0129   Fideo Sierra Tipo 11                                     A             63.00                 2               150           8725.50
+P0130   Jugo Amazonia Tipo 22                                    B             23.00                 2                58           1199.68
+P0131   Lejia Misti Tipo 20                                      L             56.00                 1                12            571.20
+P0132   Alcohol Gel Central Tipo 02                              H             38.00                 2                75           2451.00
+P0133   Galletas Valle Tipo 01                                   S             26.00                 1                24            517.92
+P0134   Leche Evaporada Inti Tipo 12                             C             69.00                 1                24           1506.96
+P0135   Papel A4 Pacifico Tipo 20                                O             31.00                 2                72           2083.20
+P0136   Alimento Gato Valle Tipo 01                              M             43.00                 2                72           2683.20
+P0137   Azucar Costa Tipo 04                                     A             52.00                 2                30           1362.40
+P0138   Jugo Central Tipo 14                                     B             49.00                 2                22            993.72
+P0139   Suavizante Central Tipo 11                               L             43.00                 2               110           4527.90
+P0140   Pasta Dental Amazonia Tipo 13                            H             66.00                 1                50           3201.00
+P0141   Caramelo Andes Tipo 18                                   S             12.00                 1                50            516.00
+P0142   Sardina Amazonia Tipo 10                                 C             55.00                 1                50           2337.50
+P0143   Lapicero Sierra Tipo 03                                  O             48.00                 2                36           1422.72
+P0144   Shampoo Mascota Sol Tipo 16                              M              9.00                 1                50            427.50
+P0145   Azucar Misti Tipo 23                                     A             17.00                 1                10            159.80
+P0146   Bebida Isotonica Valle Tipo 09                           B              9.00                 1                12            101.52
+P0147   Detergente Pacifico Tipo 11                              L             34.00                 1                12            342.72
+P0148   Pasta Dental Misti Tipo 11                               H             27.00                 1                12            291.60
+P0149   Galletas Valle Tipo 24                                   S             66.00                 2               120           7484.40
+P0150   Maiz Dulce Amazonia Tipo 09                              C             35.00                 2                37           1138.20
+P0151   Marcador Costa Tipo 17                                   O             17.00                 1                24            342.72
+P0152   Alimento Gato Sol Tipo 13                                M             16.70                 2                45            661.32
+P0153   Sal Pacifico Tipo 11                                     A             54.00                 1                10            507.60
+P0154   Bebida Energetica Inti Tipo 02                           B             13.00                 1                48            542.88
+P0155   Lejia Sierra Tipo 12                                     L             18.00                 2                68           1103.76
+P0156   Toalla Humeda Amazonia Tipo 24                           H             55.00                 2                60           3154.80
+P0157   Caramelo Misti Tipo 23                                   S             56.00                 2                72           3601.92
+P0158   Durazno Norte Tipo 06                                    C             22.00                 2                70           1410.20
+P0159   Folder Sol Tipo 04                                       O             35.00                 2                44           1296.40
+P0160   Shampoo Mascota Sol Tipo 09                              M             58.00                 2                74           3599.48
+P0161   Frijol Misti Tipo 23                                     A             48.00                 1               100           4128.00
+P0162   Te Sol Tipo 05                                           B             25.00                 1                50           1075.00
+P0163   Detergente Sol Tipo 01                                   L             32.00                 2                60           1593.60
+P0164   Jabon Pacifico Tipo 25                                   H              5.00                 2                60            249.00
+P0165   Barra Energetica Misti Tipo 11                           S             25.00                 1                25            512.50
+P0166   Salsa de Tomate Sierra Tipo 03                           C             40.00                 2                62           2028.00
+P0167   Papel A4 Inti Tipo 11                                    O             42.00                 1                50           1869.00
+P0168   Alimento Perro Central Tipo 23                           M             13.00                 2                70            756.60
+P0169   Arroz Sol Tipo 25                                        A             47.00                 2                98           4240.34
+P0170   Bebida Isotonica Pacifico Tipo 07                        B             39.00                 1                48           1740.96
+P0171   Detergente Sierra Tipo 24                                L             30.00                 1                10            270.00
+P0172   Alcohol Gel Amazonia Tipo 10                             H              7.55                 2               148           1054.89
+P0173   Barra Energetica Inti Tipo 11                            S             50.00                 1                25           1050.00
+P0174   Leche Evaporada Costa Tipo 22                            C             51.00                 1               100           4488.00
+P0175   Lapicero Inti Tipo 02                                    O              7.00                 1                10             59.50
+P0176   Alimento Perro Andes Tipo 24                             M             51.00                 1                50           2346.00
+P0177   Fideo Sol Tipo 14                                        A             67.00                 2                58           3412.98
+P0178   Bebida Isotonica Andes Tipo 25                           B              9.00                 1                50            382.50
+P0179   Desinfectante Amazonia Tipo 17                           L              2.00                 2                30             52.00
+P0180   Alcohol Gel Inti Tipo 20                                 H             64.00                 2                68           4055.04
+P0181   Galletas Andes Tipo 14                                   S             29.00                 2               110           2879.70
+P0182   Maiz Dulce Norte Tipo 25                                 C             15.00                 1                24            331.20
+P0183   Folder Inti Tipo 02                                      O             52.00                 1                50           2522.00
+P0184   Snack Canino Pacifico Tipo 14                            M              8.00                 1               100            768.00
+P0185   Azucar Valle Tipo 02                                     A              5.00                 1                12             50.40
+P0186   Te Central Tipo 11                                       B             30.00                 1                12            316.80
+P0187   Desinfectante Inti Tipo 10                               L             42.00                 1               100           3906.00
+P0188   Papel Higienico Inti Tipo 02                             H             60.00                 2                34           1833.60
+P0189   Barra Energetica Costa Tipo 23                           S             37.00                 1                48           1669.44
+P0190   Atun Andes Tipo 06                                       C             26.00                 1                12            258.96
+P0191   Lapicero Andes Tipo 05                                   O             62.00                 1                10            533.20
+P0192   Alimento Perro Costa Tipo 13                             M              9.00                 2               125            942.75
+P0193   Avena Kantu Tipo 22                                      A             66.00                 2               124           6972.24
+P0194   Bebida Isotonica Inti Tipo 08                            B             59.41                 2                70           3546.78
+P0195   Detergente Misti Tipo 04                                 L             56.00                 2                72           3561.60
+P0196   Alcohol Gel Andes Tipo 03                                H             26.00                 1                25            617.50
+P0197   Galletas Central Tipo 07                                 S              8.00                 2               148           1061.44
+P0198   Leche Evaporada Sierra Tipo 25                           C              4.00                 2               124            412.64
+P0199   Cinta Adhesiva Kantu Tipo 15                             O             48.00                 1                50           2208.00
+P0200   Alimento Gato Pacifico Tipo 09                           M             35.00                 0                 0              0.00
+P0201   Fideo Costa Tipo 02                                      A             38.00                 1               100           3382.00
+P0202   Agua Norte Tipo 01                                       B             12.00                 2                32            347.04
+P0203   Detergente Costa Tipo 25                                 L             55.00                 1               100           4895.00
+P0204   Shampoo Norte Tipo 16                                    H              1.00                 2                62             50.30
+P0205   Caramelo Costa Tipo 09                                   S              3.00                 1                50            135.00
+P0206   Atun Kantu Tipo 17                                       C              4.00                 2               150            530.00
+P0207   Cinta Adhesiva Valle Tipo 20                             O             12.00                 2               120           1216.80
+P0208   Alimento Perro Valle Tipo 22                             M             38.00                 2               148           4930.88
+P0209   Cafe Pacifico Tipo 23                                    A             53.70                 2                49           2317.69
+P0210   Bebida Isotonica Misti Tipo 21                           B             56.00                 1                25           1358.00
+P0211   Suavizante Sierra Tipo 08                                L             53.00                 1                10            450.50
+P0212   Shampoo Sierra Tipo 13                                   H              6.00                 1                20             99.60
+P0213   Barra Energetica Andes Tipo 21                           S             32.00                 1                20            544.00
+P0214   Salsa de Tomate Kantu Tipo 22                            C             20.00                 2                98           1704.40
+------------------------------------------------------------------------------------------------------------------------------------------------------
+RESUMEN GENERAL:
+PRODUCTOS TIPO A: 27
+PRODUCTOS TIPO B: 27
+PRODUCTOS TIPO C: 27
+PRODUCTOS TIPO H: 27
+PRODUCTOS TIPO L: 27
+PRODUCTOS TIPO M: 26
+PRODUCTOS TIPO O: 26
+PRODUCTOS TIPO S: 27
+PRODUCTOS SIN EMPAQUES: 10
+TOTAL DE EMPAQUES ACTIVOS: 318
+TOTAL DE UNIDADES ACUMULADAS: 12501
+VALOR TOTAL DEL CATALOGO (S/): 382604.97
+======================================================================================================================================================

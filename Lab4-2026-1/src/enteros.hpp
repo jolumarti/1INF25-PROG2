@@ -4,5 +4,5 @@
 
 #ifndef LAB4_2026_1_ENTEROS_HPP
 #define LAB4_2026_1_ENTEROS_HPP
-
+#include "helpers.hpp"
 #endif //LAB4_2026_1_ENTEROS_HPP

@@ -1,8 +1,4 @@
-//
-// Created by jolumarti on 2026-09-03.
-//
-
-#include "aux.hpp"
+#include "helpers.hpp"
 
 void open_in_file(ifstream &input, const char *file_name) {
     input.open(file_name, ios::in);
@@ -26,7 +22,7 @@ char *read_line(ifstream &input, char deli) {
     input.getline(buffer, MAX_BUFFER, deli);
     int len = strlen(buffer);
     char *p = new char[len + 1]{};
-    if (buffer[len - 1] == '\r') buffer[len - 1] = '\0'; // remove \r if present recheck on unbut
+    if (len > 0 && buffer[len - 1] == '\r') buffer[len - 1] = '\0';
     strcpy(p, buffer);
     return p;
 }

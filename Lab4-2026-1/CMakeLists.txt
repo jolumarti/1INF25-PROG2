@@ -5,8 +5,8 @@ set(CMAKE_CXX_STANDARD 20)
 
 add_executable(Lab4_2026_1 main.cpp
         src/utils.hpp
-        src/aux.cpp
-        src/aux.hpp
+        src/helpers.cpp
+        src/helpers.hpp
         src/genericos.cpp
         src/genericos.hpp
         src/registros.cpp

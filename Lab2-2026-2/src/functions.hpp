@@ -4,7 +4,7 @@
 
 #ifndef LAB2_2026_2_FUNCTIONS_HPP
 #define LAB2_2026_2_FUNCTIONS_HPP
-#include "aux.hpp"
+#include "helpers.hpp"
 
 void cargarVentas(const char *file_name, char ***&ventas);
 void cargarDetallesDeVentas(const char *file_name, char ***ventas,

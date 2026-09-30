@@ -9,4 +9,6 @@ void procesarArreglo(void **array, bool (*read_fun)(ifstream &, void *&), const 
 void generaLista(void *&list);
 void insertarLista(void *list, void *data);
 void crearLista(void **array, void *&list, int (*cmp) (const void *,const void *));
+void fusionaListas(void *list1, void *list2, int (*cmp)(const void *, const void *));
+void imprimeLista(void *list, void (*print_fun)(ofstream &, void **), const char* file_name);
 #endif //LAB4_2026_1_GENERICOS_HPP

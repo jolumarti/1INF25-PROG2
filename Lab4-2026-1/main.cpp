@@ -8,10 +8,10 @@ int main() {
     void*lista1,*lista2;
     procesarArreglo(arreglo1,leenum,"../data/numeros1.txt");
     crearLista(arreglo1,lista1,comparanum);
-    procesarArreglo(arreglo2,leenum," ../data/numeros2.txt");
+    procesarArreglo(arreglo2,leenum,"../data/numeros2.txt");
     crearLista(arreglo2,lista2,comparanum);
-    // fusionaListas(lista1,lista2,verificanum);
-    // imprimeLista(lista1,imprimenum," ../dist/Repnum.txt");
+    fusionaListas(lista1,lista2,comparanum);
+    imprimeLista(lista1,imprimenum," ../dist/Repnum.txt");
     // procesaArreglo(arreglo1,leeregistro," ../data/Atenciones1.csv");
     // creaLista(arreglo1,lista1,comparareg);
     // procesaArreglo(arreglo2,leeregistro," ../data/Atenciones2.csv");

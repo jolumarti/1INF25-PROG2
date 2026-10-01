@@ -14,7 +14,7 @@
 
 enum dataLista {HEAD, SIZE};
 enum dataNode {DATA, NEXT};
-enum dataAtencion {ID, DATE, TYPE, TIME, STATUS, NAME, COLOR, SPECIE};
+enum dataRegistro { COD, FECHA, TIPO, HORA, ESTADO, NOMBRE, RAZA, COLOR, ESPECIE};
 
 using namespace std;
 #endif //LAB2_2025_2_UTILS_HPP

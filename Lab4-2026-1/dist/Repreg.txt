@@ -1,0 +1,39 @@
+       20250407           1100            101           Luna       Labrador          Negro
+       20250407            930            108       Axl Rose        Canario       Amarillo
+       20250417           1100            101           Luna       Labrador          Negro
+       20250417            930            108       Axl Rose        Canario       Amarillo
+       20251003           1230            103          Rocky        Bulldog         Marron
+       20251013           1230            103          Rocky        Bulldog         Marron
+       20251021           1000            126        Pimpona      Agapornis         Lutino
+       20251103            930            126        Pimpona      Agapornis         Lutino
+       20251112            930            126        Pimpona      Agapornis         Lutino
+       20251220           1230            109           Dali      Americano         Blanco
+       20251220            930            125   Debbie Harry        CanarioAmarillo Mosaico
+       20251220           1230            109           Dali      Americano         Blanco
+       20251222            930            125   Debbie Harry        CanarioAmarillo Mosaico
+       20260117           1530            108       Axl Rose        Canario       Amarillo
+       20260211           1230            107            Max   PastorAleman          Negro
+       20260220           1430            109           Dali      Americano         Blanco
+       20260312           1330            109           Dali      Americano         Blanco
+       20260321           1000            102          Fenix          Ninfa         Lutino
+       20260402           1030            103          Rocky        Bulldog         Marron
+       20260408           1000            101           Luna       Labrador          Negro
+       20260408           1030            103          Rocky        Bulldog         Marron
+       20260408           1030            104           Nala          Persa           Gris
+       20260408           1300            111          Slash        Canario     Agata Rojo
+       20260409           1100            105           Toby         Beagle       Tricolor
+       20260409           1130            106          Simba          Comun        Naranja
+       20260410           1000            102          Fenix          Ninfa         Lutino
+       20260410           1230            120   Jon Bon Jovi        CanarioAmarillo Mosaico
+       20260411           1230            107            Max   PastorAleman          Negro
+       20260414            930            112           GokuGoldenRetriever         Marron
+       20260414           1230            120   Jon Bon Jovi        CanarioAmarillo Mosaico
+       20260415           1130            110         LuisXV      Siberiano          plomo
+       20260418           1330            111          Slash        Canario     Agata Rojo
+       20260418           1000            101           Luna       Labrador          Negro
+       20260418           1030            104           Nala          Persa           Gris
+       20260419           1100            105           Toby         Beagle       Tricolor
+       20260419           1130            106          Simba          Comun        Naranja
+       20260420           1000            102          Fenix          Ninfa         Lutino
+       20260425           1030            110         LuisXV      Siberiano          plomo
+       20260514           1130            112           GokuGoldenRetriever         Marron

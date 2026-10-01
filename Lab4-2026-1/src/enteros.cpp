@@ -19,6 +19,9 @@ int comparanum (const void *data1, const void *data2) {
     int *num2 = (int*) reg2[DATA];
     return *num1 - *num2;
 }
-void imprimenum(ofstream &file, void **data) {
-    file << *(int*)data[DATA] << endl;
+void imprimenum(ofstream &file, void **node) {
+    while (node) {
+        file << *(int*)node[DATA] << endl;
+        node = (void **)node[NEXT];
+    }
 }

@@ -12,6 +12,21 @@ void procesarArreglo(void **array, bool (*read_fun)(ifstream &, void *&), const 
         array[i++] = data;
     }
 }
+void push(void *list, void *node) {
+    void **aux_node = (void **)node;
+    void **aux_list= (void **)list;
+    int *size = (int *)aux_list[SIZE];
+    aux_node[NEXT] = aux_list[HEAD];
+    aux_list[HEAD] = aux_node;
+    *size++;
+}
+void *pop(void *list) {
+    void **aux_list = (void **)list;
+    void **head = (void **)aux_list[HEAD];
+    if (!head) return nullptr;
+    aux_list[HEAD] = head[NEXT];
+
+}
 void generaLista(void *&list) {
     void **aux = new void*[2];
     aux[HEAD] = nullptr;
@@ -19,20 +34,16 @@ void generaLista(void *&list) {
     list = aux;
 }
 void insertarLista(void *list, void *data) {
-    void **aux_list = (void**) list;
-    void **new_node = new void*[2];
-    new_node[DATA] = data;
-    new_node[NEXT] = aux_list[HEAD];
-    aux_list[HEAD] = new_node;
-    (*(int *)aux_list[SIZE])++;
+    void **node = new void*[2]{};
+    node[DATA] = data;
+    push(list, node);
 }
 void crearLista(void **array, void *&list, int (*cmp) (const void *, const void *)) {
     int num = 0;
     for (; array[num]; num++);
     qsort(array, num, sizeof(void *), cmp);
     generaLista(list);
-    for (int i = num-1; i<0; i--) {
-        cout << i << endl;
+    for (int i = num-1; i>=0; i--) {
         insertarLista(list, array[i]);
     }
 }
@@ -48,7 +59,7 @@ void fusionaListas(void *list1, void *list2, int (*cmp)(const void *, const void
     *size1 = 0;
     while (cur1 && cur2) {
         void **selected;
-        if (cmp(cur1[DATA], cur2[DATA]) <= 0) {
+        if (cmp(cur1, cur2) <= 0) {
             selected = cur1;
             cur1 = (void **)cur1[NEXT];
         }else {
@@ -69,13 +80,12 @@ void fusionaListas(void *list1, void *list2, int (*cmp)(const void *, const void
     *(int *)aux2[SIZE] = 0;
 }
 
+
+
 void imprimeLista(void *list, void (*print_fun)(ofstream &, void **), const char* file_name) {
     ofstream file;
     open_out_file(file, file_name);
     void **aux = (void **)list;
     void **cur = (void **)aux[HEAD];
-    while (cur) {
-        print_fun(file, cur);
-        cur = (void **)cur[NEXT];
-    }
+    print_fun(file, cur);
 }

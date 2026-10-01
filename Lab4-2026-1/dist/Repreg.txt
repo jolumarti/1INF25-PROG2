@@ -1,39 +1,41 @@
-       20250407           1100            101           Luna       Labrador          Negro
-       20250407            930            108       Axl Rose        Canario       Amarillo
-       20250417           1100            101           Luna       Labrador          Negro
-       20250417            930            108       Axl Rose        Canario       Amarillo
-       20251003           1230            103          Rocky        Bulldog         Marron
-       20251013           1230            103          Rocky        Bulldog         Marron
-       20251021           1000            126        Pimpona      Agapornis         Lutino
-       20251103            930            126        Pimpona      Agapornis         Lutino
-       20251112            930            126        Pimpona      Agapornis         Lutino
-       20251220           1230            109           Dali      Americano         Blanco
-       20251220            930            125   Debbie Harry        CanarioAmarillo Mosaico
-       20251220           1230            109           Dali      Americano         Blanco
-       20251222            930            125   Debbie Harry        CanarioAmarillo Mosaico
-       20260117           1530            108       Axl Rose        Canario       Amarillo
-       20260211           1230            107            Max   PastorAleman          Negro
-       20260220           1430            109           Dali      Americano         Blanco
-       20260312           1330            109           Dali      Americano         Blanco
-       20260321           1000            102          Fenix          Ninfa         Lutino
-       20260402           1030            103          Rocky        Bulldog         Marron
-       20260408           1000            101           Luna       Labrador          Negro
-       20260408           1030            103          Rocky        Bulldog         Marron
-       20260408           1030            104           Nala          Persa           Gris
-       20260408           1300            111          Slash        Canario     Agata Rojo
-       20260409           1100            105           Toby         Beagle       Tricolor
-       20260409           1130            106          Simba          Comun        Naranja
-       20260410           1000            102          Fenix          Ninfa         Lutino
-       20260410           1230            120   Jon Bon Jovi        CanarioAmarillo Mosaico
-       20260411           1230            107            Max   PastorAleman          Negro
-       20260414            930            112           GokuGoldenRetriever         Marron
-       20260414           1230            120   Jon Bon Jovi        CanarioAmarillo Mosaico
-       20260415           1130            110         LuisXV      Siberiano          plomo
-       20260418           1330            111          Slash        Canario     Agata Rojo
-       20260418           1000            101           Luna       Labrador          Negro
-       20260418           1030            104           Nala          Persa           Gris
-       20260419           1100            105           Toby         Beagle       Tricolor
-       20260419           1130            106          Simba          Comun        Naranja
-       20260420           1000            102          Fenix          Ninfa         Lutino
-       20260425           1030            110         LuisXV      Siberiano          plomo
-       20260514           1130            112           GokuGoldenRetriever         Marron
+FEACHA          HORA    CODIGO     NOMBRE         RAZA                 COLOR
+==========================================================================================
+2025/04/07      09:30    108       Axl Rose       Canario              Amarillo       
+2025/04/07      11:00    101       Luna           Labrador             Negro          
+2025/04/17      09:30    108       Axl Rose       Canario              Amarillo       
+2025/04/17      11:00    101       Luna           Labrador             Negro          
+2025/10/03      12:30    103       Rocky          Bulldog              Marron         
+2025/10/13      12:30    103       Rocky          Bulldog              Marron         
+2025/10/21      10:00    126       Pimpona        Agapornis            Lutino         
+2025/11/03      09:30    126       Pimpona        Agapornis            Lutino         
+2025/11/12      09:30    126       Pimpona        Agapornis            Lutino         
+2025/12/20      09:30    125       Debbie Harry   Canario              Amarillo Mosaico
+2025/12/20      12:30    109       Dali           Americano            Blanco         
+2025/12/20      12:30    109       Dali           Americano            Blanco         
+2025/12/22      09:30    125       Debbie Harry   Canario              Amarillo Mosaico
+2026/01/17      15:30    108       Axl Rose       Canario              Amarillo       
+2026/02/11      12:30    107       Max            PastorAleman         Negro          
+2026/02/20      14:30    109       Dali           Americano            Blanco         
+2026/03/12      13:30    109       Dali           Americano            Blanco         
+2026/03/21      10:00    102       Fenix          Ninfa                Lutino         
+2026/04/02      10:30    103       Rocky          Bulldog              Marron         
+2026/04/08      10:00    101       Luna           Labrador             Negro          
+2026/04/08      10:30    103       Rocky          Bulldog              Marron         
+2026/04/08      10:30    104       Nala           Persa                Gris           
+2026/04/08      13:00    111       Slash          Canario              Agata Rojo     
+2026/04/09      11:00    105       Toby           Beagle               Tricolor       
+2026/04/09      11:30    106       Simba          Comun                Naranja        
+2026/04/10      10:00    102       Fenix          Ninfa                Lutino         
+2026/04/10      12:30    120       Jon Bon Jovi   Canario              Amarillo Mosaico
+2026/04/11      12:30    107       Max            PastorAleman         Negro          
+2026/04/14      09:30    112       Goku           GoldenRetriever      Marron         
+2026/04/14      12:30    120       Jon Bon Jovi   Canario              Amarillo Mosaico
+2026/04/15      11:30    110       LuisXV         Siberiano            plomo          
+2026/04/18      10:00    101       Luna           Labrador             Negro          
+2026/04/18      10:30    104       Nala           Persa                Gris           
+2026/04/18      13:30    111       Slash          Canario              Agata Rojo     
+2026/04/19      11:00    105       Toby           Beagle               Tricolor       
+2026/04/19      11:30    106       Simba          Comun                Naranja        
+2026/04/20      10:00    102       Fenix          Ninfa                Lutino         
+2026/04/25      10:30    110       LuisXV         Siberiano            plomo          
+2026/05/14      11:30    112       Goku           GoldenRetriever      Marron         

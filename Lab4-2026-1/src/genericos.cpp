@@ -25,7 +25,8 @@ void *pop(void *list) {
     void **head = (void **)aux_list[HEAD];
     if (!head) return nullptr;
     aux_list[HEAD] = head[NEXT];
-
+    head[NEXT] = nullptr;
+    return head;
 }
 void generaLista(void *&list) {
     void **aux = new void*[2];
@@ -53,10 +54,8 @@ void fusionaListas(void *list1, void *list2, int (*cmp)(const void *, const void
     void **aux2 = (void **)list2;
     void **cur1 = (void **)aux1[HEAD];
     void **cur2 = (void **)aux2[HEAD];
-    int *size1 = (int *)aux1[SIZE];
     void *new_head = nullptr;
     void **tail = nullptr;
-    *size1 = 0;
     while (cur1 && cur2) {
         void **selected;
         if (cmp(cur1, cur2) <= 0) {
@@ -69,7 +68,6 @@ void fusionaListas(void *list1, void *list2, int (*cmp)(const void *, const void
         if (new_head == nullptr) new_head = selected; // primer nodo, reemplaza la cabeza
         else tail[NEXT] = selected; // actualizo el ultimo
         tail = selected;
-        (*size1)++;
     }
     if (cur1) tail[NEXT] = cur1;
     if (cur2) tail[NEXT] = cur2;

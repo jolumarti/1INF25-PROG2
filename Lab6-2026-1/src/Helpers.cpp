@@ -31,7 +31,7 @@ char * Helpers::read_line(ifstream &input, char deli) {
     return p;
 }
 
-void Helpers::print_filled_line(ofstream &output, char deli) {
+void Helpers::print_filled_line(ostream &output, char deli) {
     output << setw(LINE_SIZE) << setfill(deli) << deli << setfill(' ') << endl;
 }
 

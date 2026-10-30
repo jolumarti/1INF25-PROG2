@@ -9,10 +9,37 @@
 class Mascota {
 private:
     int codigo;
-    char * nombre;
     char tipo;
+
+    char *nombre;
     char *raza;
 
+public:
+    Mascota();
+    ~Mascota();
+
+
+    int get_codigo() const;
+
+    void set_codigo(const int codigo);
+
+    char get_tipo() const;
+
+    void set_tipo(const char tipo);
+
+
+    void get_nombre(char *nombre) const;
+
+    void set_nombre(const char *nombre);
+
+
+    void get_raza(char *raza) const;
+
+    void set_raza(const char *raza);
+
+    void read(istream &i);
+    void print(ostream &o) const;
+    void copy(const Mascota &other);
 };
 
 

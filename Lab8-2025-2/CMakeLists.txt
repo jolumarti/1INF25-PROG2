@@ -14,7 +14,9 @@ add_executable(Lab8_2025_2 main.cpp
         src/model/MetricaEngagement.hpp
         src/model/MetricaCalidad.cpp
         src/model/MetricaCalidad.hpp
-        src/model/Nodo.cpp
-        src/model/Nodo.hpp
-        src/model/Lista.cpp
-        src/model/Lista.hpp)
+        src/model/Node.cpp
+        src/model/Node.hpp
+        src/model/List.cpp
+        src/model/List.hpp
+        src/model/AdministrarMetricas.cpp
+        src/model/AdministrarMetricas.hpp)

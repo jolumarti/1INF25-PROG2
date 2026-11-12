@@ -20,5 +20,13 @@ void MetricaCalidad::leer(ifstream &file) {
 }
 
 void MetricaCalidad::imprimir(ofstream &file) const {
+    file << "MQ-";
     Metrica::imprimir(file);
+    file << setw(12) << bitrate_promedio_kbps <<
+    setw(12) << porcentaje_frames_perdidos <<
+    setw(12) << fps_promedio << endl;
+}
+
+MetricaType MetricaCalidad::getType() const {
+    return CALIDAD;
 }

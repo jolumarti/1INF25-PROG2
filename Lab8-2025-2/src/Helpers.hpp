@@ -10,7 +10,7 @@
 #define L_BUFFER 128
 #define XL_BUFFER 256
 #define INCREMENT 5
-#define LINE_SIZE 180
+#define LINE_SIZE 105
 #define NOT_FOUND -1
 #include <iostream>
 #include <iomanip>
@@ -23,9 +23,9 @@ using namespace std;
 
 class Helpers {
 public:
-    static void open_ifstream(ifstream &input, const char *filename);
+    static void open_if(ifstream &input, const string &filename);
 
-    static void open_ofstream(ofstream &output, const char *filename);
+    static void open_of(ofstream &output,  const string &filename);
 
     static void print_filled_line(ostream &output, char deli);
 

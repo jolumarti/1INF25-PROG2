@@ -4,7 +4,7 @@
 
 #include "Helpers.hpp"
 
-void Helpers::open_ifstream(ifstream &input, const char *filename) {
+void Helpers::open_if(ifstream &input,  const string &filename){
     input.open(filename, ios::in);
     if (!input.is_open()) {
         cout << "El archivo no se pudo abrir: " << filename << endl;
@@ -12,7 +12,7 @@ void Helpers::open_ifstream(ifstream &input, const char *filename) {
     }
 }
 
-void Helpers::open_ofstream(ofstream &output, const char *filename) {
+void Helpers::open_of(ofstream &output, const string &filename){
     output.open(filename, ios::out);
     if (!output.is_open()) {
         cout << "El archivo no se pudo abrir: " << filename << endl;

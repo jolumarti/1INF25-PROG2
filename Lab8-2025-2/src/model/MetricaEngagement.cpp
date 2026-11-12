@@ -20,5 +20,14 @@ void MetricaEngagement::leer(ifstream &file) {
 }
 
 void MetricaEngagement::imprimir(ofstream &file) const {
+    file << "ME-";
     Metrica::imprimir(file);
+    file << setw(12) << mensajes_chat <<
+        setw(12) << usuarios_unicos_chat <<
+        setw(12) << clips_generados << endl;
+
+}
+
+MetricaType MetricaEngagement::getType() const {
+    return ENGAGEMENT;
 }

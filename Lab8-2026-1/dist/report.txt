@@ -1,0 +1,19 @@
+================================================================================================================================================================
+                                                               REPORTE DE ATENCIONES PRIORIZADAS
+                                                                  FECHA: 23-01-1990   HORA: 10
+================================================================================================================================================================
+EMERGENCIAS: 
+ PRIORIDAD    CODIGO            PACIENTE                                                 DESCRIPCION       RCP?    NO PULSO         OBSERVACION
+     13067      3067     Claudia Benites                                          Shock Anafilactico        NO         0       Nivel: CRITICO (0 min)
+     13070      3070       Berna Montoya  Trabajo de Parto Complicado - Nacimiento Erasmo G. Montoya        NO         0       Nivel: CRITICO (0 min)
+================================================================================================================================================================
+URGENCIAS: 
+ PRIORIDAD    CODIGO            PACIENTE                                                 DESCRIPCION          ZONA LESION       RX?              OBSERVACION
+     23064      3064        Gonzalo Poma                                            Esguince Tobillo        Espalda Baja        NO           Tiempo max: 30 min
+     23065      3065       Teresa Molina                                              Fractura Brazo              Cabeza        NO           Tiempo max: 30 min
+     23068      3068        Ricardo Leon                                            Esguince Tobillo        Espalda Baja        SI           Tiempo max: 30 min
+     23066      3066        Pedro Huaman                                         Torcedura de Muneca                Mano        SI           Tiempo max: 30 min
+================================================================================================================================================================
+NO URGENCIAS: 
+ PRIORIDAD    CODIGO            PACIENTE                                                 DESCRIPCION        ESPECIALIDAD             PROGRAMADA?
+     33069      3069      Victor Caceres                                          Control de Presion        Oftalmologia                  NO

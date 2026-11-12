@@ -19,5 +19,12 @@ void MetricaBasica::leer(ifstream &file) {
 }
 
 void MetricaBasica::imprimir(ofstream &file) const {
+    file << "MB-";
     Metrica::imprimir(file);
+    file << setw(12) << horas_transmitidas <<
+            setw(12) << espectadores_promedio << endl;
+}
+
+MetricaType MetricaBasica::getType() const {
+    return BASICA;
 }

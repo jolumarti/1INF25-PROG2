@@ -4,6 +4,10 @@
 
 #include "Metrica.hpp"
 
+
+Metrica::~Metrica() {
+}
+
 void Metrica::copy(Metrica &other) {
     id = other.id;
     descripcion = other.descripcion;
@@ -14,20 +18,29 @@ void Metrica::copy(Metrica &other) {
 
 void Metrica::leer(ifstream &file) {
     char c;
-    int dd, mm, yy;
-    file >> id >> c;
+    int dd, mm, yy, streamId;
+    file >> streamId >> c >> id >> c;
     getline(file, descripcion, ',');
     file >> yy >> c >> mm >> c >> dd >> c;
     fecha_calculo = Helpers::date_to_int(dd, mm, yy);
     file >> yy >> c >> mm >> c >> dd >> c;
     fecha_expiracion = Helpers::date_to_int(dd, mm, yy);
-    estado = (fecha_expiracion < 20260101);
+    estado = (fecha_expiracion >= 20251114);
 }
 
 void Metrica::imprimir(ofstream &file) const {
-    file << id <<
-        setw(10) << descripcion<<
-        setw(10) << fecha_calculo <<
-            setw(10) << fecha_expiracion <<
-                setw(10) << (estado ? "Activo" : "Inactivo") << endl;
+    file <<  setfill('0') << setw(4) << id<< setfill(' ') << "  " << left <<
+            setw(22) << descripcion << right <<
+            setw(12) << fecha_calculo <<
+            setw(12) << fecha_expiracion <<
+            setw(12) << (estado ? "Activo" : "Inactivo");
+}
+
+bool Metrica::compare(Metrica *other) {
+    return (getType() > other->getType() ||
+            (getType() == other->getType() && descripcion > other->descripcion));
+}
+
+bool Metrica::getEstado() const {
+    return estado;
 }

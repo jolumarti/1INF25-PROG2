@@ -18,6 +18,7 @@ public:
     void leer(ifstream &file);
 
     void imprimir(ofstream &file) const;
+    MetricaType getType() const override;
 };
 
 
